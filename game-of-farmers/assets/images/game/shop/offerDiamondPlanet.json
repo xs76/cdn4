@@ -1,0 +1,544 @@
+﻿{
+	"frames": {
+		"offerDiamondPlanet0000": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0001": {
+			"frame": {
+				"x": 61,
+				"y": 0,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0002": {
+			"frame": {
+				"x": 122,
+				"y": 0,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0003": {
+			"frame": {
+				"x": 183,
+				"y": 0,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0004": {
+			"frame": {
+				"x": 0,
+				"y": 68,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0005": {
+			"frame": {
+				"x": 61,
+				"y": 68,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0006": {
+			"frame": {
+				"x": 122,
+				"y": 68,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0007": {
+			"frame": {
+				"x": 183,
+				"y": 68,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0008": {
+			"frame": {
+				"x": 0,
+				"y": 136,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0009": {
+			"frame": {
+				"x": 61,
+				"y": 136,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0010": {
+			"frame": {
+				"x": 122,
+				"y": 136,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0011": {
+			"frame": {
+				"x": 183,
+				"y": 136,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0012": {
+			"frame": {
+				"x": 0,
+				"y": 204,
+				"w": 62,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0013": {
+			"frame": {
+				"x": 62,
+				"y": 204,
+				"w": 63,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0014": {
+			"frame": {
+				"x": 125,
+				"y": 204,
+				"w": 64,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0015": {
+			"frame": {
+				"x": 189,
+				"y": 204,
+				"w": 63,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 1,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0016": {
+			"frame": {
+				"x": 0,
+				"y": 272,
+				"w": 62,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0017": {
+			"frame": {
+				"x": 62,
+				"y": 272,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0018": {
+			"frame": {
+				"x": 123,
+				"y": 272,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0019": {
+			"frame": {
+				"x": 184,
+				"y": 272,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0020": {
+			"frame": {
+				"x": 0,
+				"y": 340,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0021": {
+			"frame": {
+				"x": 61,
+				"y": 340,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0022": {
+			"frame": {
+				"x": 122,
+				"y": 340,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0023": {
+			"frame": {
+				"x": 183,
+				"y": 340,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0024": {
+			"frame": {
+				"x": 0,
+				"y": 408,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0025": {
+			"frame": {
+				"x": 61,
+				"y": 408,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		},
+		"offerDiamondPlanet0026": {
+			"frame": {
+				"x": 122,
+				"y": 408,
+				"w": 61,
+				"h": 68
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 0,
+				"w": 64,
+				"h": 68
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 68
+			}
+		}
+	}
+}

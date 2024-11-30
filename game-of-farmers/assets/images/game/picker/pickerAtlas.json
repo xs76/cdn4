@@ -1,0 +1,264 @@
+{
+	"frames": {
+		"coinPickerCoin": {
+			"frame": {
+				"x": 178,
+				"y": 208,
+				"w": 28,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 28,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 28,
+				"h": 28
+			}
+		},
+		"diamondPickerDiamond": {
+			"frame": {
+				"x": 101,
+				"y": 209,
+				"w": 28,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 28,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 28,
+				"h": 27
+			}
+		},
+		"levelPickerBadge": {
+			"frame": {
+				"x": 131,
+				"y": 209,
+				"w": 27,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 27,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 27,
+				"h": 28
+			}
+		},
+		"seedPickerSeed": {
+			"frame": {
+				"x": 178,
+				"y": 136,
+				"w": 37,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 37,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 37,
+				"h": 70
+			}
+		},
+		"unitPickerCarrot": {
+			"frame": {
+				"x": 72,
+				"y": 177,
+				"w": 27,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 27,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 27,
+				"h": 57
+			}
+		},
+		"unitPickerCow": {
+			"frame": {
+				"x": 1,
+				"y": 99,
+				"w": 103,
+				"h": 76
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 103,
+				"h": 76
+			},
+			"sourceSize": {
+				"w": 103,
+				"h": 76
+			}
+		},
+		"unitPickerDonkey": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 92,
+				"h": 96
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 92,
+				"h": 96
+			},
+			"sourceSize": {
+				"w": 92,
+				"h": 96
+			}
+		},
+		"unitPickerEggplant": {
+			"frame": {
+				"x": 106,
+				"y": 67,
+				"w": 57,
+				"h": 72
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 72
+			}
+		},
+		"unitPickerPig": {
+			"frame": {
+				"x": 106,
+				"y": 141,
+				"w": 70,
+				"h": 66
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 70,
+				"h": 66
+			},
+			"sourceSize": {
+				"w": 70,
+				"h": 66
+			}
+		},
+		"unitPickerPumpkin": {
+			"frame": {
+				"x": 175,
+				"y": 1,
+				"w": 51,
+				"h": 48
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 51,
+				"h": 48
+			},
+			"sourceSize": {
+				"w": 51,
+				"h": 48
+			}
+		},
+		"unitPickerSheep": {
+			"frame": {
+				"x": 95,
+				"y": 1,
+				"w": 78,
+				"h": 64
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 78,
+				"h": 64
+			},
+			"sourceSize": {
+				"w": 78,
+				"h": 64
+			}
+		},
+		"unitPickerStrawberry": {
+			"frame": {
+				"x": 1,
+				"y": 177,
+				"w": 69,
+				"h": 59
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 69,
+				"h": 59
+			},
+			"sourceSize": {
+				"w": 69,
+				"h": 59
+			}
+		},
+		"unitPickerSunflower": {
+			"frame": {
+				"x": 165,
+				"y": 67,
+				"w": 54,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 54,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 54,
+				"h": 67
+			}
+		}
+	}
+}

@@ -1,0 +1,64 @@
+﻿{
+	"frames": {
+		"infinityBar0000": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 65,
+				"h": 10
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 65,
+				"h": 10
+			},
+			"sourceSize": {
+				"w": 65,
+				"h": 10
+			}
+		},
+		"infinityBar0001": {
+			"frame": {
+				"x": 0,
+				"y": 10,
+				"w": 65,
+				"h": 10
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 65,
+				"h": 10
+			},
+			"sourceSize": {
+				"w": 65,
+				"h": 10
+			}
+		},
+		"infinityBar0002": {
+			"frame": {
+				"x": 0,
+				"y": 20,
+				"w": 65,
+				"h": 10
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 65,
+				"h": 10
+			},
+			"sourceSize": {
+				"w": 65,
+				"h": 10
+			}
+		}
+	}
+}

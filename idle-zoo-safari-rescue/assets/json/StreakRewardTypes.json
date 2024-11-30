@@ -1,0 +1,38 @@
+{
+  "RewardSizes": {
+    "day1": "Medium",
+    "day2": "Medium",
+    "day3": "Medium",
+    "day4": "Small",
+    "day5": "Small",
+    "day6": "Small",
+    "day7": "Big"
+  },
+  "Week1": {
+    "day1": "Gem",
+    "day2": "TimeSkip",
+    "day3": "Gem",
+    "day4": "SafariBall",
+    "day5": "Gem",
+    "day6": "TimeSkip",
+    "day7": "SafariBall"
+  },
+  "Week2": {
+    "day1": "Gem",
+    "day2": "TimeSkip",
+    "day3": "Gem",
+    "day4": "TimeSkip",
+    "day5": "Gem",
+    "day6": "SafariBall",
+    "day7": "SafariBall"
+  },
+  "Week3": {
+    "day1": "Gem",
+    "day2": "TimeSkip",
+    "day3": "Gem",
+    "day4": "TimeSkip",
+    "day5": "SafariBall",
+    "day6": "Gem",
+    "day7": "SafariBall"
+  }
+}

@@ -1,0 +1,44 @@
+﻿{
+	"frames": {
+		"decorHouseHouse0000": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 358,
+				"h": 324
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4,
+				"y": 36,
+				"w": 362,
+				"h": 369
+			},
+			"sourceSize": {
+				"w": 362,
+				"h": 369
+			}
+		},
+		"decorHouseHouse0001": {
+			"frame": {
+				"x": 0,
+				"y": 325,
+				"w": 346,
+				"h": 369
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 362,
+				"h": 369
+			},
+			"sourceSize": {
+				"w": 362,
+				"h": 369
+			}
+		}
+	}
+}

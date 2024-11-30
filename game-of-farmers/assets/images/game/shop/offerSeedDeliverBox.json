@@ -1,0 +1,604 @@
+﻿{
+	"frames": {
+		"offerSeedDeliverBox0000": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0001": {
+			"frame": {
+				"x": 62,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0002": {
+			"frame": {
+				"x": 124,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0003": {
+			"frame": {
+				"x": 186,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0004": {
+			"frame": {
+				"x": 0,
+				"y": 70,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0005": {
+			"frame": {
+				"x": 62,
+				"y": 70,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0006": {
+			"frame": {
+				"x": 124,
+				"y": 70,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0007": {
+			"frame": {
+				"x": 186,
+				"y": 70,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0008": {
+			"frame": {
+				"x": 0,
+				"y": 140,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0009": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0010": {
+			"frame": {
+				"x": 62,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0011": {
+			"frame": {
+				"x": 124,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0012": {
+			"frame": {
+				"x": 62,
+				"y": 140,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0013": {
+			"frame": {
+				"x": 124,
+				"y": 140,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0014": {
+			"frame": {
+				"x": 186,
+				"y": 140,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0015": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0016": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0017": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0018": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0019": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0020": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0021": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0022": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0023": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0024": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0025": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0026": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0027": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0028": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedDeliverBox0029": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		}
+	}
+}

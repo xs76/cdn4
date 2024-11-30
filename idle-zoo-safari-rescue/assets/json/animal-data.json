@@ -1,0 +1,104 @@
+{
+    "animalData": [
+        {
+            "id": 0,
+            "name": "bear",
+            "rarity": 2
+        },
+        {
+            "id": 1,
+            "name": "lion",
+            "rarity": 3
+        },
+        {
+            "id": 2,
+            "name": "parrot",
+            "rarity": 0
+        },
+        {
+            "id": 3,
+            "name": "camel",
+            "rarity": 2
+        },
+        {
+            "id": 4,
+            "name": "raccoon",
+            "rarity": 2
+        },
+        {
+            "id": 5,
+            "name": "flamingo",
+            "rarity": 1
+        },
+        {
+            "id": 6,
+            "name": "elephant",
+            "rarity": 0
+        },
+        {
+            "id": 7,
+            "name": "rabbit",
+            "rarity": 3
+        },
+        {
+            "id": 8,
+            "name": "giraffe",
+            "rarity": 2
+        },
+        {
+            "id": 9,
+            "name": "orangutan",
+            "rarity": 3
+        },
+        {
+            "id": 10,
+            "name": "frog",
+            "rarity": 0
+        },
+        {
+            "id": 11,
+            "name": "tiger",
+            "rarity": 1
+        },
+        {
+            "id": 12,
+            "name": "wolf",
+            "rarity": 1
+        },
+        {
+            "id": 13,
+            "name": "capybara",
+            "rarity": 0
+        },
+        {
+            "id": 14,
+            "name": "rhino",
+            "rarity": 0
+        },
+        {
+            "id": 15,
+            "name": "hippo",
+            "rarity": 1
+        },
+        {
+            "id": 16,
+            "name": "ringtailmonkey",
+            "rarity": 3
+        },
+        {
+            "id": 17,
+            "name": "axolotl",
+            "rarity": 3
+        },
+        {
+            "id": 18,
+            "name": "spider",
+            "rarity":4
+        },
+        {
+            "id": 19,
+            "name": "reindeer",
+            "rarity":4
+        }
+    ]
+}

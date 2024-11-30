@@ -1,0 +1,44 @@
+{
+	"frames": {
+		"ball": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 143,
+				"h": 260
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 143,
+				"h": 260
+			},
+			"sourceSize": {
+				"w": 143,
+				"h": 260
+			}
+		},
+		"bulb": {
+			"frame": {
+				"x": 143,
+				"y": 0,
+				"w": 72,
+				"h": 66
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 72,
+				"h": 66
+			},
+			"sourceSize": {
+				"w": 72,
+				"h": 66
+			}
+		}
+	}
+}

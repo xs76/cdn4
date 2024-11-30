@@ -1,0 +1,64 @@
+﻿{
+	"frames": {
+		"taskAimDesk0000": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 492,
+				"h": 115
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 492,
+				"h": 115
+			},
+			"sourceSize": {
+				"w": 492,
+				"h": 115
+			}
+		},
+		"taskAimDesk0001": {
+			"frame": {
+				"x": 0,
+				"y": 115,
+				"w": 492,
+				"h": 115
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 492,
+				"h": 115
+			},
+			"sourceSize": {
+				"w": 492,
+				"h": 115
+			}
+		},
+		"taskAimDesk0002": {
+			"frame": {
+				"x": 0,
+				"y": 230,
+				"w": 492,
+				"h": 115
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 492,
+				"h": 115
+			},
+			"sourceSize": {
+				"w": 492,
+				"h": 115
+			}
+		}
+	}
+}

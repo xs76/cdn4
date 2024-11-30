@@ -1,0 +1,32 @@
+[
+    {
+      "gemProduct": "safariBalls",
+      "amount": 1,
+      "type": "amount",
+      "price": 80
+    },
+    {
+      "gemProduct": "safariBalls",
+      "amount": 5,
+      "type": "amount",
+      "price": 320
+    },
+    {
+      "gemProduct": "timeSkip",
+      "amount": 4,
+      "type": "hours",
+      "price": 60
+    },
+    {
+      "gemProduct": "timeSkip",
+      "amount": 10,
+      "type": "hours",
+      "price": 120
+    },
+    {
+      "gemProduct": "timeSkip",
+      "amount": 24,
+      "type": "hours",
+      "price": 240
+    }
+  ]

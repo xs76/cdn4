@@ -1,0 +1,144 @@
+{
+	"frames": {
+		"ads": {
+			"frame": {
+				"x": 671,
+				"y": 1,
+				"w": 46,
+				"h": 53
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 46,
+				"h": 53
+			},
+			"sourceSize": {
+				"w": 46,
+				"h": 53
+			}
+		},
+		"box": {
+			"frame": {
+				"x": 1,
+				"y": 872,
+				"w": 363,
+				"h": 272
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 363,
+				"h": 272
+			},
+			"sourceSize": {
+				"w": 363,
+				"h": 272
+			}
+		},
+		"button": {
+			"frame": {
+				"x": 366,
+				"y": 1138,
+				"w": 265,
+				"h": 105
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 265,
+				"h": 105
+			},
+			"sourceSize": {
+				"w": 265,
+				"h": 105
+			}
+		},
+		"girlbg": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 668,
+				"h": 869
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 15,
+				"y": 18,
+				"w": 668,
+				"h": 869
+			},
+			"sourceSize": {
+				"w": 705,
+				"h": 887
+			}
+		},
+		"iconTime": {
+			"frame": {
+				"x": 633,
+				"y": 1138,
+				"w": 68,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 68,
+				"h": 69
+			},
+			"sourceSize": {
+				"w": 68,
+				"h": 69
+			}
+		},
+		"star": {
+			"frame": {
+				"x": 671,
+				"y": 56,
+				"w": 37,
+				"h": 37
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 37,
+				"h": 37
+			},
+			"sourceSize": {
+				"w": 37,
+				"h": 37
+			}
+		},
+		"time": {
+			"frame": {
+				"x": 366,
+				"y": 872,
+				"w": 363,
+				"h": 264
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 363,
+				"h": 264
+			},
+			"sourceSize": {
+				"w": 363,
+				"h": 264
+			}
+		}
+	}
+}

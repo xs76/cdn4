@@ -1,0 +1,46 @@
+{
+	"frames": [
+		{
+			"filename": "bubble",
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 496,
+				"h": 369
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 496,
+				"h": 369
+			},
+			"sourceSize": {
+				"w": 496,
+				"h": 369
+			}
+		},
+		{
+			"filename": "station",
+			"frame": {
+				"x": 499,
+				"y": 1,
+				"w": 195,
+				"h": 177
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 195,
+				"h": 177
+			},
+			"sourceSize": {
+				"w": 195,
+				"h": 177
+			}
+		}
+	]
+}

@@ -1,0 +1,184 @@
+{
+	"frames": {
+		"socialRewardBack": {
+			"frame": {
+				"x": 115,
+				"y": 927,
+				"w": 89,
+				"h": 90
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 89,
+				"h": 90
+			},
+			"sourceSize": {
+				"w": 89,
+				"h": 90
+			}
+		},
+		"socialRewardBear": {
+			"frame": {
+				"x": 206,
+				"y": 927,
+				"w": 89,
+				"h": 90
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 89,
+				"h": 90
+			},
+			"sourceSize": {
+				"w": 89,
+				"h": 90
+			}
+		},
+		"socialRewardBorder": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 513,
+				"h": 824
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 513,
+				"h": 824
+			},
+			"sourceSize": {
+				"w": 513,
+				"h": 824
+			}
+		},
+		"socialRewardButton": {
+			"frame": {
+				"x": 115,
+				"y": 827,
+				"w": 272,
+				"h": 98
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 272,
+				"h": 98
+			},
+			"sourceSize": {
+				"w": 272,
+				"h": 98
+			}
+		},
+		"socialRewardCat": {
+			"frame": {
+				"x": 297,
+				"y": 927,
+				"w": 89,
+				"h": 90
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 89,
+				"h": 90
+			},
+			"sourceSize": {
+				"w": 89,
+				"h": 90
+			}
+		},
+		"socialRewardDiamond": {
+			"frame": {
+				"x": 1,
+				"y": 942,
+				"w": 40,
+				"h": 38
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 40,
+				"h": 38
+			},
+			"sourceSize": {
+				"w": 40,
+				"h": 38
+			}
+		},
+		"socialRewardFox": {
+			"frame": {
+				"x": 388,
+				"y": 927,
+				"w": 89,
+				"h": 90
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 89,
+				"h": 90
+			},
+			"sourceSize": {
+				"w": 89,
+				"h": 90
+			}
+		},
+		"socialRewardStar": {
+			"frame": {
+				"x": 1,
+				"y": 982,
+				"w": 35,
+				"h": 35
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 35,
+				"h": 35
+			},
+			"sourceSize": {
+				"w": 35,
+				"h": 35
+			}
+		},
+		"socialRewardStroke": {
+			"frame": {
+				"x": 1,
+				"y": 827,
+				"w": 112,
+				"h": 113
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 112,
+				"h": 113
+			},
+			"sourceSize": {
+				"w": 112,
+				"h": 113
+			}
+		}
+	}
+}

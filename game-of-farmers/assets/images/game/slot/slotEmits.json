@@ -1,0 +1,124 @@
+{
+	"frames": {
+		"bag": {
+			"frame": {
+				"x": 0,
+				"y": 326,
+				"w": 295,
+				"h": 345
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 295,
+				"h": 345
+			},
+			"sourceSize": {
+				"w": 295,
+				"h": 345
+			}
+		},
+		"chest": {
+			"frame": {
+				"x": 525,
+				"y": 0,
+				"w": 366,
+				"h": 326
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 366,
+				"h": 326
+			},
+			"sourceSize": {
+				"w": 366,
+				"h": 326
+			}
+		},
+		"coin": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 235,
+				"h": 237
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 235,
+				"h": 237
+			},
+			"sourceSize": {
+				"w": 235,
+				"h": 237
+			}
+		},
+		"diamond": {
+			"frame": {
+				"x": 295,
+				"y": 326,
+				"w": 374,
+				"h": 353
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 374,
+				"h": 353
+			},
+			"sourceSize": {
+				"w": 374,
+				"h": 353
+			}
+		},
+		"energy": {
+			"frame": {
+				"x": 235,
+				"y": 0,
+				"w": 290,
+				"h": 263
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 290,
+				"h": 263
+			},
+			"sourceSize": {
+				"w": 290,
+				"h": 263
+			}
+		},
+		"seed": {
+			"frame": {
+				"x": 669,
+				"y": 326,
+				"w": 291,
+				"h": 381
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 291,
+				"h": 381
+			},
+			"sourceSize": {
+				"w": 291,
+				"h": 381
+			}
+		}
+	}
+}

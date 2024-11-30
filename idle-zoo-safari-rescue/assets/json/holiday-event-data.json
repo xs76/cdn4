@@ -1,0 +1,108 @@
+{
+    "Halloween2022": {
+        "startDate": "2022-10-01T17:29:49",
+        "endDate": "2022-10-01T17:29:49",
+        "backToNormalDate": "2022-10-12T17:29:49",
+        "goals": [
+            {
+                "goalType": "openSafariBalls",
+                "eventSecondRewardType": "gem",
+                "amountToComplete": 10
+            },
+            {
+                "goalType": "dayThreeStreak",
+                "eventSecondRewardType": "safariBall",
+                "amountToComplete": 1
+            },
+            {
+                "goalType": "clickHabitat",
+                "eventSecondRewardType": "gem",
+                "amountToComplete": 10000
+            },
+            {
+                "goalType": "daySevenStreak",
+                "eventSecondRewardType": "gem",
+                "amountToComplete": 1
+            },
+            {
+                "goalType": "cleanHabitat",
+                "eventSecondRewardType": "safariBall",
+                "amountToComplete": 30
+            },
+            {
+                "goalType": "releaseAnimals",
+                "eventSecondRewardType": "safariBall",
+                "amountToComplete": 5
+            }
+        ]
+    },
+    "Christmas2022": {
+        "startDate": "2022-11-28T23:59:59",
+        "endDate": "2023-01-08T23:59:59",
+        "backToNormalDate": "2023-01-15T23:59:59",
+        "goals": [
+            {
+                "goalType": "clickHabitat",
+                "eventSecondRewardType": "safariBall",
+                "amountToComplete": 50000
+            },
+            {
+                "goalType": "useSnacktime",
+                "eventSecondRewardType": "gem",
+                "amountToComplete": 30
+            },
+            {
+                "goalType": "cleanHabitat",
+                "eventSecondRewardType": "safariBall",
+                "amountToComplete": 50
+            },
+            {
+                "goalType": "openSafariBalls",
+                "eventSecondRewardType": "gem",
+                "amountToComplete": 25
+            },
+            {
+                "goalType": "releaseAnimals",
+                "eventSecondRewardType": "safariBall",
+                "amountToComplete": 20
+            },
+            {
+                "goalType": "daysLoggedIn",
+                "eventSecondRewardType": "gem",
+                "amountToComplete": 10
+            }
+        ]
+    },
+    "Christmas2023": {
+        "startDate": "2023-12-03T23:59:59",
+        "endDate": "2024-01-07T23:59:59",
+        "backToNormalDate": "2024-01-14T23:59:59",
+        "goals": [
+            {
+                "goalType": "clickHabitat",
+                "eventSecondRewardType": "safariBall",
+                "amountToComplete": 500
+            },
+            {
+                "goalType": "useSnacktime",
+                "eventSecondRewardType": "gem",
+                "amountToComplete": 3
+            },
+            {
+                "goalType": "cleanHabitat",
+                "eventSecondRewardType": "safariBall",
+                "amountToComplete": 5
+            },
+            {
+                "goalType": "openSafariBalls",
+                "eventSecondRewardType": "gem",
+                "amountToComplete": 15
+            },
+            {
+                "goalType": "releaseAnimals",
+                "eventSecondRewardType": "safariBall",
+                "amountToComplete": 5
+            }
+        ]
+    } 
+}

@@ -1,0 +1,144 @@
+{
+	"frames": {
+		"subscriptionCloseClose": {
+			"frame": {
+				"x": 800,
+				"y": 363,
+				"w": 42,
+				"h": 43
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 42,
+				"h": 43
+			},
+			"sourceSize": {
+				"w": 42,
+				"h": 43
+			}
+		},
+		"subscriptionLandButton": {
+			"frame": {
+				"x": 471,
+				"y": 363,
+				"w": 327,
+				"h": 116
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 327,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 327,
+				"h": 116
+			}
+		},
+		"subscriptionLandClose": {
+			"frame": {
+				"x": 800,
+				"y": 363,
+				"w": 42,
+				"h": 43
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 42,
+				"h": 43
+			},
+			"sourceSize": {
+				"w": 42,
+				"h": 43
+			}
+		},
+		"subscriptionLandDecor": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 504,
+				"h": 193
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 504,
+				"h": 193
+			},
+			"sourceSize": {
+				"w": 504,
+				"h": 193
+			}
+		},
+		"subscriptionLandDiamonds": {
+			"frame": {
+				"x": 507,
+				"y": 1,
+				"w": 474,
+				"h": 360
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 474,
+				"h": 360
+			},
+			"sourceSize": {
+				"w": 474,
+				"h": 360
+			}
+		},
+		"subscriptionLandGirl": {
+			"frame": {
+				"x": 1,
+				"y": 196,
+				"w": 468,
+				"h": 309
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 468,
+				"h": 309
+			},
+			"sourceSize": {
+				"w": 468,
+				"h": 309
+			}
+		},
+		"subscriptionLandStar": {
+			"frame": {
+				"x": 844,
+				"y": 363,
+				"w": 37,
+				"h": 37
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 37,
+				"h": 37
+			},
+			"sourceSize": {
+				"w": 37,
+				"h": 37
+			}
+		}
+	}
+}

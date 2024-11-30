@@ -1,0 +1,44 @@
+﻿{
+	"frames": {
+		"taskAimTaskButton0000": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 96,
+				"h": 42
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 96,
+				"h": 42
+			},
+			"sourceSize": {
+				"w": 96,
+				"h": 42
+			}
+		},
+		"taskAimTaskButton0001": {
+			"frame": {
+				"x": 0,
+				"y": 42,
+				"w": 96,
+				"h": 42
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 96,
+				"h": 42
+			},
+			"sourceSize": {
+				"w": 96,
+				"h": 42
+			}
+		}
+	}
+}

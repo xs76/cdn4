@@ -1,0 +1,3098 @@
+
+texture.png
+size: 512, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Born2bSportyFS-16
+  rotate: false
+  xy: 131, 102
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+blocks/BedrockBlock
+  rotate: false
+  xy: 260, 197
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-3-col-1
+  rotate: false
+  xy: 260, 197
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/BerryBushBlock
+  rotate: false
+  xy: 252, 72
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+blocks/BerryBushBlock
+  rotate: false
+  xy: 265, 96
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+blocks/BirchLeaves
+  rotate: false
+  xy: 462, 230
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/BirchSapling
+  rotate: false
+  xy: 491, 207
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/BirchTrunk
+  rotate: false
+  xy: 360, 201
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+blocks/BirchTrunk
+  rotate: false
+  xy: 370, 201
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+blocks/BlockDamage
+  rotate: false
+  xy: 380, 201
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+blocks/BlockDamage
+  rotate: false
+  xy: 390, 201
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+blocks/BlockDamage
+  rotate: false
+  xy: 491, 197
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 2
+blocks/BlockDamage
+  rotate: false
+  xy: 347, 194
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 3
+blocks/BrickBackgroundBlock
+  rotate: false
+  xy: 271, 60
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/BrickBackgroundBlock_bottomEdge
+  rotate: false
+  xy: 357, 191
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/BrickBackgroundBlock_horizontalEdge
+  rotate: false
+  xy: 367, 191
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/BrickBackgroundBlock_leftEdge
+  rotate: false
+  xy: 377, 191
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/BrickBackgroundBlock_rightEdge
+  rotate: false
+  xy: 387, 191
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/BrickBackgroundBlock_topEdge
+  rotate: false
+  xy: 442, 195
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/BrickBackgroundBlock_verticalEdge
+  rotate: false
+  xy: 452, 194
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/BrickBlock
+  rotate: false
+  xy: 462, 194
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/CoalBlock
+  rotate: false
+  xy: 472, 194
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/CreepBlock
+  rotate: false
+  xy: 327, 185
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+blocks/CreepBlock
+  rotate: false
+  xy: 337, 185
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+blocks/DirtBackgroundBlock
+  rotate: false
+  xy: 347, 184
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+blocks/DirtBackgroundBlock
+  rotate: false
+  xy: 357, 181
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+blocks/DirtBackgroundBlock_bottomEdge
+  rotate: false
+  xy: 367, 181
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/DirtBackgroundBlock_horizontalEdge
+  rotate: false
+  xy: 377, 181
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/DirtBackgroundBlock_leftEdge
+  rotate: false
+  xy: 387, 181
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/DirtBackgroundBlock_rightEdge
+  rotate: false
+  xy: 355, 171
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/DirtBackgroundBlock_topEdge
+  rotate: false
+  xy: 365, 171
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/DirtBackgroundBlock_verticalEdge
+  rotate: false
+  xy: 375, 171
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/DirtBlock
+  rotate: false
+  xy: 397, 180
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+blocks/DirtBlock
+  rotate: false
+  xy: 416, 192
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+blocks/DirtBlockSurface
+  rotate: false
+  xy: 385, 171
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+blocks/DirtBlockSurface
+  rotate: false
+  xy: 406, 193
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+blocks/GoldBlock
+  rotate: false
+  xy: 395, 170
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/Grass
+  rotate: false
+  xy: 416, 182
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/IronBlock
+  rotate: false
+  xy: 426, 190
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/IronSpikeBlock
+  rotate: false
+  xy: 426, 180
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/LadderBlock
+  rotate: false
+  xy: 436, 181
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/LavaBlock
+  rotate: false
+  xy: 405, 168
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/MithrilBlock
+  rotate: false
+  xy: 416, 172
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/PlatformBlock
+  rotate: false
+  xy: 426, 170
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-2-col-2
+  rotate: false
+  xy: 426, 170
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/PlatformBlockCollapsed
+  rotate: false
+  xy: 436, 171
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/PlatformBlockCollapsedTeamOverlay
+  rotate: false
+  xy: 501, 190
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/PlatformBlockTeamOverlay
+  rotate: false
+  xy: 491, 187
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/PumpkinSeedBlock
+  rotate: false
+  xy: 415, 162
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+blocks/PumpkinSeedBlock
+  rotate: false
+  xy: 425, 160
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+weapons/item_pumpkin
+  rotate: false
+  xy: 425, 160
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/ShingleBlock
+  rotate: false
+  xy: 159, 52
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+blocks/Snow
+  rotate: false
+  xy: 501, 180
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/StairBrickBlock
+  rotate: false
+  xy: 271, 50
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/StairWoodBlock
+  rotate: false
+  xy: 328, 162
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/SteelBlock
+  rotate: false
+  xy: 346, 161
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/StoneBackgroundBlock
+  rotate: false
+  xy: 356, 161
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+blocks/StoneBackgroundBlock
+  rotate: false
+  xy: 366, 161
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+blocks/StoneBackgroundBlock
+  rotate: false
+  xy: 376, 161
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 2
+blocks/StoneBackgroundBlock_bottomEdge
+  rotate: false
+  xy: 395, 160
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/StoneBackgroundBlock_horizontalEdge
+  rotate: false
+  xy: 405, 158
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/StoneBackgroundBlock_leftEdge
+  rotate: false
+  xy: 415, 152
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/StoneBackgroundBlock_rightEdge
+  rotate: false
+  xy: 425, 150
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/StoneBackgroundBlock_topEdge
+  rotate: false
+  xy: 395, 150
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/StoneBackgroundBlock_verticalEdge
+  rotate: false
+  xy: 405, 148
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/StoneBlock
+  rotate: false
+  xy: 415, 142
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+blocks/StoneBlock
+  rotate: false
+  xy: 425, 140
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+blocks/StoneBlock
+  rotate: false
+  xy: 271, 40
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 2
+blocks/TorchBlock
+  rotate: false
+  xy: 482, 194
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+blocks/VineBlock
+  rotate: false
+  xy: 301, 160
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+blocks/VineBlock
+  rotate: false
+  xy: 311, 160
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+blocks/VineBlock
+  rotate: false
+  xy: 263, 30
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 2
+blocks/WaterBlock
+  rotate: false
+  xy: 263, 20
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/WaterBlockSurface
+  rotate: false
+  xy: 273, 30
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/WheatBlock
+  rotate: false
+  xy: 273, 20
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+blocks/WheatBlock
+  rotate: false
+  xy: 268, 10
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+blocks/WheatBlock
+  rotate: false
+  xy: 278, 10
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 2
+blocks/WoodBackgroundBlock
+  rotate: false
+  xy: 436, 161
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/WoodBackgroundBlock_bottomEdge
+  rotate: false
+  xy: 435, 151
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/WoodBackgroundBlock_horizontalEdge
+  rotate: false
+  xy: 435, 141
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/WoodBackgroundBlock_leftEdge
+  rotate: false
+  xy: 446, 181
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/WoodBackgroundBlock_rightEdge
+  rotate: false
+  xy: 446, 171
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/WoodBackgroundBlock_topEdge
+  rotate: false
+  xy: 446, 161
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/WoodBackgroundBlock_verticalEdge
+  rotate: false
+  xy: 445, 151
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/WoodBlock
+  rotate: false
+  xy: 445, 141
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 0
+blocks/WoodBlock
+  rotate: false
+  xy: 456, 184
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: 1
+blocks/WoodSpikeBlock
+  rotate: false
+  xy: 456, 174
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/WoodSpikeBlockTeamOverlay
+  rotate: false
+  xy: 466, 184
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-1-col-2
+  rotate: false
+  xy: 486, 167
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-1-col-3
+  rotate: false
+  xy: 496, 170
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-1-col-4
+  rotate: false
+  xy: 455, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-1-col-5
+  rotate: false
+  xy: 465, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-1-col-6
+  rotate: false
+  xy: 486, 157
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-2-col-1
+  rotate: false
+  xy: 475, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-2-col-3
+  rotate: false
+  xy: 475, 137
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-2-col-4
+  rotate: false
+  xy: 485, 137
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-2-col-5
+  rotate: false
+  xy: 496, 150
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-2-col-6
+  rotate: false
+  xy: 495, 130
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-3-col-2
+  rotate: false
+  xy: 272, 137
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-3-col-3
+  rotate: false
+  xy: 282, 148
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-3-col-4
+  rotate: false
+  xy: 282, 138
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-3-col-5
+  rotate: false
+  xy: 292, 146
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-3-col-6
+  rotate: false
+  xy: 292, 136
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-4-col-2
+  rotate: false
+  xy: 302, 150
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-4-col-3
+  rotate: false
+  xy: 302, 140
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-4-col-4
+  rotate: false
+  xy: 312, 150
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-4-col-5
+  rotate: false
+  xy: 273, 121
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset/row-4-col-6
+  rotate: false
+  xy: 274, 111
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset2/row-1-col-2
+  rotate: false
+  xy: 486, 177
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset2/row-2-col-1
+  rotate: false
+  xy: 496, 160
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset2/row-2-col-2
+  rotate: false
+  xy: 485, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset2/row-2-col-3
+  rotate: false
+  xy: 465, 137
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset2/row-2-col-6
+  rotate: false
+  xy: 495, 140
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset2/row-3-col-1
+  rotate: false
+  xy: 272, 157
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset2/row-3-col-2
+  rotate: false
+  xy: 272, 147
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset2/row-3-col-3
+  rotate: false
+  xy: 282, 158
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+blocks/tileset2/row-4-col-5
+  rotate: false
+  xy: 312, 140
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+entities/arrow
+  rotate: false
+  xy: 431, 200
+  size: 9, 3
+  orig: 9, 3
+  offset: 0, 0
+  index: -1
+entities/bullet
+  rotate: false
+  xy: 501, 200
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+entities/chest
+  rotate: false
+  xy: 242, 197
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+entities/crate
+  rotate: false
+  xy: 388, 226
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+entities/door_iron
+  rotate: false
+  xy: 239, 162
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+entities/door_iron_open
+  rotate: false
+  xy: 249, 164
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+entities/door_wood
+  rotate: false
+  xy: 242, 144
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+entities/door_wood_open
+  rotate: false
+  xy: 242, 126
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+entities/door_wood_open_team
+  rotate: false
+  xy: 242, 108
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+entities/door_wood_team
+  rotate: false
+  xy: 242, 90
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+entities/flag_fabric
+  rotate: false
+  xy: 133, 7
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+entities/flag_pole
+  rotate: false
+  xy: 509, 228
+  size: 2, 27
+  orig: 2, 27
+  offset: 0, 0
+  index: -1
+entities/human_arm
+  rotate: false
+  xy: 509, 222
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 0
+entities/human_arm
+  rotate: false
+  xy: 509, 222
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 1
+entities/human_arm
+  rotate: false
+  xy: 509, 222
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 19
+entities/human_arm
+  rotate: false
+  xy: 509, 222
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 2
+weapons/item_unarmed
+  rotate: false
+  xy: 509, 222
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
+entities/human_arm
+  rotate: false
+  xy: 328, 129
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 3
+entities/human_arm
+  rotate: false
+  xy: 281, 131
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 4
+entities/human_arm
+  rotate: false
+  xy: 285, 132
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 5
+entities/human_arm
+  rotate: false
+  xy: 285, 132
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 18
+entities/human_arm
+  rotate: false
+  xy: 281, 95
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 6
+entities/human_arm
+  rotate: false
+  xy: 343, 153
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 7
+entities/human_arm
+  rotate: false
+  xy: 336, 144
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 8
+entities/human_arm
+  rotate: false
+  xy: 336, 144
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 25
+entities/human_arm
+  rotate: false
+  xy: 336, 144
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 28
+entities/human_arm
+  rotate: false
+  xy: 340, 144
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 9
+entities/human_arm
+  rotate: false
+  xy: 332, 129
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 10
+entities/human_arm
+  rotate: false
+  xy: 283, 125
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 11
+entities/human_arm
+  rotate: false
+  xy: 279, 89
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 12
+entities/human_arm
+  rotate: false
+  xy: 279, 83
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 13
+entities/human_arm
+  rotate: false
+  xy: 280, 77
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 14
+entities/human_arm
+  rotate: false
+  xy: 280, 71
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 15
+entities/human_arm
+  rotate: false
+  xy: 347, 155
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 16
+entities/human_arm
+  rotate: false
+  xy: 351, 155
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 17
+entities/human_arm
+  rotate: false
+  xy: 355, 155
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 20
+entities/human_arm
+  rotate: false
+  xy: 359, 155
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 21
+entities/human_arm
+  rotate: false
+  xy: 363, 155
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 22
+entities/human_arm
+  rotate: false
+  xy: 367, 155
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 23
+entities/human_arm
+  rotate: false
+  xy: 371, 155
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 24
+entities/human_arm
+  rotate: false
+  xy: 375, 155
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 26
+entities/human_arm
+  rotate: false
+  xy: 379, 155
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 27
+entities/human_arm
+  rotate: false
+  xy: 341, 138
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 29
+entities/human_arm
+  rotate: false
+  xy: 283, 89
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 30
+entities/human_arm
+  rotate: false
+  xy: 283, 83
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 31
+entities/human_arm
+  rotate: false
+  xy: 284, 77
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 32
+entities/human_arm
+  rotate: false
+  xy: 284, 71
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 33
+entities/human_left_leg
+  rotate: false
+  xy: 331, 140
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 0
+entities/human_left_leg
+  rotate: false
+  xy: 331, 140
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 2
+entities/human_left_leg
+  rotate: false
+  xy: 331, 140
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 1
+entities/zombie_left_leg
+  rotate: false
+  xy: 331, 140
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 2
+entities/zombie_left_leg
+  rotate: false
+  xy: 331, 140
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 0
+entities/zombie_left_leg
+  rotate: false
+  xy: 331, 140
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 1
+entities/human_left_leg
+  rotate: false
+  xy: 338, 150
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 3
+entities/human_left_leg
+  rotate: false
+  xy: 336, 139
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 4
+entities/human_left_leg
+  rotate: false
+  xy: 281, 66
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 5
+entities/human_left_leg
+  rotate: false
+  xy: 281, 66
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 32
+entities/human_left_leg
+  rotate: false
+  xy: 281, 66
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 10
+entities/human_left_leg
+  rotate: false
+  xy: 281, 66
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 18
+entities/zombie_left_leg
+  rotate: false
+  xy: 281, 66
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 5
+entities/zombie_left_leg
+  rotate: false
+  xy: 281, 66
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 6
+entities/human_left_leg
+  rotate: false
+  xy: 281, 61
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 6
+entities/human_left_leg
+  rotate: false
+  xy: 281, 56
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 7
+entities/human_left_leg
+  rotate: false
+  xy: 281, 51
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 8
+entities/human_left_leg
+  rotate: false
+  xy: 281, 51
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 25
+entities/human_left_leg
+  rotate: false
+  xy: 281, 51
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 28
+entities/human_left_leg
+  rotate: false
+  xy: 281, 51
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 20
+entities/human_left_leg
+  rotate: false
+  xy: 281, 46
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 9
+entities/human_left_leg
+  rotate: false
+  xy: 506, 148
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 11
+entities/zombie_left_leg
+  rotate: false
+  xy: 506, 148
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 7
+entities/human_left_leg
+  rotate: false
+  xy: 505, 143
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 12
+entities/human_left_leg
+  rotate: false
+  xy: 505, 138
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 13
+entities/human_left_leg
+  rotate: false
+  xy: 505, 133
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 14
+entities/human_left_leg
+  rotate: false
+  xy: 505, 128
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 15
+entities/human_left_leg
+  rotate: false
+  xy: 347, 150
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 16
+entities/human_left_leg
+  rotate: false
+  xy: 347, 150
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 26
+entities/human_left_leg
+  rotate: false
+  xy: 347, 150
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 27
+entities/zombie_left_leg
+  rotate: false
+  xy: 347, 150
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 4
+entities/human_left_leg
+  rotate: false
+  xy: 352, 150
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 17
+entities/human_left_leg
+  rotate: false
+  xy: 357, 150
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 19
+entities/human_left_leg
+  rotate: false
+  xy: 362, 150
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 21
+entities/human_left_leg
+  rotate: false
+  xy: 367, 150
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 22
+entities/human_left_leg
+  rotate: false
+  xy: 372, 150
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 23
+entities/human_left_leg
+  rotate: false
+  xy: 377, 150
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 24
+entities/human_left_leg
+  rotate: false
+  xy: 344, 145
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 29
+entities/human_left_leg
+  rotate: false
+  xy: 349, 145
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 30
+entities/human_left_leg
+  rotate: false
+  xy: 354, 145
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 31
+entities/human_left_leg
+  rotate: false
+  xy: 359, 145
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 33
+entities/human_torso_head
+  rotate: false
+  xy: 217, 54
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: 19
+entities/human_torso_head
+  rotate: false
+  xy: 263, 141
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 0
+entities/human_torso_head
+  rotate: false
+  xy: 263, 128
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 1
+entities/human_torso_head
+  rotate: false
+  xy: 265, 106
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 2
+entities/human_torso_head
+  rotate: false
+  xy: 261, 83
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 3
+entities/human_torso_head
+  rotate: false
+  xy: 218, 29
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 4
+entities/human_torso_head
+  rotate: false
+  xy: 218, 16
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 5
+entities/human_torso_head
+  rotate: false
+  xy: 227, 29
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 6
+entities/human_torso_head
+  rotate: false
+  xy: 227, 16
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 7
+entities/human_torso_head
+  rotate: false
+  xy: 223, 3
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 8
+entities/human_torso_head
+  rotate: false
+  xy: 270, 83
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 9
+entities/human_torso_head
+  rotate: false
+  xy: 271, 70
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 10
+entities/human_torso_head
+  rotate: false
+  xy: 236, 29
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 11
+entities/human_torso_head
+  rotate: false
+  xy: 236, 16
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 12
+entities/human_torso_head
+  rotate: false
+  xy: 232, 3
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 13
+entities/human_torso_head
+  rotate: false
+  xy: 245, 29
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 14
+entities/human_torso_head
+  rotate: false
+  xy: 245, 16
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 15
+entities/human_torso_head
+  rotate: false
+  xy: 241, 3
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 16
+entities/human_torso_head
+  rotate: false
+  xy: 456, 217
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 17
+entities/human_torso_head
+  rotate: false
+  xy: 455, 204
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 18
+entities/human_torso_head
+  rotate: false
+  xy: 465, 217
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 20
+entities/human_torso_head
+  rotate: false
+  xy: 464, 204
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 21
+entities/human_torso_head
+  rotate: false
+  xy: 474, 217
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 22
+entities/human_torso_head
+  rotate: false
+  xy: 473, 204
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 23
+entities/human_torso_head
+  rotate: false
+  xy: 488, 232
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 24
+entities/human_torso_head
+  rotate: false
+  xy: 483, 217
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 25
+entities/human_torso_head
+  rotate: false
+  xy: 482, 204
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 26
+entities/human_torso_head
+  rotate: false
+  xy: 250, 3
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 27
+entities/human_torso_head
+  rotate: false
+  xy: 492, 218
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 28
+entities/human_torso_head
+  rotate: false
+  xy: 300, 183
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 29
+entities/human_torso_head
+  rotate: false
+  xy: 301, 170
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 30
+entities/human_torso_head
+  rotate: false
+  xy: 311, 194
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 31
+entities/human_torso_head
+  rotate: false
+  xy: 320, 195
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 32
+entities/human_torso_head
+  rotate: false
+  xy: 329, 195
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 33
+entities/nail
+  rotate: false
+  xy: 345, 140
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+entities/pellet
+  rotate: false
+  xy: 355, 140
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+entities/sheep_leg
+  rotate: false
+  xy: 379, 145
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+entities/sheep_torso
+  rotate: false
+  xy: 441, 218
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+entities/small_chest
+  rotate: false
+  xy: 302, 130
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+entities/small_chest_open
+  rotate: false
+  xy: 431, 205
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+entities/snowball
+  rotate: false
+  xy: 332, 156
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+entities/supply_crate
+  rotate: false
+  xy: 444, 230
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+entities/tnt
+  rotate: false
+  xy: 285, 182
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+entities/trapdoor
+  rotate: false
+  xy: 133, 1
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+entities/trapdoor_iron
+  rotate: false
+  xy: 143, 1
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+entities/trapdoor_iron_open
+  rotate: false
+  xy: 312, 130
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+entities/trapdoor_open
+  rotate: false
+  xy: 275, 101
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+entities/trapdoor_open_team
+  rotate: false
+  xy: 322, 152
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+entities/trapdoor_team
+  rotate: false
+  xy: 153, 1
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+entities/tunnel
+  rotate: false
+  xy: 133, 36
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+entities/turret
+  rotate: false
+  xy: 242, 72
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+entities/turret_aim
+  rotate: false
+  xy: 427, 219
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+entities/zombie_arm
+  rotate: false
+  xy: 286, 65
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 0
+entities/zombie_arm
+  rotate: false
+  xy: 286, 59
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 1
+entities/zombie_arm
+  rotate: false
+  xy: 286, 59
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 2
+entities/zombie_fast_arm
+  rotate: false
+  xy: 286, 59
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
+entities/zombie_arm
+  rotate: false
+  xy: 286, 53
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 3
+entities/zombie_arm
+  rotate: false
+  xy: 286, 47
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 4
+entities/zombie_arm
+  rotate: false
+  xy: 283, 34
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 5
+entities/zombie_arm
+  rotate: false
+  xy: 283, 28
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 6
+entities/zombie_arm
+  rotate: false
+  xy: 283, 22
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: 7
+entities/zombie_big_arm
+  rotate: false
+  xy: 496, 181
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: 0
+entities/zombie_big_arm
+  rotate: false
+  xy: 338, 160
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: 1
+entities/zombie_big_left_leg
+  rotate: false
+  xy: 332, 151
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: 0
+entities/zombie_big_left_leg
+  rotate: false
+  xy: 322, 129
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: 1
+entities/zombie_big_torso_head
+  rotate: false
+  xy: 252, 149
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: 0
+entities/zombie_big_torso_head
+  rotate: false
+  xy: 252, 134
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: 1
+entities/zombie_crab_left_leg
+  rotate: false
+  xy: 442, 191
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+entities/zombie_crab_torso_head
+  rotate: false
+  xy: 338, 166
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+entities/zombie_explosive_arm
+  rotate: false
+  xy: 331, 145
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+entities/zombie_explosive_left_leg
+  rotate: false
+  xy: 328, 135
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+entities/zombie_explosive_torso_head
+  rotate: false
+  xy: 252, 119
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+entities/zombie_fast_left_leg
+  rotate: false
+  xy: 365, 140
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+entities/zombie_fast_torso_head
+  rotate: false
+  xy: 338, 195
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+entities/zombie_left_leg
+  rotate: false
+  xy: 370, 140
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 3
+entities/zombie_torso_head
+  rotate: false
+  xy: 310, 170
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 0
+entities/zombie_torso_head
+  rotate: false
+  xy: 254, 30
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 1
+entities/zombie_torso_head
+  rotate: false
+  xy: 254, 17
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 2
+entities/zombie_torso_head
+  rotate: false
+  xy: 259, 4
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 3
+entities/zombie_torso_head
+  rotate: false
+  xy: 319, 170
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 4
+entities/zombie_torso_head
+  rotate: false
+  xy: 328, 172
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 5
+entities/zombie_torso_head
+  rotate: false
+  xy: 337, 172
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 6
+entities/zombie_torso_head
+  rotate: false
+  xy: 346, 171
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 7
+fntsml
+  rotate: false
+  xy: 1, 67
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+misc/chat
+  rotate: false
+  xy: 226, 112
+  size: 14, 14
+  split: 1, 1, 1, 1
+  pad: 5, 5, 1, 1
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+misc/chat_arrow
+  rotate: false
+  xy: 258, 43
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+misc/diagonal_lines
+  rotate: false
+  xy: 159, 34
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+misc/discord-logo
+  rotate: false
+  xy: 271, 226
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+misc/emoji
+  rotate: false
+  xy: 319, 208
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: 10
+misc/emoji
+  rotate: false
+  xy: 333, 208
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: 11
+misc/emoji
+  rotate: false
+  xy: 347, 211
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: 12
+misc/emoji
+  rotate: false
+  xy: 361, 211
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: 13
+misc/emoji
+  rotate: false
+  xy: 375, 211
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: 14
+misc/emoji
+  rotate: false
+  xy: 389, 211
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: 15
+misc/emoji
+  rotate: false
+  xy: 403, 216
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: 16
+misc/emoji
+  rotate: false
+  xy: 204, 22
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 1
+misc/emoji
+  rotate: false
+  xy: 259, 167
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 3
+misc/emoji
+  rotate: false
+  xy: 273, 168
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 4
+misc/emoji
+  rotate: false
+  xy: 287, 168
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 5
+misc/emoji
+  rotate: false
+  xy: 166, 4
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 6
+misc/emoji
+  rotate: false
+  xy: 190, 8
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 8
+misc/emoji
+  rotate: false
+  xy: 204, 8
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 9
+misc/emoji
+  rotate: false
+  xy: 180, 1
+  size: 8, 2
+  orig: 8, 2
+  offset: 0, 0
+  index: 0
+misc/emoji
+  rotate: false
+  xy: 252, 96
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: 7
+misc/emoji
+  rotate: false
+  xy: 263, 154
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: 2
+misc/moon
+  rotate: false
+  xy: 183, 68
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+misc/planet_glow
+  rotate: false
+  xy: 67, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+misc/shadetiles
+  rotate: false
+  xy: 131, 70
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+misc/sun
+  rotate: false
+  xy: 312, 223
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+particles/blood_gibs
+  rotate: false
+  xy: 265, 41
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: 1
+particles/blood_gibs
+  rotate: false
+  xy: 506, 153
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 2
+particles/blood_gibs
+  rotate: false
+  xy: 506, 153
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 3
+particles/wood_gibs
+  rotate: false
+  xy: 321, 164
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: 1
+particles/wood_gibs
+  rotate: false
+  xy: 275, 96
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: 3
+particles/wood_gibs
+  rotate: false
+  xy: 360, 140
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: 2
+skins/lurkers-skin/raw/base-press
+  rotate: false
+  xy: 262, 72
+  size: 7, 9
+  split: 2, 2, 2, 2
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/base
+  rotate: false
+  xy: 262, 72
+  size: 7, 9
+  split: 2, 2, 2, 2
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/base-press-white
+  rotate: false
+  xy: 226, 42
+  size: 7, 9
+  split: 2, 2, 2, 2
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/base-white
+  rotate: false
+  xy: 226, 42
+  size: 7, 9
+  split: 2, 2, 2, 2
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/check-off
+  rotate: false
+  xy: 456, 164
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/check-on
+  rotate: false
+  xy: 466, 174
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/check-on-green
+  rotate: false
+  xy: 476, 184
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/circle-hollow-64x64
+  rotate: false
+  xy: 1, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/circle_48x48
+  rotate: false
+  xy: 221, 207
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/cursor
+  rotate: false
+  xy: 338, 155
+  size: 3, 3
+  split: 1, 1, 1, 1
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/dot
+  rotate: false
+  xy: 177, 18
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+particles/pixel
+  rotate: false
+  xy: 177, 18
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/field
+  rotate: false
+  xy: 235, 42
+  size: 7, 9
+  split: 3, 3, 2, 2
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/Bulleted-List
+  rotate: false
+  xy: 226, 144
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/Cart
+  rotate: false
+  xy: 226, 67
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/Discord
+  rotate: false
+  xy: 467, 242
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/Game-Controller
+  rotate: false
+  xy: 286, 196
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/Gear
+  rotate: false
+  xy: 226, 128
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/Info
+  rotate: false
+  xy: 209, 52
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/Message
+  rotate: false
+  xy: 177, 37
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/Patreon
+  rotate: false
+  xy: 376, 226
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/Question-Mark
+  rotate: false
+  xy: 207, 36
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/Redo
+  rotate: false
+  xy: 193, 37
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/arrow
+  rotate: false
+  xy: 167, 18
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/circle
+  rotate: false
+  xy: 322, 134
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/clapper
+  rotate: false
+  xy: 226, 180
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/eye
+  rotate: false
+  xy: 226, 96
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/home
+  rotate: false
+  xy: 226, 80
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/lurkersio-logo
+  rotate: false
+  xy: 1, 197
+  size: 218, 58
+  orig: 218, 58
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/mouse-left
+  rotate: false
+  xy: 261, 181
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/mouse-right
+  rotate: false
+  xy: 273, 182
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/muted
+  rotate: false
+  xy: 263, 119
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/pencil
+  rotate: false
+  xy: 177, 21
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/people
+  rotate: false
+  xy: 243, 182
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/person
+  rotate: false
+  xy: 305, 207
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/platform-mobile
+  rotate: false
+  xy: 180, 5
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/play
+  rotate: false
+  xy: 417, 215
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/plus
+  rotate: false
+  xy: 177, 52
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/power
+  rotate: false
+  xy: 190, 22
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/trophy
+  rotate: false
+  xy: 193, 53
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/vote
+  rotate: false
+  xy: 448, 240
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/icons/x
+  rotate: false
+  xy: 407, 184
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/key
+  rotate: false
+  xy: 226, 53
+  size: 13, 12
+  split: 4, 4, 3, 6
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/key_dark
+  rotate: false
+  xy: 152, 20
+  size: 13, 12
+  split: 4, 4, 3, 6
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/left-click
+  rotate: false
+  xy: 388, 240
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/outline
+  rotate: false
+  xy: 309, 183
+  size: 7, 9
+  split: 2, 2, 2, 2
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/outlineDark
+  rotate: false
+  xy: 318, 183
+  size: 7, 9
+  split: 2, 2, 2, 2
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/progress-horizontal
+  rotate: false
+  xy: 343, 159
+  size: 1, 5
+  split: 0, 0, 0, 1
+  orig: 1, 5
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/right-click
+  rotate: false
+  xy: 418, 240
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/rounded
+  rotate: false
+  xy: 252, 106
+  size: 11, 11
+  split: 5, 5, 5, 5
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/rounded-small
+  rotate: false
+  xy: 302, 196
+  size: 7, 7
+  split: 3, 3, 3, 3
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/square-box
+  rotate: false
+  xy: 263, 48
+  size: 6, 7
+  split: 1, 1, 1, 1
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/well
+  rotate: false
+  xy: 397, 190
+  size: 7, 9
+  split: 2, 2, 2, 2
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/window
+  rotate: false
+  xy: 217, 70
+  size: 7, 30
+  split: 3, 3, 24, 3
+  orig: 7, 30
+  offset: 0, 0
+  index: -1
+skins/lurkers-skin/raw/window-no-title
+  rotate: false
+  xy: 244, 42
+  size: 7, 10
+  split: 3, 3, 4, 3
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+trees/sapling_birch
+  rotate: false
+  xy: 272, 131
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+trees/seed_pumpkin
+  rotate: false
+  xy: 322, 146
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+trees/seed_wheat
+  rotate: false
+  xy: 322, 140
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+trees/tree_leaves
+  rotate: false
+  xy: 346, 238
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: 3
+trees/tree_leaves
+  rotate: false
+  xy: 271, 205
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: 4
+trees/tree_leaves
+  rotate: false
+  xy: 346, 226
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: 2
+weapons/item_arrow
+  rotate: false
+  xy: 253, 43
+  size: 3, 9
+  orig: 3, 9
+  offset: 0, 0
+  index: -1
+weapons/item_axe_iron
+  rotate: false
+  xy: 218, 42
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+weapons/item_axe_mithril
+  rotate: false
+  xy: 472, 230
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+weapons/item_axe_stone
+  rotate: false
+  xy: 480, 230
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+weapons/item_axe_wood
+  rotate: false
+  xy: 501, 219
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+weapons/item_bazooka
+  rotate: false
+  xy: 242, 63
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+weapons/item_berries
+  rotate: false
+  xy: 386, 164
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+weapons/item_bow
+  rotate: false
+  xy: 218, 1
+  size: 3, 13
+  orig: 3, 13
+  offset: 0, 0
+  index: -1
+weapons/item_bread
+  rotate: false
+  xy: 466, 164
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+weapons/item_coin
+  rotate: false
+  xy: 476, 174
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+weapons/item_grenade
+  rotate: false
+  xy: 486, 188
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+weapons/item_grenade_launcher
+  rotate: false
+  xy: 190, 1
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+weapons/item_hammer
+  rotate: false
+  xy: 436, 191
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+weapons/item_homestone
+  rotate: false
+  xy: 252, 82
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+weapons/item_machine_gun
+  rotate: false
+  xy: 270, 198
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+weapons/item_magazine
+  rotate: false
+  xy: 375, 140
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+weapons/round
+  rotate: false
+  xy: 375, 140
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+weapons/item_meat
+  rotate: false
+  xy: 263, 57
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+weapons/item_medkit
+  rotate: false
+  xy: 256, 56
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+weapons/item_nail
+  rotate: false
+  xy: 400, 202
+  size: 1, 7
+  orig: 1, 7
+  offset: 0, 0
+  index: -1
+weapons/item_pickaxe_iron
+  rotate: false
+  xy: 152, 7
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+weapons/item_pickaxe_mithril
+  rotate: false
+  xy: 403, 203
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+weapons/item_pickaxe_stone
+  rotate: false
+  xy: 417, 202
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+weapons/item_pickaxe_wood
+  rotate: false
+  xy: 441, 205
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+weapons/item_pistol
+  rotate: false
+  xy: 497, 231
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+weapons/item_rifle
+  rotate: false
+  xy: 487, 245
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+weapons/item_rocket
+  rotate: false
+  xy: 241, 54
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+weapons/item_rocket_launcher
+  rotate: false
+  xy: 403, 231
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+weapons/item_round
+  rotate: false
+  xy: 258, 48
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+weapons/item_shell
+  rotate: false
+  xy: 281, 40
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
+weapons/item_shotgun
+  rotate: false
+  xy: 423, 233
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+weapons/item_sniper
+  rotate: false
+  xy: 221, 197
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+weapons/item_sniper_magazine
+  rotate: false
+  xy: 369, 145
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+weapons/item_sword
+  rotate: false
+  xy: 226, 160
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+weapons/item_wheat
+  rotate: false
+  xy: 386, 157
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+wearables/iron_arms
+  rotate: false
+  xy: 506, 173
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+wearables/iron_chestplate
+  rotate: false
+  xy: 497, 238
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+wearables/iron_chestplate_preview
+  rotate: false
+  xy: 205, 1
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+wearables/iron_helmet
+  rotate: false
+  xy: 268, 3
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+wearables/iron_helmet_preview
+  rotate: false
+  xy: 278, 3
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+wearables/iron_leggings
+  rotate: false
+  xy: 364, 145
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+wearables/iron_leggings_preview
+  rotate: false
+  xy: 407, 178
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+wearables/mithril_arms
+  rotate: false
+  xy: 506, 166
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+wearables/mithril_chestplate
+  rotate: false
+  xy: 501, 212
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+wearables/mithril_chestplate_preview
+  rotate: false
+  xy: 258, 65
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+wearables/mithril_helmet
+  rotate: false
+  xy: 456, 157
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+wearables/mithril_helmet_preview
+  rotate: false
+  xy: 466, 157
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+wearables/mithril_leggings
+  rotate: false
+  xy: 374, 145
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+wearables/mithril_leggings_preview
+  rotate: false
+  xy: 292, 162
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+wearables/obsidian_arms
+  rotate: false
+  xy: 506, 159
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+wearables/obsidian_chestplate
+  rotate: false
+  xy: 501, 205
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+wearables/obsidian_chestplate_preview
+  rotate: false
+  xy: 347, 204
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+wearables/obsidian_helmet
+  rotate: false
+  xy: 476, 157
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+wearables/obsidian_helmet_preview
+  rotate: false
+  xy: 455, 140
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+wearables/obsidian_leggings
+  rotate: false
+  xy: 350, 140
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+wearables/obsidian_leggings_preview
+  rotate: false
+  xy: 292, 156
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+wearables/pumpkin_helmet
+  rotate: false
+  xy: 476, 164
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+wearables/pumpkin_helmet_preview
+  rotate: false
+  xy: 476, 164
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1

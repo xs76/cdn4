@@ -1,0 +1,109 @@
+[
+  {
+    "habitatID": 0,
+    "initialCostOfHabitat": 0,
+    "initialUpgradePrice": 2,
+    "initialRevenue": 1,
+    "initialRevenueTime": 600,
+    "coefficient": 1.1,
+    "position": "{x: 823, y: 471 }",
+    "habitatAnimals": [
+      6,
+      10,
+      19
+    ]
+  },
+  {
+    "habitatID": 1,
+    "initialCostOfHabitat": 250,
+    "initialUpgradePrice": 280,
+    "initialRevenue": 50,
+    "initialRevenueTime": 8000,
+    "coefficient": 1.12,
+    "position": "{x: 465, y: 471 }",
+    "habitatAnimals": [
+      2,
+      13,
+      14
+    ]
+  },
+  {
+    "habitatID": 2,
+    "initialCostOfHabitat": 10000,
+    "initialUpgradePrice": 11300,
+    "initialRevenue": 2000,
+    "initialRevenueTime": 20000,
+    "coefficient": 1.13,
+    "position": "{x: 991, y: 380 }",
+    "habitatAnimals": [
+      15,
+      11
+    ]
+  },
+  {
+    "habitatID": 3,
+    "initialCostOfHabitat": 380000,
+    "initialUpgradePrice": 433000,
+    "initialRevenue": 47500,
+    "initialRevenueTime": 80000,
+    "coefficient": 1.14,
+    "position": "{x: 639, y: 405 }",
+    "habitatAnimals": [
+      12,
+      5
+    ]
+  },
+  {
+    "habitatID": 4,
+    "initialCostOfHabitat": 238000000,
+    "initialUpgradePrice": 268000000,
+    "initialRevenue": 2380000,
+    "initialRevenueTime": 320000,
+    "coefficient": 1.13,
+    "position": "{x: 293, y: 380 }",
+    "habitatAnimals": [
+      4,
+      3
+    ]
+  },
+  {
+    "habitatID": 5,
+    "initialCostOfHabitat": 1480000000000,
+    "initialUpgradePrice": 1630000000000,
+    "initialRevenue": 148000000,
+    "initialRevenueTime": 1600000,
+    "coefficient": 1.1,
+    "position": "{x: 839, y: 292}",
+    "habitatAnimals": [
+      0,
+      8
+    ]
+  },
+  {
+    "habitatID": 6,
+    "initialCostOfHabitat": 37100000000000000,
+    "initialUpgradePrice": 40400000000000000,
+    "initialRevenue": 9280000000,
+    "initialRevenueTime": 9600000,
+    "coefficient": 1.09,
+    "position": "{x: 450, y: 292 }",
+    "habitatAnimals": [
+      1,
+      9,
+      7
+    ]
+  },
+  {
+    "habitatID": 7,
+    "initialCostOfHabitat": 232000000000000000000,
+    "initialUpgradePrice": 248000000000000000000,
+    "initialRevenue": 2320000000000,
+    "initialRevenueTime": 57600000,
+    "coefficient": 1.07,
+    "position": "{x: 640, y: 235 }",
+    "habitatAnimals": [
+      16,
+      17
+    ]
+  }
+]

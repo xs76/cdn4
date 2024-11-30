@@ -1,0 +1,104 @@
+{
+	"frames": {
+		"fade": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 540,
+				"h": 960
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 540,
+				"h": 960
+			},
+			"sourceSize": {
+				"w": 540,
+				"h": 960
+			}
+		},
+		"diamondDesk": {
+			"frame": {
+				"x": 543,
+				"y": 1,
+				"w": 676,
+				"h": 999
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 13,
+				"y": 16,
+				"w": 676,
+				"h": 999
+			},
+			"sourceSize": {
+				"w": 710,
+				"h": 1015
+			}
+		},
+		"rainDesk": {
+			"frame": {
+				"x": 1221,
+				"y": 1,
+				"w": 676,
+				"h": 999
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 13,
+				"y": 16,
+				"w": 676,
+				"h": 999
+			},
+			"sourceSize": {
+				"w": 710,
+				"h": 1015
+			}
+		},
+		"seedDesk": {
+			"frame": {
+				"x": 1,
+				"y": 1002,
+				"w": 676,
+				"h": 999
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 13,
+				"y": 16,
+				"w": 676,
+				"h": 999
+			},
+			"sourceSize": {
+				"w": 710,
+				"h": 1015
+			}
+		},
+		"timeDesk": {
+			"frame": {
+				"x": 679,
+				"y": 1002,
+				"w": 676,
+				"h": 999
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 13,
+				"y": 16,
+				"w": 676,
+				"h": 999
+			},
+			"sourceSize": {
+				"w": 710,
+				"h": 1015
+			}
+		}
+	}
+}

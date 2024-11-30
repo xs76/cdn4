@@ -1,0 +1,118 @@
+{
+    "year": 2022,
+    "month": 1,
+    "rewards": [
+        {
+            "type": "TimeSkip",
+            "amount": 4
+        },
+        {
+            "type": "Gem",
+            "amount": 20
+        },
+        {
+            "type": "EcoPoint",
+            "amount": 0.1
+        },
+        {
+            "type": "SafariBalls",
+            "amount": 1
+        },
+        {
+            "type": "Coin",
+            "amount": 0.25
+        },
+        {
+            "type": "Gem",
+            "amount": 20
+        },
+        {
+            "type": "SafariBalls",
+            "amount": 3
+        },
+        {
+            "type": "Gem",
+            "amount": 20
+        },
+        {
+            "type": "Coin",
+            "amount": 0.25
+        },
+        {
+            "type": "EcoPoint",
+            "amount": 0.1
+        },
+        {
+            "type": "SafariBalls",
+            "amount": 1
+        },
+        {
+            "type": "Coin",
+            "amount": 0.25
+        },
+        {
+            "type": "Gem",
+            "amount": 20
+        },
+        {
+            "type": "SafariBalls",
+            "amount": 3
+        },
+        {
+            "type": "Gem",
+            "amount": 20
+        },
+        {
+            "type": "Coin",
+            "amount": 0.25
+        },
+        {
+            "type": "EcoPoint",
+            "amount": 0.1
+        },
+        {
+            "type": "SafariBalls",
+            "amount": 1
+        },
+        {
+            "type": "Coin",
+            "amount": 0.25
+        },
+        {
+            "type": "Gem",
+            "amount": 20
+        },
+        {
+            "type": "SafariBalls",
+            "amount": 5
+        },
+        {
+            "type": "Gem",
+            "amount": 20
+        },
+        {
+            "type": "Coin",
+            "amount": 0.25
+        },
+        {
+            "type": "EcoPoint",
+            "amount": 0.1
+        },
+        {
+            "type": "SafariBalls",
+            "amount": 1
+        },
+        {
+            "type": "Coin",
+            "amount": 0.25
+        },
+        {
+            "type": "Gem",
+            "amount": 20
+        },
+        {
+            "type": "SafariBalls",
+            "amount": 8
+        }
+    ]
+}

@@ -1,0 +1,264 @@
+{
+	"frames": {
+		"dayBorderRibbon": {
+			"frame": {
+				"x": 1,
+				"y": 106,
+				"w": 501,
+				"h": 322
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 501,
+				"h": 322
+			},
+			"sourceSize": {
+				"w": 501,
+				"h": 322
+			}
+		},
+		"dayBorderStar": {
+			"frame": {
+				"x": 504,
+				"y": 298,
+				"w": 37,
+				"h": 37
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 37,
+				"h": 37
+			},
+			"sourceSize": {
+				"w": 37,
+				"h": 37
+			}
+		},
+		"dayRewardApply": {
+			"frame": {
+				"x": 351,
+				"y": 430,
+				"w": 48,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 48,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 48,
+				"h": 40
+			}
+		},
+		"dayRewardCoin": {
+			"frame": {
+				"x": 504,
+				"y": 201,
+				"w": 39,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 39,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 39,
+				"h": 40
+			}
+		},
+		"dayRewardDiamond": {
+			"frame": {
+				"x": 504,
+				"y": 106,
+				"w": 43,
+				"h": 42
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 43,
+				"h": 42
+			},
+			"sourceSize": {
+				"w": 43,
+				"h": 42
+			}
+		},
+		"dayRewardSeed": {
+			"frame": {
+				"x": 504,
+				"y": 243,
+				"w": 37,
+				"h": 53
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 37,
+				"h": 53
+			},
+			"sourceSize": {
+				"w": 37,
+				"h": 53
+			}
+		},
+		"dayRewardTime": {
+			"frame": {
+				"x": 504,
+				"y": 150,
+				"w": 40,
+				"h": 49
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 40,
+				"h": 49
+			},
+			"sourceSize": {
+				"w": 40,
+				"h": 49
+			}
+		},
+		"dayRibbonBorder": {
+			"frame": {
+				"x": 1,
+				"y": 430,
+				"w": 68,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 68,
+				"h": 69
+			},
+			"sourceSize": {
+				"w": 68,
+				"h": 69
+			}
+		},
+		"dayRibbonCoin": {
+			"frame": {
+				"x": 71,
+				"y": 430,
+				"w": 68,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 68,
+				"h": 69
+			},
+			"sourceSize": {
+				"w": 68,
+				"h": 69
+			}
+		},
+		"dayRibbonDiamond": {
+			"frame": {
+				"x": 141,
+				"y": 430,
+				"w": 68,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 68,
+				"h": 69
+			},
+			"sourceSize": {
+				"w": 68,
+				"h": 69
+			}
+		},
+		"dayRibbonRibbon": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 549,
+				"h": 103
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 549,
+				"h": 103
+			},
+			"sourceSize": {
+				"w": 549,
+				"h": 103
+			}
+		},
+		"dayRibbonSeed": {
+			"frame": {
+				"x": 211,
+				"y": 430,
+				"w": 68,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 68,
+				"h": 69
+			},
+			"sourceSize": {
+				"w": 68,
+				"h": 69
+			}
+		},
+		"dayRibbonTime": {
+			"frame": {
+				"x": 281,
+				"y": 430,
+				"w": 68,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 68,
+				"h": 69
+			},
+			"sourceSize": {
+				"w": 68,
+				"h": 69
+			}
+		}
+	}
+}

@@ -1,0 +1,195 @@
+canvas {
+    cursor: default;
+    outline: none;
+}
+
+body {
+    /*background-color: #222222;*/
+    background: #0c0c13 url(bg-imagepsd.png) no-repeat center center fixed;
+    /*background: url(bg-imagepsd.png) rgba(0, 0, 0, .35) no-repeat center center fixed;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /*background-blend-mode: darken;*/
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+.gdx-preloader {
+
+}
+
+.gdx-preloader .logo {
+    max-width: 100%;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+}
+
+.logo {
+    width: 64px;
+    height: 64px;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+}
+
+/*the loading bar container*/
+.loadingbar {
+    height: 16px;
+    max-width: 320px;
+    min-width: 200px;
+    position: relative;
+    background-image: url(loading-background.png);
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+    background-size: 16px;
+    margin: 10px 0;
+    text-align: left;
+    transform: scale(1.5);
+    box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+}
+
+.loadingbar > span {
+    display: block;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+/*the loading animated character building*/
+.loadingbar > .knob {
+    position: absolute;
+    width: 32px;
+    top: -30px;
+    transform: translate(-21px, 0px);
+    box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.3);
+}
+
+/*the actual progress bar*/
+.loadingbar > span:after, .gdx-animate > span > span {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-image: url(loading-foreground.png);
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+    background-size: 16px;
+    z-index: 1;
+    overflow: hidden;
+    border-radius: 4px;
+}
+
+.gdx-animate > span:after {
+    display: none;
+}
+
+@-webkit-keyframes move {
+    0% {
+        background-position: 0 0;
+    }
+    100% {
+        background-position: 50px 50px;
+    }
+}
+
+.loadingbar.nostripes > span > span, .loadingbar.nostripes > span:after {
+    -webkit-animation: none;
+    background-image: none;
+}
+
+
+.superdev {
+    z-index: 1;
+    color: rgb(37,37,37);
+    text-shadow: 0px 1px 1px rgba(250,250,250,0.1);
+    font-size: 20pt;
+    display: block;
+    text-decoration: none;
+    background-color: rgb(83,87,93);
+    box-shadow: 0px 3px 0px 0px rgb(34,34,34), 0px 3px 10px 0px rgb(17,17,17), inset 0px 1px 1px 0px rgba(250, 250, 250, .2), inset 0px -12px 35px 0px rgba(0, 0, 0, .5);
+    width: 24px;
+    height: 24px;
+    border: 0;
+    text-align: center;
+    line-height: 24px;
+    margin: 10px;
+    right: 0;
+    position: absolute;
+}
+
+.superdev:active {
+    top: 2px;
+    color: #e3e3e3;
+}
+
+.superdev:hover {
+    background-color: rgb(100,100,100);
+}
+
+.gwt-TextArea {
+    display: none;
+}
+
+.advertisement {
+    position: absolute;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.advertisement > div {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    margin: auto;
+}
+
+.advertisement > div > div {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    margin: auto;
+    display: block;
+}
+
+.advertisement > div > div > iframe {
+    position: relative;
+    top: 50%;
+    margin: auto;
+    display: block;
+}
+
+#multisize-container {
+    pointer-events: none;
+}
+
+#multisize-container > div > div > iframe {
+    pointer-events: all;
+}
+
+.hidden {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 10px;
+    height: 10px;
+    display: block;
+    font-size: 1;
+    z-index: -1;
+    color: transparent;
+    background: transparent;
+    overflow: hidden;
+    border: none;
+    padding: 0;
+    resize: none;
+    outline: none;
+    -webkit-user-select: text;
+    user-select: text;
+    /* Because for user-select:none, Safari won't allow input */
+}

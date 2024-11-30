@@ -1,0 +1,13 @@
+{
+"companyName": "KiX Games",
+"productName": "KiX Dream Soccer",
+"dataUrl": "0.10.2.41-poki.data.unityweb",
+"asmCodeUrl": "0.10.2.41-poki.asm.code.unityweb",
+"asmMemoryUrl": "0.10.2.41-poki.asm.memory.unityweb",
+"asmFrameworkUrl": "0.10.2.41-poki.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

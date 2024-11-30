@@ -1,0 +1,814 @@
+{
+  "class": "io.lurkers.game.entities.items.ItemTypes",
+  "itemTypes": [
+    {
+      "class": "io.lurkers.game.entities.items.types.MeleeWeaponItemType",
+      "texture": "weapons/item_unarmed",
+      "name": "Unarmed"
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MiscellaneousItemType",
+      "texture": "weapons/item_coin",
+      "name": "Coin"
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MiscellaneousItemType",
+      "texture": "weapons/item_round",
+      "name": "Pistol Ammo",
+      "price": {
+        "Coin": 1
+      },
+      "purchaseQuantity": 9
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.RangedWeaponItemType",
+      "texture": "weapons/item_pistol",
+      "name": "Pistol",
+      "price": {
+        "Coin": 35
+      },
+      "hitDelayMs": 250,
+      "continuous": false,
+      "usesAmmunition": true,
+      "reloadDelayMs": 1000,
+      "ammunitionItemTypeString": "Pistol Ammo",
+      "sounds": [
+        "sounds/bullet_spawn.ogg"
+      ],
+      "stackSize": 9,
+      "maxDamage": 1.5
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MiscellaneousItemType",
+      "texture": "weapons/item_magazine",
+      "name": "Machine Gun Ammo",
+      "price": {
+        "Coin": 2
+      },
+      "purchaseQuantity": 30
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.RangedWeaponItemType",
+      "texture": "weapons/item_machine_gun",
+      "name": "Machine Gun",
+      "price": {
+        "Coin": 70
+      },
+      "hitDelayMs": 150,
+      "continuous": true,
+      "usesAmmunition": true,
+      "reloadDelayMs": 1400,
+      "ammunitionItemTypeString": "Machine Gun Ammo",
+      "sounds": [
+        "sounds/machine_gun_bullet_spawn.ogg"
+      ],
+      "spreadDegrees": 6,
+      "maxDamage": 1,
+      "stackSize": 30
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.RangedWeaponItemType",
+      "texture": "weapons/item_rifle",
+      "name": "Rifle",
+      "price": {
+        "Coin": 115
+      },
+      "hitDelayMs": 180,
+      "continuous": true,
+      "usesAmmunition": true,
+      "reloadDelayMs": 2000,
+      "ammunitionItemTypeString": "Machine Gun Ammo",
+      "sounds": [
+        "sounds/rifle_bullet_spawn.ogg"
+      ],
+      "spreadDegrees": 3,
+      "minDamage": 1.1,
+      "maxDamage": 1.15,
+      "stackSize": 20,
+      "projectileSpeed": 200
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MiscellaneousItemType",
+      "texture": "weapons/item_sniper_magazine",
+      "name": "Sniper Magazine",
+      "price": {
+        "Coin": 7
+      },
+      "purchaseQuantity": 7
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.RangedWeaponItemType",
+      "texture": "weapons/item_sniper",
+      "name": "Sniper Rifle",
+      "price": {
+        "Coin": 130
+      },
+      "hitDelayMs": 1800,
+      "continuous": false,
+      "usesAmmunition": true,
+      "reloadDelayMs": 3000,
+      "ammunitionItemTypeString": "Sniper Magazine",
+      "sounds": [
+        "sounds/sniper_rifle_shot.ogg"
+      ],
+      "projectileSpeed": 250,
+      "spreadDegrees": 1,
+      "minDamage": 5,
+      "maxDamage": 6,
+      "stackSize": 7,
+      "movementSpeedMultiplier": 0.9
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MiscellaneousItemType",
+      "texture": "weapons/item_nail",
+      "name": "Nail",
+      "price": {
+        "Coin": 10
+      }
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MeleeWeaponItemType",
+      "texture": "weapons/item_hammer",
+      "name": "Hammer",
+      "price": {
+        "Coin": 20
+      },
+      "hitDelayMs": 500,
+      "blockDamageMultipliers": {
+        "StoneBlock": 2,
+        "BrickBackgroundBlock": 2,
+        "Block": 1.5,
+        "BackgroundBlock": 1.5
+      },
+      "center": {
+        "x": 0,
+        "y": 3
+      }
+      // todo: nail with RMB, heals friendly structures with LMB
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MeleeWeaponItemType",
+      "texture": "weapons/item_axe_wood",
+      "name": "Wood Axe",
+      "price": {
+        "WoodBlock": 5
+      },
+      "damage": 1.2,
+      "hitDelayMs": 300,
+      "blockDamageMultipliers": {
+        "TreeTrunk": 1,
+        "WoodBlock": 1,
+        "WoodBackgroundBlock": 1
+      },
+      "center": {
+        "x": -1,
+        "y": 3
+      }
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MeleeWeaponItemType",
+      "texture": "weapons/item_pickaxe_wood",
+      "name": "Wood Pickaxe",
+      "price": {
+        "WoodBlock": 5
+      },
+      "damage": 1.1,
+      "hitDelayMs": 300,
+      "blockDamageMultipliers": {
+        "StoneBlock": 1,
+        "DirtBlock": 1,
+        "CoalBlock": 1,
+        "BrickBackgroundBlock": 1
+      },
+      "center": {
+        "x": -1,
+        "y": 7
+      }
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MeleeWeaponItemType",
+      "texture": "weapons/item_axe_stone",
+      "name": "Stone Axe",
+      "price": {
+        "WoodBlock": 2,
+        "StoneBlock": 3
+      },
+      "damage": 1.5,
+      "hitDelayMs": 300,
+      "blockDamageMultipliers": {
+        "TreeTrunk": 2,
+        "WoodBlock": 2,
+        "WoodBackgroundBlock":  2
+      },
+      "center": {
+        "x": -1,
+        "y": 3
+      }
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MeleeWeaponItemType",
+      "texture": "weapons/item_pickaxe_stone",
+      "name": "Stone Pickaxe",
+      "price": {
+        "WoodBlock": 2,
+        "StoneBlock": 3
+      },
+      "damage": 1.3,
+      "hitDelayMs": 300,
+      "blockDamageMultipliers": {
+        "StoneBlock": 1.1,
+        "DirtBlock": 1,
+        "CoalBlock": 1,
+        "IronBlock": 1,
+        "BrickBackgroundBlock": 1
+      },
+      "center": {
+        "x": -1,
+        "y": 7
+      }
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MeleeWeaponItemType",
+      "texture": "weapons/item_axe_iron",
+      "name": "Iron Axe",
+      "price": {
+        "WoodBlock": 2,
+        "IronBlock": 3
+      },
+      "damage": 1.7,
+      "hitDelayMs": 300,
+      "blockDamageMultipliers": {
+        "TreeTrunk": 3,
+        "WoodBlock": 3,
+        "WoodBackgroundBlock":  3
+      },
+      "center": {
+        "x": -1,
+        "y": 3
+      }
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MeleeWeaponItemType",
+      "texture": "weapons/item_pickaxe_iron",
+      "name": "Iron Pickaxe",
+      "price": {
+        "WoodBlock": 2,
+        "IronBlock": 3
+      },
+      "damage": 1.5,
+      "hitDelayMs": 300,
+      "blockDamageMultipliers": {
+        "StoneBlock": 1.2,
+        "DirtBlock": 1,
+        "CoalBlock": 1.2,
+        "IronBlock": 1.2,
+        "GoldBlock": 1,
+        "MithrilBlock": 1,
+        "BrickBackgroundBlock": 1.2
+      },
+      "center": {
+        "x": -1,
+        "y": 7
+      }
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MeleeWeaponItemType",
+      "texture": "weapons/item_axe_mithril",
+      "name": "Mithril Axe",
+      "price": {
+        "WoodBlock": 2,
+        "MithrilBlock": 3
+      },
+      "damage": 2,
+      "hitDelayMs": 300,
+      "blockDamageMultipliers": {
+        "TreeTrunk": 4,
+        "WoodBlock": 4,
+        "WoodBackgroundBlock": 4
+      },
+      "center": {
+        "x": -1,
+        "y": 3
+      }
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MeleeWeaponItemType",
+      "texture": "weapons/item_pickaxe_mithril",
+      "name": "Mithril Pickaxe",
+      "price": {
+        "WoodBlock": 2,
+        "MithrilBlock": 3
+      },
+      "damage": 1.85,
+      "hitDelayMs": 300,
+      "blockDamageMultipliers": {
+        "StoneBlock": 1.2,
+        "DirtBlock": 1,
+        "CoalBlock": 1.4,
+        "IronBlock": 1.4,
+        "GoldBlock": 1.4,
+        "MithrilBlock": 1.4,
+        "BrickBackgroundBlock": 1.4
+      },
+      "center": {
+        "x": -1,
+        "y": 7
+      }
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MiscellaneousItemType",
+      "texture": "weapons/item_shell",
+      "name": "Shotgun Ammo",
+      "price": {
+        "Coin": 1
+      },
+      "purchaseQuantity": 6
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.RangedWeaponItemType",
+      "texture": "weapons/item_shotgun",
+      "name": "Shotgun",
+      "price": {
+        "Coin": 50
+      },
+      "hitDelayMs": 900,
+      "continuous": false,
+      "usesAmmunition": true,
+      "reloadDelayMs": 500,
+      "ammunitionItemTypeString": "Shotgun Ammo",
+      "sounds": [
+        "sounds/pellet_spawn.ogg"
+      ],
+      "numProjectiles": 3,
+      "projectile": "Pellet",
+      "spreadDegrees": "20",
+      "minDamage": 1,
+      "maxDamage": 4,
+      "knockback": 5.4,
+      "stackSize": 6
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MiscellaneousItemType",
+      "texture": "weapons/item_arrow",
+      "name": "Arrow",
+      "price": {
+        "WoodBlock": 2
+      },
+      "purchaseQuantity": 3
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.RangedWeaponItemType",
+      "texture": "weapons/item_bow",
+      "name": "Bow",
+      "price": {
+        "WoodBlock": 12
+      },
+      "hitDelayMs": 1000,
+      "continuous": false,
+      "usesAmmunition": true,
+      "removeOnEmpty": false,
+      "reloadDelayMs": 0,
+      "charge": 10,
+      "stackSize": 6,
+      "ammunitionItemTypeString": "Arrow",
+      "sounds": [
+        "sounds/bow_fire.ogg"
+      ],
+      "chargeSounds": [
+        "sounds/bow_draw.ogg"
+      ],
+      "projectile": "Arrow",
+      "spreadDegrees": 4,
+      "minDamage": 2,
+      "maxDamage": 3
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.RangedWeaponItemType",
+      "texture": "weapons/item_grenade_launcher",
+      "name": "Grenade Launcher",
+      "price": {
+        "Coin": 120
+      },
+      "hitDelayMs": 2000,
+      "continuous": false,
+      "usesAmmunition": true,
+      "removeOnEmpty": false,
+      "reloadDelayMs": 500,
+      "charge": 10,
+      "stackSize": 10,
+      "ammunitionItemTypeString": "Grenade",
+      "sounds": [
+        "sounds/grenade_launch.ogg"
+      ],
+      "projectile": "GrenadeLauncherGrenade",
+      "spreadDegrees": 4,
+      "minDamage": 5,
+      "maxDamage": 10,
+      "movementSpeedMultiplier": 0.9
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MiscellaneousItemType",
+      "texture": "weapons/item_rocket",
+      "name": "Rocket",
+      "price": {
+        "Coin": 70
+      },
+      "purchaseQuantity": 1,
+      "stackSize": 3
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.RangedWeaponItemType",
+      "texture": "weapons/item_bazooka",
+      "name": "Bazooka",
+      "price": {
+        "Coin": 350
+      },
+      "hitDelayMs": 2000,
+      "continuous": false,
+      "usesAmmunition": true,
+      "removeOnEmpty": false,
+      "reloadDelayMs": 500,
+      "stackSize": 1,
+      "ammunitionItemTypeString": "Rocket",
+      "sounds": [
+        "sounds/rocket_fire.ogg"
+      ],
+      "projectile": "Rocket",
+      "spreadDegrees": 4,
+      "minDamage": 7,
+      "maxDamage": 12,
+      "movementSpeedMultiplier": 0.7
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MeleeWeaponItemType",
+      "texture": "weapons/item_sword",
+      "name": "Sword",
+      "price": {
+        "WoodBlock": 3,
+        "StoneBlock": 3
+      },
+      "hitDelayMs": 700,
+      "charge": 10,
+      "damageKnockback": 3,
+      "sounds": [
+        "sounds/sword.ogg"
+      ]
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.RangedWeaponItemType",
+      "texture": "weapons/item_grenade",
+      "name": "Grenade",
+      "price": {
+        "Coin": 25
+      },
+      "hitDelayMs": 2000,
+      "continuous": false,
+      "usesAmmunition": true,
+      "reloadDelayMs": 1000,
+      "ammunitionItemTypeString": "Grenade",
+      "sounds": [
+        "sounds/swoosh.ogg"
+      ],
+      "throwable": true,
+      "projectile": "Grenade",
+      "spreadDegrees": 4,
+      "charge": 10,
+      "stackable": false
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.RangedWeaponItemType",
+      "texture": "entities/tnt",
+      "name": "TNT",
+      "price": {
+        "Coin": 1000
+      },
+      "hitDelayMs": 2000,
+      "continuous": false,
+      "usesAmmunition": true,
+      "reloadDelayMs": 1000,
+      "ammunitionItemTypeString": "TNT",
+      "sounds": [
+        "sounds/swoosh.ogg"
+      ],
+      "throwable": true,
+      "projectile": "TNT",
+      "spreadDegrees": 4,
+      "charge": 10,
+      "stackable": false,
+      "minDamage": 100,
+      "maxDamage": 120
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.RangedWeaponItemType",
+      "texture": "entities/snowball",
+      "name": "Snowball",
+      "price": {
+        "Coin": 4
+      },
+      "hitDelayMs": 1000,
+      "continuous": false,
+      "usesAmmunition": true,
+      "reloadDelayMs": 100,
+      "ammunitionItemTypeString": "Snowball",
+      "sounds": [
+        "sounds/swoosh.ogg"
+      ],
+      "throwable": true,
+      "projectile": "Snowball",
+      "spreadDegrees": 15,
+      "charge": 10,
+      "stackable": false
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.ConsumableItemType",
+      "texture": "weapons/item_medkit",
+      "name": "Medkit",
+      "price": {
+        "Coin": 40
+      },
+      "sounds": [
+        "sounds/heal_0.ogg",
+        "sounds/heal_1.ogg"
+      ],
+      "hitDelayMs": 4000,
+      "healingPower": 10,
+      "stackSize": 3
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.PlaceableItemType",
+      "texture": "entities/door_wood",
+      "name": "Door",
+      "price": {
+        "WoodBlock": 6
+      },
+      "placeOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "movementSpeedMultiplier": 0.9
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.PlaceableItemType",
+      "texture": "entities/door_iron",
+      "name": "IronDoor",
+      "price": {
+        "IronBlock": 3
+      },
+      "placeOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "movementSpeedMultiplier": 0.9
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.PlaceableItemType",
+      "texture": "entities/trapdoor",
+      "name": "TrapDoor",
+      "price": {
+        "WoodBlock": 4
+      },
+      "placeOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "movementSpeedMultiplier": 0.9
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.PlaceableItemType",
+      "texture": "entities/trapdoor_iron",
+      "name": "IronTrapDoor",
+      "price": {
+        "IronBlock": 3
+      },
+      "placeOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "movementSpeedMultiplier": 0.9
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.PlaceableItemType",
+      "texture": "entities/chest",
+      "name": "Chest",
+      "price": {
+        "WoodBlock": 6
+      },
+      "placeOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "movementSpeedMultiplier": 0.9
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.PlaceableItemType",
+      "texture": "entities/supply_crate",
+      "name": "SupplyCrate",
+      "price": {
+        "WoodBlock": 6,
+        "StoneBlock": 2
+      },
+      "placeOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "movementSpeedMultiplier": 0.9
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.PlaceableItemType",
+      "texture": "entities/crate",
+      "name": "Prop",
+      "price": {
+        "Coin": 40
+      },
+      "snapToGrid": false,
+      "movementSpeedMultiplier": 0.9
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.PlaceableItemType",
+      "texture": "entities/turret_aim",
+      "name": "Gun Turret",
+      "price": {
+        "Coin": 140
+      },
+      "movementSpeedMultiplier": 0.9,
+      "stackable": false
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.ConsumableItemType",
+      "texture": "weapons/item_berries",
+      "name": "Berries",
+      "price": {
+        "Coin": 4
+      },
+      "sounds": [
+        "sounds/heal_0.ogg",
+        "sounds/heal_1.ogg"
+      ],
+      "hitDelayMs": 4000,
+      "healingPower": 2
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.ConsumableItemType",
+      "texture": "weapons/item_pumpkin",
+      "name": "Pumpkin",
+      "price": {
+        "Coin": 10
+      },
+      "sounds": [
+        "sounds/heal_0.ogg",
+        "sounds/heal_1.ogg"
+      ],
+      "hitDelayMs": 4000,
+      "healingPower": 4
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.ConsumableItemType",
+      "texture": "weapons/item_bread",
+      "name": "Bread",
+      "price": {
+        "Coin": 6
+      },
+      "sounds": [
+        "sounds/heal_0.ogg",
+        "sounds/heal_1.ogg"
+      ],
+      "hitDelayMs": 4000,
+      "healingPower": 3
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.ConsumableItemType",
+      "texture": "weapons/item_meat",
+      "name": "Meat",
+      "price": {
+        "Coin": 8
+      },
+      "sounds": [
+        "sounds/heal_0.ogg",
+        "sounds/heal_1.ogg"
+      ],
+      "hitDelayMs": 4000,
+      "healingPower": 3
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.MiscellaneousItemType",
+      "texture": "weapons/item_wheat",
+      "name": "Wheat",
+      "price": {
+        "Coin": 1
+      }
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.WearableItemType",
+      "texture": "wearables/iron_helmet",
+      "name": "Iron Helmet",
+      "type": "Helmet",
+      "price": {
+        "IronBlock": 5
+      },
+      "protectionMultiplier": 0.9
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.WearableItemType",
+      "texture": "wearables/iron_chestplate",
+      "name": "Iron Chestplate",
+      "type": "Chestplate",
+      "price": {
+        "IronBlock": 8
+      },
+      "protectionMultiplier": 0.8
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.WearableItemType",
+      "texture": "wearables/iron_leggings",
+      "name": "Iron Leggings",
+      "type": "Leggings",
+      "price": {
+        "IronBlock": 7
+      },
+      "protectionMultiplier": 0.85
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.WearableItemType",
+      "texture": "wearables/mithril_helmet",
+      "name": "Mithril Helmet",
+      "type": "Helmet",
+      "price": {
+        "MithrilBlock": 5
+      },
+      "protectionMultiplier": 0.85
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.WearableItemType",
+      "texture": "wearables/mithril_chestplate",
+      "name": "Mithril Chestplate",
+      "type": "Chestplate",
+      "price": {
+        "MithrilBlock": 8
+      },
+      "protectionMultiplier": 0.75
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.WearableItemType",
+      "texture": "wearables/mithril_leggings",
+      "name": "Mithril Leggings",
+      "type": "Leggings",
+      "price": {
+        "MithrilBlock": 7
+      },
+      "protectionMultiplier": 0.8
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.WearableItemType",
+      "texture": "wearables/obsidian_helmet",
+      "name": "Obsidian Helmet",
+      "type": "Helmet",
+      "price": {
+        "Coin": 1000
+      },
+      "protectionMultiplier": 0.8
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.WearableItemType",
+      "texture": "wearables/obsidian_chestplate",
+      "name": "Obsidian Chestplate",
+      "type": "Chestplate",
+      "price": {
+        "Coin": 2000
+      },
+      "protectionMultiplier": 0.6
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.WearableItemType",
+      "texture": "wearables/obsidian_leggings",
+      "name": "Obsidian Leggings",
+      "type": "Leggings",
+      "price": {
+        "Coin": 1500
+      },
+      "protectionMultiplier": 0.7
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.WearableItemType",
+      "texture": "wearables/pumpkin_helmet",
+      "name": "Pumpkin Helmet",
+      "type": "Helmet",
+      "price": {
+        "Pumpkin": 10
+      },
+      "protectionMultiplier": 0.975
+    },
+    {
+      "class": "io.lurkers.game.entities.items.types.ConsumableItemType",
+      "texture": "weapons/item_homestone",
+      "name": "Homestone",
+      "sounds": [
+        "sounds/teleport.ogg"
+      ],
+      "hitDelayMs": 10000,
+      "healingPower": 0,
+      "stackSize": 1,
+      "stackable": false,
+      "movementSpeedMultiplier": 0.25
+    }
+  ]
+}

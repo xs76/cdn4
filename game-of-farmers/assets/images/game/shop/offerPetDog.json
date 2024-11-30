@@ -1,0 +1,324 @@
+﻿{
+	"frames": {
+		"offerPetDog0000": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 75
+			}
+		},
+		"offerPetDog0001": {
+			"frame": {
+				"x": 52,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 75
+			}
+		},
+		"offerPetDog0002": {
+			"frame": {
+				"x": 104,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 75
+			}
+		},
+		"offerPetDog0003": {
+			"frame": {
+				"x": 156,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 75
+			}
+		},
+		"offerPetDog0004": {
+			"frame": {
+				"x": 0,
+				"y": 75,
+				"w": 52,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 75
+			}
+		},
+		"offerPetDog0005": {
+			"frame": {
+				"x": 52,
+				"y": 75,
+				"w": 52,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 75
+			}
+		},
+		"offerPetDog0006": {
+			"frame": {
+				"x": 104,
+				"y": 75,
+				"w": 52,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 75
+			}
+		},
+		"offerPetDog0007": {
+			"frame": {
+				"x": 156,
+				"y": 75,
+				"w": 52,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 75
+			}
+		},
+		"offerPetDog0008": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 75
+			}
+		},
+		"offerPetDog0009": {
+			"frame": {
+				"x": 52,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 75
+			}
+		},
+		"offerPetDog0010": {
+			"frame": {
+				"x": 104,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 75
+			}
+		},
+		"offerPetDog0011": {
+			"frame": {
+				"x": 156,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 75
+			}
+		},
+		"offerPetDog0012": {
+			"frame": {
+				"x": 0,
+				"y": 75,
+				"w": 52,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 75
+			}
+		},
+		"offerPetDog0013": {
+			"frame": {
+				"x": 52,
+				"y": 75,
+				"w": 52,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 75
+			}
+		},
+		"offerPetDog0014": {
+			"frame": {
+				"x": 104,
+				"y": 75,
+				"w": 52,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 75
+			}
+		},
+		"offerPetDog0015": {
+			"frame": {
+				"x": 156,
+				"y": 75,
+				"w": 52,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 75
+			}
+		}
+	}
+}

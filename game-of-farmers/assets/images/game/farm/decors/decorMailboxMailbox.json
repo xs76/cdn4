@@ -1,0 +1,44 @@
+﻿{
+	"frames": {
+		"decorMailboxMailbox0000": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 69,
+				"h": 83
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 69,
+				"h": 83
+			},
+			"sourceSize": {
+				"w": 69,
+				"h": 83
+			}
+		},
+		"decorMailboxMailbox0001": {
+			"frame": {
+				"x": 0,
+				"y": 83,
+				"w": 69,
+				"h": 83
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 69,
+				"h": 83
+			},
+			"sourceSize": {
+				"w": 69,
+				"h": 83
+			}
+		}
+	}
+}

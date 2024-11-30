@@ -1,0 +1,144 @@
+{
+	"frames": {
+		"popupBubbleBubble": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 496,
+				"h": 369
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 496,
+				"h": 369
+			},
+			"sourceSize": {
+				"w": 496,
+				"h": 369
+			}
+		},
+		"popupBubbleButton": {
+			"frame": {
+				"x": 1,
+				"y": 372,
+				"w": 298,
+				"h": 110
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 298,
+				"h": 110
+			},
+			"sourceSize": {
+				"w": 298,
+				"h": 110
+			}
+		},
+		"popupBubbleClose": {
+			"frame": {
+				"x": 301,
+				"y": 372,
+				"w": 74,
+				"h": 74
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 74,
+				"h": 74
+			},
+			"sourceSize": {
+				"w": 74,
+				"h": 74
+			}
+		},
+		"popupBubbleDiamond": {
+			"frame": {
+				"x": 377,
+				"y": 424,
+				"w": 47,
+				"h": 46
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 47,
+				"h": 46
+			},
+			"sourceSize": {
+				"w": 47,
+				"h": 46
+			}
+		},
+		"popupGirlGirl": {
+			"frame": {
+				"x": 499,
+				"y": 1,
+				"w": 401,
+				"h": 497
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 3,
+				"w": 401,
+				"h": 497
+			},
+			"sourceSize": {
+				"w": 409,
+				"h": 500
+			}
+		},
+		"popupLevelCheckBorder": {
+			"frame": {
+				"x": 377,
+				"y": 372,
+				"w": 49,
+				"h": 50
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 49,
+				"h": 50
+			},
+			"sourceSize": {
+				"w": 49,
+				"h": 50
+			}
+		},
+		"popupLevelCheckMark": {
+			"frame": {
+				"x": 301,
+				"y": 448,
+				"w": 42,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 42,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 42,
+				"h": 32
+			}
+		}
+	}
+}

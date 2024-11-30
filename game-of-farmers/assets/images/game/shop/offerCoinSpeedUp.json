@@ -1,0 +1,544 @@
+﻿{
+	"frames": {
+		"offerCoinSpeedUp0000": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0001": {
+			"frame": {
+				"x": 52,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0002": {
+			"frame": {
+				"x": 104,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0003": {
+			"frame": {
+				"x": 104,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0004": {
+			"frame": {
+				"x": 156,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0005": {
+			"frame": {
+				"x": 0,
+				"y": 70,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0006": {
+			"frame": {
+				"x": 52,
+				"y": 70,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0007": {
+			"frame": {
+				"x": 52,
+				"y": 70,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0008": {
+			"frame": {
+				"x": 104,
+				"y": 70,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0009": {
+			"frame": {
+				"x": 156,
+				"y": 70,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0010": {
+			"frame": {
+				"x": 0,
+				"y": 140,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0011": {
+			"frame": {
+				"x": 52,
+				"y": 140,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0012": {
+			"frame": {
+				"x": 104,
+				"y": 140,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0013": {
+			"frame": {
+				"x": 156,
+				"y": 140,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0014": {
+			"frame": {
+				"x": 0,
+				"y": 210,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0015": {
+			"frame": {
+				"x": 52,
+				"y": 210,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0016": {
+			"frame": {
+				"x": 104,
+				"y": 210,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0017": {
+			"frame": {
+				"x": 156,
+				"y": 210,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0018": {
+			"frame": {
+				"x": 0,
+				"y": 280,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0019": {
+			"frame": {
+				"x": 52,
+				"y": 280,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0020": {
+			"frame": {
+				"x": 104,
+				"y": 280,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0021": {
+			"frame": {
+				"x": 156,
+				"y": 280,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0022": {
+			"frame": {
+				"x": 156,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0023": {
+			"frame": {
+				"x": 0,
+				"y": 350,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0024": {
+			"frame": {
+				"x": 52,
+				"y": 350,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0025": {
+			"frame": {
+				"x": 104,
+				"y": 350,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		},
+		"offerCoinSpeedUp0026": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 70
+			}
+		}
+	}
+}

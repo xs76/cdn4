@@ -1,0 +1,604 @@
+﻿{
+	"frames": {
+		"offerSeedCutPrice0000": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0001": {
+			"frame": {
+				"x": 62,
+				"y": 0,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0002": {
+			"frame": {
+				"x": 124,
+				"y": 0,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0003": {
+			"frame": {
+				"x": 186,
+				"y": 0,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0004": {
+			"frame": {
+				"x": 248,
+				"y": 0,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0005": {
+			"frame": {
+				"x": 310,
+				"y": 0,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0006": {
+			"frame": {
+				"x": 372,
+				"y": 0,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0007": {
+			"frame": {
+				"x": 434,
+				"y": 0,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0008": {
+			"frame": {
+				"x": 0,
+				"y": 69,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0009": {
+			"frame": {
+				"x": 62,
+				"y": 69,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0010": {
+			"frame": {
+				"x": 124,
+				"y": 69,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0011": {
+			"frame": {
+				"x": 186,
+				"y": 69,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0012": {
+			"frame": {
+				"x": 248,
+				"y": 69,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0013": {
+			"frame": {
+				"x": 310,
+				"y": 69,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0014": {
+			"frame": {
+				"x": 372,
+				"y": 69,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0015": {
+			"frame": {
+				"x": 434,
+				"y": 69,
+				"w": 62,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0016": {
+			"frame": {
+				"x": 0,
+				"y": 139,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0017": {
+			"frame": {
+				"x": 62,
+				"y": 139,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0018": {
+			"frame": {
+				"x": 124,
+				"y": 139,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0019": {
+			"frame": {
+				"x": 186,
+				"y": 139,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0020": {
+			"frame": {
+				"x": 248,
+				"y": 139,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0021": {
+			"frame": {
+				"x": 310,
+				"y": 139,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0022": {
+			"frame": {
+				"x": 372,
+				"y": 139,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0023": {
+			"frame": {
+				"x": 434,
+				"y": 139,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0024": {
+			"frame": {
+				"x": 0,
+				"y": 208,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0025": {
+			"frame": {
+				"x": 62,
+				"y": 208,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0026": {
+			"frame": {
+				"x": 124,
+				"y": 208,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0027": {
+			"frame": {
+				"x": 186,
+				"y": 208,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0028": {
+			"frame": {
+				"x": 248,
+				"y": 208,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		},
+		"offerSeedCutPrice0029": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 62,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 70
+			}
+		}
+	}
+}

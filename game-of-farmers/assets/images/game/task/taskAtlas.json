@@ -1,0 +1,884 @@
+{
+	"frames": {
+		"taskAimIconBuyBySeeds": {
+			"frame": {
+				"x": 75,
+				"y": 1087,
+				"w": 66,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 66,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 66,
+				"h": 60
+			}
+		},
+		"taskAimIconEarnCoins": {
+			"frame": {
+				"x": 449,
+				"y": 884,
+				"w": 56,
+				"h": 64
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 56,
+				"h": 64
+			},
+			"sourceSize": {
+				"w": 56,
+				"h": 64
+			}
+		},
+		"taskAimIconEarnDiamonds": {
+			"frame": {
+				"x": 1,
+				"y": 1147,
+				"w": 61,
+				"h": 44
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 61,
+				"h": 44
+			},
+			"sourceSize": {
+				"w": 61,
+				"h": 44
+			}
+		},
+		"taskAimIconEarnSeeds": {
+			"frame": {
+				"x": 219,
+				"y": 945,
+				"w": 67,
+				"h": 55
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 67,
+				"h": 55
+			},
+			"sourceSize": {
+				"w": 67,
+				"h": 55
+			}
+		},
+		"taskAimIconGetDayReward": {
+			"frame": {
+				"x": 143,
+				"y": 1087,
+				"w": 55,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 55,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 55,
+				"h": 60
+			}
+		},
+		"taskAimIconGoToMarket": {
+			"frame": {
+				"x": 379,
+				"y": 896,
+				"w": 68,
+				"h": 54
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 68,
+				"h": 54
+			},
+			"sourceSize": {
+				"w": 68,
+				"h": 54
+			}
+		},
+		"taskAimIconLevelUp": {
+			"frame": {
+				"x": 330,
+				"y": 1014,
+				"w": 57,
+				"h": 56
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 56
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 56
+			}
+		},
+		"taskAimIconMakeItRain": {
+			"frame": {
+				"x": 301,
+				"y": 913,
+				"w": 71,
+				"h": 46
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 46
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 46
+			}
+		},
+		"taskAimIconPetTheCat": {
+			"frame": {
+				"x": 209,
+				"y": 1005,
+				"w": 51,
+				"h": 66
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 51,
+				"h": 66
+			},
+			"sourceSize": {
+				"w": 51,
+				"h": 66
+			}
+		},
+		"taskAimIconPetTheDog": {
+			"frame": {
+				"x": 389,
+				"y": 1014,
+				"w": 47,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 47,
+				"h": 69
+			},
+			"sourceSize": {
+				"w": 47,
+				"h": 69
+			}
+		},
+		"taskAimIconSendGift": {
+			"frame": {
+				"x": 374,
+				"y": 952,
+				"w": 54,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 54,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 54,
+				"h": 60
+			}
+		},
+		"taskAimIconSpendCoins": {
+			"frame": {
+				"x": 200,
+				"y": 1073,
+				"w": 57,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 60
+			}
+		},
+		"taskAimIconSpendDiamonds": {
+			"frame": {
+				"x": 262,
+				"y": 1130,
+				"w": 57,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 57
+			}
+		},
+		"taskAimIconTutorial": {
+			"frame": {
+				"x": 1,
+				"y": 1087,
+				"w": 72,
+				"h": 58
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 72,
+				"h": 58
+			},
+			"sourceSize": {
+				"w": 72,
+				"h": 58
+			}
+		},
+		"taskAimIconUpgradeUnitCarrot": {
+			"frame": {
+				"x": 430,
+				"y": 952,
+				"w": 55,
+				"h": 59
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 55,
+				"h": 59
+			},
+			"sourceSize": {
+				"w": 55,
+				"h": 59
+			}
+		},
+		"taskAimIconUpgradeUnitCow": {
+			"frame": {
+				"x": 288,
+				"y": 961,
+				"w": 69,
+				"h": 51
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 69,
+				"h": 51
+			},
+			"sourceSize": {
+				"w": 69,
+				"h": 51
+			}
+		},
+		"taskAimIconUpgradeUnitDonkey": {
+			"frame": {
+				"x": 145,
+				"y": 1005,
+				"w": 62,
+				"h": 65
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62,
+				"h": 65
+			},
+			"sourceSize": {
+				"w": 62,
+				"h": 65
+			}
+		},
+		"taskAimIconUpgradeUnitEggplant": {
+			"frame": {
+				"x": 438,
+				"y": 1013,
+				"w": 59,
+				"h": 58
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 59,
+				"h": 58
+			},
+			"sourceSize": {
+				"w": 59,
+				"h": 58
+			}
+		},
+		"taskAimIconUpgradeUnitPig": {
+			"frame": {
+				"x": 438,
+				"y": 1073,
+				"w": 59,
+				"h": 56
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 59,
+				"h": 56
+			},
+			"sourceSize": {
+				"w": 59,
+				"h": 56
+			}
+		},
+		"taskAimIconUpgradeUnitPumpkin": {
+			"frame": {
+				"x": 200,
+				"y": 1135,
+				"w": 60,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 60,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 60,
+				"h": 57
+			}
+		},
+		"taskAimIconUpgradeUnitSheep": {
+			"frame": {
+				"x": 262,
+				"y": 1014,
+				"w": 66,
+				"h": 54
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 66,
+				"h": 54
+			},
+			"sourceSize": {
+				"w": 66,
+				"h": 54
+			}
+		},
+		"taskAimIconUpgradeUnitStrawberry": {
+			"frame": {
+				"x": 448,
+				"y": 833,
+				"w": 63,
+				"h": 49
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 63,
+				"h": 49
+			},
+			"sourceSize": {
+				"w": 63,
+				"h": 49
+			}
+		},
+		"taskAimIconUpgradeUnitSunflower": {
+			"frame": {
+				"x": 145,
+				"y": 945,
+				"w": 72,
+				"h": 58
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 72,
+				"h": 58
+			},
+			"sourceSize": {
+				"w": 72,
+				"h": 58
+			}
+		},
+		"taskAimRefresh": {
+			"frame": {
+				"x": 379,
+				"y": 1085,
+				"w": 53,
+				"h": 53
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 53,
+				"h": 53
+			},
+			"sourceSize": {
+				"w": 53,
+				"h": 53
+			}
+		},
+		"taskAimTaskBarB": {
+			"frame": {
+				"x": 64,
+				"y": 1166,
+				"w": 100,
+				"h": 13
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 100,
+				"h": 13
+			},
+			"sourceSize": {
+				"w": 100,
+				"h": 13
+			}
+		},
+		"taskAimTaskBarP": {
+			"frame": {
+				"x": 64,
+				"y": 1181,
+				"w": 98,
+				"h": 11
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 98,
+				"h": 11
+			},
+			"sourceSize": {
+				"w": 98,
+				"h": 11
+			}
+		},
+		"taskAimTaskBarS": {
+			"frame": {
+				"x": 64,
+				"y": 1149,
+				"w": 102,
+				"h": 15
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 102,
+				"h": 15
+			},
+			"sourceSize": {
+				"w": 102,
+				"h": 15
+			}
+		},
+		"taskAimTaskDiamond": {
+			"frame": {
+				"x": 168,
+				"y": 1149,
+				"w": 28,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 28,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 28,
+				"h": 27
+			}
+		},
+		"taskAimTaskLight": {
+			"frame": {
+				"x": 301,
+				"y": 833,
+				"w": 76,
+				"h": 78
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 7,
+				"y": 6,
+				"w": 76,
+				"h": 78
+			},
+			"sourceSize": {
+				"w": 90,
+				"h": 90
+			}
+		},
+		"taskAimTaskStar": {
+			"frame": {
+				"x": 482,
+				"y": 1131,
+				"w": 27,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 27,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 27,
+				"h": 28
+			}
+		},
+		"taskAimWaitChick": {
+			"frame": {
+				"x": 379,
+				"y": 833,
+				"w": 67,
+				"h": 61
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 67,
+				"h": 61
+			},
+			"sourceSize": {
+				"w": 67,
+				"h": 61
+			}
+		},
+		"taskAimWaitClock": {
+			"frame": {
+				"x": 434,
+				"y": 1131,
+				"w": 46,
+				"h": 49
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 46,
+				"h": 49
+			},
+			"sourceSize": {
+				"w": 46,
+				"h": 49
+			}
+		},
+		"taskAimWaitDesk": {
+			"frame": {
+				"x": 262,
+				"y": 1070,
+				"w": 58,
+				"h": 58
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 58,
+				"h": 58
+			},
+			"sourceSize": {
+				"w": 58,
+				"h": 58
+			}
+		},
+		"taskAimWaitLong": {
+			"frame": {
+				"x": 507,
+				"y": 884,
+				"w": 4,
+				"h": 14
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 4,
+				"h": 14
+			},
+			"sourceSize": {
+				"w": 4,
+				"h": 14
+			}
+		},
+		"taskAimWaitShort": {
+			"frame": {
+				"x": 493,
+				"y": 699,
+				"w": 12,
+				"h": 4
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 12,
+				"h": 4
+			},
+			"sourceSize": {
+				"w": 12,
+				"h": 4
+			}
+		},
+		"taskAimWaitStar": {
+			"frame": {
+				"x": 321,
+				"y": 1130,
+				"w": 37,
+				"h": 37
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 37,
+				"h": 37
+			},
+			"sourceSize": {
+				"w": 37,
+				"h": 37
+			}
+		},
+		"taskAimWaitWhat": {
+			"frame": {
+				"x": 487,
+				"y": 950,
+				"w": 24,
+				"h": 35
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 24,
+				"h": 35
+			},
+			"sourceSize": {
+				"w": 24,
+				"h": 35
+			}
+		},
+		"taskBorderChick": {
+			"frame": {
+				"x": 1,
+				"y": 945,
+				"w": 142,
+				"h": 140
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 142,
+				"h": 140
+			},
+			"sourceSize": {
+				"w": 142,
+				"h": 140
+			}
+		},
+		"taskBorderRibbon": {
+			"frame": {
+				"x": 1,
+				"y": 699,
+				"w": 490,
+				"h": 132
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 490,
+				"h": 132
+			},
+			"sourceSize": {
+				"w": 490,
+				"h": 132
+			}
+		},
+		"taskLandButton": {
+			"frame": {
+				"x": 1,
+				"y": 833,
+				"w": 298,
+				"h": 110
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 298,
+				"h": 110
+			},
+			"sourceSize": {
+				"w": 298,
+				"h": 110
+			}
+		},
+		"taskLandDecor": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 510,
+				"h": 696
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 510,
+				"h": 696
+			},
+			"sourceSize": {
+				"w": 510,
+				"h": 696
+			}
+		},
+		"taskMegaOk": {
+			"frame": {
+				"x": 360,
+				"y": 1140,
+				"w": 36,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 36,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 36,
+				"h": 27
+			}
+		},
+		"taskMegaPin": {
+			"frame": {
+				"x": 322,
+				"y": 1072,
+				"w": 55,
+				"h": 55
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 55,
+				"h": 55
+			},
+			"sourceSize": {
+				"w": 55,
+				"h": 55
+			}
+		},
+		"taskMegaStar": {
+			"frame": {
+				"x": 321,
+				"y": 1130,
+				"w": 37,
+				"h": 37
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 37,
+				"h": 37
+			},
+			"sourceSize": {
+				"w": 37,
+				"h": 37
+			}
+		}
+	}
+}

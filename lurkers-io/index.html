@@ -1,0 +1,435 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta name="website" content="classroom6x.gitlab.io" />
+    <!-- Google tag (gtag.js) -->
+<!--     <script async src="https://noga.poki.io/gtag/js?id=G-C8ND2GLMZY"></script> -->
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-C8ND2GLMZY1');
+    </script>
+
+    <title>lurkers.io Unblocked - ClassRoom6x</title>
+    <meta name="description"
+        content="lurkers.io is a free multiplayer browser game. No download needed. Mod-friendly, players can host their own servers and script their own gamemodes.">
+    <meta name="keywords" content="free games, online games, building games, moddable, physics engine, multiplayer">
+    <meta name="author" content="Andre Kiste">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <meta property="og:title" content="lurkers.io">
+    <meta property="og:site_name" content="lurkers.io">
+    <meta property="og:url" content="https://lurkers.io/">
+    <meta property="og:description"
+        content="lurkers.io is a free multiplayer browser game. No download needed. Mod-friendly, players can host their own servers and script their own gamemodes.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://s3.ap-southeast-2.amazonaws.com/lurkers.io/og-image.png">
+    <meta property='og:image:type' content='image/png' />
+
+    <link rel="icon" type="image/png" sizes="64x64" href="favicon-64x64.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="favicon-48x48.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon.png">
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <script src="soundmanager2-setup.js"></script>
+    <script src="soundmanager2-jsmin.js"></script>
+    <script src="sjcl.js"></script>
+
+    <script type="text/javascript" async=true>
+        (function() {
+            var host = window.location.hostname;
+            // Check if the current domain is lurkers.io
+            if (host !== 'lurkers.io') {
+                // If it's not, exit the function
+                return;
+            }
+
+
+            <!-- InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+            (function() {
+                var host = window.location.hostname;
+                var element = document.createElement('script');
+                var firstScript = document.getElementsByTagName('script')[0];
+                var url = 'https://cmp.inmobi.com'
+                    .concat('/choice/', '2dFBHRt8Bv0FQ', '/', host, '/choice.js?tag_version=V3');
+                var uspTries = 0;
+                var uspTriesLimit = 3;
+                element.async = true;
+                element.type = 'text/javascript';
+                element.src = url;
+
+                firstScript.parentNode.insertBefore(element, firstScript);
+
+                function makeStub() {
+                    var TCF_LOCATOR_NAME = '__tcfapiLocator';
+                    var queue = [];
+                    var win = window;
+                    var cmpFrame;
+
+                    function addFrame() {
+                        var doc = win.document;
+                        var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+                        if (!otherCMP) {
+                            if (doc.body) {
+                                var iframe = doc.createElement('iframe');
+
+                                iframe.style.cssText = 'display:none';
+                                iframe.name = TCF_LOCATOR_NAME;
+                                doc.body.appendChild(iframe);
+                            } else {
+                                setTimeout(addFrame, 5);
+                            }
+                        }
+                        return !otherCMP;
+                    }
+
+                    function tcfAPIHandler() {
+                        var gdprApplies;
+                        var args = arguments;
+
+                        if (!args.length) {
+                            return queue;
+                        } else if (args[0] === 'setGdprApplies') {
+                            if (
+                                args.length > 3 &&
+                                args[2] === 2 &&
+                                typeof args[3] === 'boolean'
+                            ) {
+                                gdprApplies = args[3];
+                                if (typeof args[2] === 'function') {
+                                    args[2]('set', true);
+                                }
+                            }
+                        } else if (args[0] === 'ping') {
+                            var retr = {
+                                gdprApplies: gdprApplies,
+                                cmpLoaded: false,
+                                cmpStatus: 'stub'
+                            };
+
+                            if (typeof args[2] === 'function') {
+                                args[2](retr);
+                            }
+                        } else {
+                            if(args[0] === 'init' && typeof args[3] === 'object') {
+                                args[3] = Object.assign(args[3], { tag_version: 'V3' });
+                            }
+                            queue.push(args);
+                        }
+                    }
+
+                    function postMessageEventHandler(event) {
+                        var msgIsString = typeof event.data === 'string';
+                        var json = {};
+
+                        try {
+                            if (msgIsString) {
+                                json = JSON.parse(event.data);
+                            } else {
+                                json = event.data;
+                            }
+                        } catch (ignore) {}
+
+                        var payload = json.__tcfapiCall;
+
+                        if (payload) {
+                            window.__tcfapi(
+                                payload.command,
+                                payload.version,
+                                function(retValue, success) {
+                                    var returnMsg = {
+                                        __tcfapiReturn: {
+                                            returnValue: retValue,
+                                            success: success,
+                                            callId: payload.callId
+                                        }
+                                    };
+                                    if (msgIsString) {
+                                        returnMsg = JSON.stringify(returnMsg);
+                                    }
+                                    if (event && event.source && event.source.postMessage) {
+                                        event.source.postMessage(returnMsg, '*');
+                                    }
+                                },
+                                payload.parameter
+                            );
+                        }
+                    }
+
+                    while (win) {
+                        try {
+                            if (win.frames[TCF_LOCATOR_NAME]) {
+                                cmpFrame = win;
+                                break;
+                            }
+                        } catch (ignore) {}
+
+                        if (win === window.top) {
+                            break;
+                        }
+                        win = win.parent;
+                    }
+                    if (!cmpFrame) {
+                        addFrame();
+                        win.__tcfapi = tcfAPIHandler;
+                        win.addEventListener('message', postMessageEventHandler, false);
+                    }
+                };
+
+                makeStub();
+
+                var uspStubFunction = function() {
+                    var arg = arguments;
+                    if (typeof window.__uspapi !== uspStubFunction) {
+                        setTimeout(function() {
+                            if (typeof window.__uspapi !== 'undefined') {
+                                window.__uspapi.apply(window.__uspapi, arg);
+                            }
+                        }, 500);
+                    }
+                };
+
+                var checkIfUspIsReady = function() {
+                    uspTries++;
+                    if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+                        console.warn('USP is not accessible');
+                    } else {
+                        clearInterval(uspInterval);
+                    }
+                };
+
+                if (typeof window.__uspapi === 'undefined') {
+                    window.__uspapi = uspStubFunction;
+                    var uspInterval = setInterval(checkIfUspIsReady, 6000);
+                }
+            })();
+            <!-- End InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+
+
+        })();
+    </script>
+
+    <!--    <script>-->
+    <!--        var aiptag = aiptag || {};-->
+    <!--        aiptag.cmd = aiptag.cmd || [];-->
+    <!--        aiptag.cmd.display = aiptag.cmd.display || [];-->
+    <!--        aiptag.cmd.player = aiptag.cmd.player || [];-->
+    <!--        // Show GDPR consent tool-->
+    <!--        aiptag.gdprShowConsentTool = true;-->
+    <!--        // If you use your own GDPR consent tool please set aiptag.gdprConsent = false; if an EU user has declined or not yet accepted marketing cookies, for users outside the EU or for users that accepted the GDPR please use aiptag.gdprConsent = true;-->
+
+    <!--        aiptag.cmd.player.push(function () {-->
+    <!--            adplayer = new aipPlayer({-->
+    <!--                // AD_WIDTH: 960,-->
+    <!--                // AD_HEIGHT: 540,-->
+    <!--                AD_FULLSCREEN: true,-->
+    <!--                AD_CENTERPLAYER: false,-->
+    <!--                LOADING_TEXT: 'loading advertisement',-->
+    <!--                PREROLL_ELEM: function () {-->
+    <!--                    return document.getElementById('preroll')-->
+    <!--                },-->
+    <!--                AIP_COMPLETE: function () {-->
+    <!--                    /*******************-->
+    <!--                     ***** WARNING *****-->
+    <!--                     *******************-->
+    <!--                     Please do not remove the PREROLL_ELEM-->
+    <!--                     from the page, it will be hidden automaticly.-->
+    <!--                     If you do want to remove it use the AIP_REMOVE callback.-->
+    <!--                     */-->
+    <!--                    // alert("Ad Completed");-->
+    <!--                },-->
+    <!--                AIP_REMOVE: function () {-->
+    <!--                    // Here it's save to remove the PREROLL_ELEM from the page.-->
+    <!--                    // But it's not necessary.-->
+    <!--                }-->
+    <!--            });-->
+    <!--        });-->
+    <!--    </script>-->
+
+    <!--    <script async src="https://api.adinplay.com/libs/aiptag/pub/LUR/lurkers.io/tag.min.js"></script>-->
+    <script src="patch/poki-sdk.js"></script>
+</head>
+
+<body style="margin:0px;overflow-x:hidden;overflow-y:hidden;user-select:none;display:block;cursor:default;">
+    <a style="display:none;" class="superdev"
+        href="javascript:%7B%20window.__gwt_bookmarklet_params%20%3D%20%7B'server_url'%3A'http%3A%2F%2Flocalhost%3A9876%2F'%7D%3B%20var%20s%20%3D%20document.createElement('script')%3B%20s.src%20%3D%20'http%3A%2F%2Flocalhost%3A9876%2Fdev_mode_on.js'%3B%20void(document.getElementsByTagName('head')%5B0%5D.appendChild(s))%3B%7D">&#8635;</a>
+    <div style="position:absolute;left:0;top:0;" id="embed-html">
+        <table id="loadingscreen" cellspacing="0" cellpadding="0" style="width: 100vw; height: 100vh;">
+            <tbody>
+                <tr>
+                    <td align="center" style="vertical-align: middle;">
+                        <table cellspacing="0" cellpadding="0" class="gdx-preloader" style="
+    /*transform: translateY(-150px);*/
+">
+                            <tbody>
+                                <!--                    <tr>-->
+                                <!--                        <td align="center" style="vertical-align: middle;"><img src="assets/misc/logo.png"-->
+                                <!--                                                                                class="logo"-->
+                                <!--                                                                                ></td>-->
+                                <!--                    </tr>-->
+                                <tr>
+                                    <td align="center" style="vertical-align: middle;">
+
+                                        <!--                            <img src="pixel-art-logo-3.png" style="-->
+                                        <!--    width: 100%;-->
+                                        <!--    /*width: 630px;*/-->
+                                        <!--    margin-bottom: 150px;-->
+                                        <!--    image-rendering: pixelated;-->
+                                        <!--"/>-->
+
+                                        <div class="loadingbar">
+                                            <img id="knob" class="knob" src="loading-knob.gif" style="left: 0%;">
+                                            <span id="progressbar" class="gwt-InlineHTML" style="width: 0%;"></span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <!--                    <tr>-->
+                                <!--                        <iframe-->
+                                <!--                                style="margin-top:50px"-->
+                                <!--                                src="https://discord.com/widget?id=430541432370233381&theme=dark"-->
+                                <!--                                width="350"-->
+                                <!--                                height="500"-->
+                                <!--                                allowtransparency="true" frameborder="0"-->
+                                <!--                                sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">-->
+
+                                <!--                        </iframe>-->
+                                <!--                    </tr>-->
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <script type="text/javascript" src="html/html.nocache.js"></script>
+
+    <!--preroll-->
+    <div class="advertisement" id="preroll" style="display:none;">
+    </div>
+
+    <!--Advertisement Multisize-->
+    <div id="multisize-container">
+        <div id='lurkers-io_300x250' style="width: inherit; height: inherit;"></div>
+    </div>
+
+    <div id="ie-clipboard-contenteditable" class="hidden" contenteditable="true"></div>
+    <input id="hidden-input" class="hidden" type="text" value=""/>
+
+    <script>
+        document.getElementById('hidden-input').addEventListener('keydown', function(event) {
+        if (event.key.length === 1 && !event.ctrlKey && !event.metaKey && !event.altKey) {
+            event.preventDefault();
+        }
+    });
+
+    if (PokiSDK) {
+        PokiSDK.init().then(() => {
+            console.log("PokiSDK successfully initialized");
+            // fire your function to continue to game
+        }).catch(() => {
+            console.log("PokiSDK Initialized, but the user likely has adblock");
+            // fire your function to continue to game
+        });
+
+        PokiSDK.enableEventTracking("2");
+    }
+
+    function checkForAdBlocker(onBlocked, onNotBlocked) {
+        try {
+            return fetch(
+                new Request(
+                    "patch/js/null.js?pagead2.googlesyndication.com/pagead/js/adsbygoogle.js", {
+                        method: 'HEAD',
+                        mode: 'no-cors'
+                    }))
+                .then(function (response) {
+                    // There is no AdBlocker
+                    onNotBlocked();
+                }).catch(function (e) {
+                    // Failed, Because of an AdBlocker
+                    onBlocked();
+                });
+        } catch (error) {
+            // Failed, Because of an AdBlocker
+            console.log(error);
+            onBlocked();
+        }
+    }
+
+    // hide preroll if adblocker is present
+    checkForAdBlocker(
+        function () {
+            document.getElementById('preroll').remove();
+        },
+        function () {
+        }
+    );
+
+    function handleMouseDown(evt) {
+        evt.preventDefault();
+        evt.stopPropagation();
+        evt.target.style.cursor = 'default';
+    }
+
+    function handleMouseUp(evt) {
+        evt.preventDefault();
+        evt.stopPropagation();
+        evt.target.style.cursor = '';
+    }
+
+    document.getElementById('embed-html').addEventListener('mousedown', handleMouseDown, false);
+    document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
+
+    window.onkeydown = function (event) {
+        if (event.keyCode == 9 && event.target == document.body) {
+            event.preventDefault();
+            return false;
+        }
+
+        // prevent all navigation keys except the space key
+        if ([33, 34, 35, 36, 37, 38, 39, 40].indexOf(event.keyCode) > -1) {
+            event.preventDefault();
+            return false;
+        }
+
+        return true;
+    };
+
+    window.onkeypress = function (event) {
+        // prevent the space key (page scroll)
+        if (event.keyCode == 32) {
+            event.preventDefault();
+            return false;
+        }
+    };
+
+    // prevent right click
+    document.getElementById('embed-html').addEventListener('contextmenu', handleMouseDown, false);
+
+    document.addEventListener("contextmenu", function (e) {
+        e.preventDefault();
+    }, false);
+
+    // prevent tab cycling
+    document.addEventListener('keydown', function(event) {
+        if (event.key === 'Tab') {
+            event.preventDefault();
+        }
+    });
+
+    window.onload = function () {
+        window.focus();
+    };
+    window.onclick = function () {
+        window.focus();
+    }
+    </script>
+
+
+</body>
+
+</html>

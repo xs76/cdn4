@@ -1,0 +1,44 @@
+﻿{
+	"frames": {
+		"offerSeedButton0000": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 115,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 115,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 115,
+				"h": 41
+			}
+		},
+		"offerSeedButton0001": {
+			"frame": {
+				"x": 0,
+				"y": 41,
+				"w": 115,
+				"h": 41
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 115,
+				"h": 41
+			},
+			"sourceSize": {
+				"w": 115,
+				"h": 41
+			}
+		}
+	}
+}

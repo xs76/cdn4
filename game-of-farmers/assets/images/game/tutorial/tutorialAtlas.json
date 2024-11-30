@@ -1,0 +1,64 @@
+{
+	"frames": {
+		"tutorialStepBorder": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 291,
+				"h": 106
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 291,
+				"h": 106
+			},
+			"sourceSize": {
+				"w": 291,
+				"h": 106
+			}
+		},
+		"tutorialTapBall": {
+			"frame": {
+				"x": 294,
+				"y": 1,
+				"w": 90,
+				"h": 90
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 90,
+				"h": 90
+			},
+			"sourceSize": {
+				"w": 90,
+				"h": 90
+			}
+		},
+		"tutorialUpHand": {
+			"frame": {
+				"x": 386,
+				"y": 1,
+				"w": 75,
+				"h": 79
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 75,
+				"h": 79
+			},
+			"sourceSize": {
+				"w": 75,
+				"h": 79
+			}
+		}
+	}
+}

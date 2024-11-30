@@ -1,0 +1,317 @@
+{
+  "firstLogin": "2020-05-22T17:29:49",
+  "lastLogin": "2020-05-22T17:29:49",
+  "lastDailyDouble": "2020-05-22T17:29:49",
+  "tutorialStep": 0,
+  "tutorialComplete": 0,
+  "prestigeCooldown": 0,
+  "findAnimalCountDown": 0,
+  "findAnimalCountDownStart": 0,
+  "amountOfAnimalsBoughtWithBuyAnimalButton": 0,
+  "gemPermaBonusses": 0,
+  "claimedSafariAnimal": true,
+  "firstPrestigeDone": false,
+  "prestigeAmount": 0,
+  "maxGPM": 0,
+  "eventData": {
+    "Halloween2022": {
+      "ads": 0
+    },
+    "Christmas2022": {
+      "ads": 0
+    },
+    "Christmas2023": {
+      "ads": 0
+    }
+  },
+  "eventTickets": 0,
+  "eventGoals": {
+    "Halloween2022": [
+      {
+        "claimed": false,
+        "progress": 0
+      },
+      {
+        "claimed": false,
+        "progress": 0
+      },
+      {
+        "claimed": false,
+        "progress": 0
+      },
+      {
+        "claimed": false,
+        "progress": 0
+      },
+      {
+        "claimed": false,
+        "progress": 0
+      },
+      {
+        "claimed": false,
+        "progress": 0
+      }
+    ],
+    "Christmas2022": [
+      {
+        "claimed": false,
+        "progress": 0
+      },
+      {
+        "claimed": false,
+        "progress": 0
+      },
+      {
+        "claimed": false,
+        "progress": 0
+      },
+      {
+        "claimed": false,
+        "progress": 0
+      },
+      {
+        "claimed": false,
+        "progress": 0
+      },
+      {
+        "claimed": false,
+        "progress": 0
+      }
+    ],
+    "Christmas2023": [
+      {
+        "claimed": false,
+        "progress": 0
+      },
+      {
+        "claimed": false,
+        "progress": 0
+      },
+      {
+        "claimed": false,
+        "progress": 0
+      },
+      {
+        "claimed": false,
+        "progress": 0
+      },
+      {
+        "claimed": false,
+        "progress": 0
+      },
+      {
+        "claimed": false,
+        "progress": 0
+      }
+    ]
+  },
+  "settings": {
+    "musicOn": true,
+    "soundOn": true
+  },
+  "inventory": {
+    "coins": "0",
+    "totalGoldCollected": "0",
+    "ecoPoints": "0",
+    "totalEcoPointsCollected": "0",
+    "gems": "0",
+    "safariVouchers": 0,
+    "snack": 0,
+    "h": [
+      {
+        "s": 0,
+        "a": 0,
+        "o": 0,
+        "p": "0",
+        "m": "0",
+        "c": 0
+      },
+      {
+        "s": 0,
+        "a": 0,
+        "o": 0,
+        "p": "0",
+        "m": "0",
+        "c": 0
+      },
+      {
+        "s": 0,
+        "a": 0,
+        "o": 0,
+        "p": "0",
+        "m": "0",
+        "c": 0
+      },
+      {
+        "s": 0,
+        "a": 0,
+        "o": 0,
+        "p": "0",
+        "m": "0",
+        "c": 0
+      },
+      {
+        "s": 0,
+        "a": 0,
+        "o": 0,
+        "p": "0",
+        "m": "0",
+        "c": 0
+      },
+      {
+        "s": 0,
+        "a": 0,
+        "o": 0,
+        "p": "0",
+        "m": "0",
+        "c": 0
+      },
+      {
+        "s": 0,
+        "a": 0,
+        "o": 0,
+        "p": "0",
+        "m": "0",
+        "c": 0
+      },
+      {
+        "s": 0,
+        "a": 0,
+        "o": 0,
+        "p": "0",
+        "m": "0",
+        "c": 0
+      }
+    ],
+    "cs": {},
+    "es": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "animalSaveData": [
+    {
+      "id": 0,
+      "amountRescued": 2
+    },
+    {
+      "id": 1,
+      "amountRescued": 2
+    },
+    {
+      "id": 2,
+      "amountRescued": 2
+    },
+    {
+      "id": 3,
+      "amountRescued": 0
+    },
+    {
+      "id": 4,
+      "amountRescued": 2
+    },
+    {
+      "id": 5,
+      "amountRescued": 0
+    },
+    {
+      "id": 6,
+      "amountRescued": 2
+    },
+    {
+      "id": 7,
+      "amountRescued": 0
+    },
+    {
+      "id": 8,
+      "amountRescued": 0
+    },
+    {
+      "id": 9,
+      "amountRescued": 0
+    },
+    {
+      "id": 10,
+      "amountRescued": 0
+    },
+    {
+      "id": 11,
+      "amountRescued": 0
+    },
+    {
+      "id": 12,
+      "amountRescued": 2
+    },
+    {
+      "id": 13,
+      "amountRescued": 0
+    },
+    {
+      "id": 14,
+      "amountRescued": 0
+    },
+    {
+      "id": 15,
+      "amountRescued": 2
+    },
+    {
+      "id": 16,
+      "amountRescued": 2
+    },
+    {
+      "id": 17,
+      "amountRescued": 0
+    },
+    {
+      "id": 18,
+      "amountRescued": 0
+    },
+    {
+      "id": 19,
+      "amountRescued": 0
+    }
+  ],
+  "playerStats": {
+    "level": 1,
+    "totalPlayTime": 0,
+    "loginsToday": 0,
+    "loginStreak": 0,
+    "totalLogins": 0,
+    "experienceInLevel": 0
+  },
+  "claimedStreakRewardToday": false,
+  "currentRewardTypeIndex": 0,
+  "streakClaimedData": {
+    "day1": false,
+    "day2": false,
+    "day3": false,
+    "day4": false,
+    "day5": false,
+    "day6": false,
+    "day7": false
+  },
+  "dHabitat": {
+    "simple": 0,
+    "ad": 0
+  },
+  "dailyQuests": {
+    "0": [
+      {},
+      {},
+      {}
+    ],
+    "1": [
+      {},
+      {},
+      {}
+    ],
+    "2": [
+      {},
+      {},
+      {}
+    ]
+  }
+}

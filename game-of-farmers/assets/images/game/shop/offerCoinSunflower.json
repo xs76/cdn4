@@ -1,0 +1,544 @@
+﻿{
+	"frames": {
+		"offerCoinSunflower0000": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0001": {
+			"frame": {
+				"x": 71,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0002": {
+			"frame": {
+				"x": 142,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0003": {
+			"frame": {
+				"x": 213,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0004": {
+			"frame": {
+				"x": 284,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0005": {
+			"frame": {
+				"x": 355,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0006": {
+			"frame": {
+				"x": 426,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0007": {
+			"frame": {
+				"x": 0,
+				"y": 67,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0008": {
+			"frame": {
+				"x": 71,
+				"y": 67,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0009": {
+			"frame": {
+				"x": 142,
+				"y": 67,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0010": {
+			"frame": {
+				"x": 213,
+				"y": 67,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0011": {
+			"frame": {
+				"x": 284,
+				"y": 67,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0012": {
+			"frame": {
+				"x": 355,
+				"y": 67,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0013": {
+			"frame": {
+				"x": 426,
+				"y": 67,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0014": {
+			"frame": {
+				"x": 0,
+				"y": 134,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0015": {
+			"frame": {
+				"x": 71,
+				"y": 134,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0016": {
+			"frame": {
+				"x": 142,
+				"y": 134,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0017": {
+			"frame": {
+				"x": 213,
+				"y": 134,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0018": {
+			"frame": {
+				"x": 284,
+				"y": 134,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0019": {
+			"frame": {
+				"x": 355,
+				"y": 134,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0020": {
+			"frame": {
+				"x": 426,
+				"y": 134,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0021": {
+			"frame": {
+				"x": 0,
+				"y": 201,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0022": {
+			"frame": {
+				"x": 71,
+				"y": 201,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0023": {
+			"frame": {
+				"x": 142,
+				"y": 201,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0024": {
+			"frame": {
+				"x": 213,
+				"y": 201,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0025": {
+			"frame": {
+				"x": 284,
+				"y": 201,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		},
+		"offerCoinSunflower0026": {
+			"frame": {
+				"x": 355,
+				"y": 201,
+				"w": 71,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 71,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 71,
+				"h": 67
+			}
+		}
+	}
+}

@@ -1,0 +1,1144 @@
+{
+	"frames": {
+		"levelBarArrow": {
+			"frame": {
+				"x": 632,
+				"y": 304,
+				"w": 146,
+				"h": 155
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 8,
+				"y": 12,
+				"w": 146,
+				"h": 155
+			},
+			"sourceSize": {
+				"w": 167,
+				"h": 183
+			}
+		},
+		"levelBarBadge": {
+			"frame": {
+				"x": 337,
+				"y": 699,
+				"w": 76,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 76,
+				"h": 69
+			},
+			"sourceSize": {
+				"w": 76,
+				"h": 69
+			}
+		},
+		"levelBarBar": {
+			"frame": {
+				"x": 941,
+				"y": 148,
+				"w": 54,
+				"h": 239
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 54,
+				"h": 239
+			},
+			"sourceSize": {
+				"w": 54,
+				"h": 239
+			}
+		},
+		"levelBarBg": {
+			"frame": {
+				"x": 963,
+				"y": 389,
+				"w": 54,
+				"h": 239
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 54,
+				"h": 239
+			},
+			"sourceSize": {
+				"w": 54,
+				"h": 239
+			}
+		},
+		"levelBarBorder": {
+			"frame": {
+				"x": 439,
+				"y": 699,
+				"w": 56,
+				"h": 239
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 56,
+				"h": 239
+			},
+			"sourceSize": {
+				"w": 56,
+				"h": 239
+			}
+		},
+		"levelBarCloudCloud": {
+			"frame": {
+				"x": 448,
+				"y": 328,
+				"w": 182,
+				"h": 117
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 182,
+				"h": 117
+			},
+			"sourceSize": {
+				"w": 182,
+				"h": 117
+			}
+		},
+		"levelBarCloudShadow": {
+			"frame": {
+				"x": 600,
+				"y": 602,
+				"w": 149,
+				"h": 61
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 149,
+				"h": 61
+			},
+			"sourceSize": {
+				"w": 149,
+				"h": 61
+			}
+		},
+		"levelBarCloudTint": {
+			"frame": {
+				"x": 197,
+				"y": 451,
+				"w": 182,
+				"h": 158
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 4,
+				"w": 182,
+				"h": 158
+			},
+			"sourceSize": {
+				"w": 182,
+				"h": 162
+			}
+		},
+		"levelBarCoinsCoins": {
+			"frame": {
+				"x": 300,
+				"y": 937,
+				"w": 116,
+				"h": 69
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 116,
+				"h": 69
+			},
+			"sourceSize": {
+				"w": 116,
+				"h": 69
+			}
+		},
+		"levelBarCoinsDoor": {
+			"frame": {
+				"x": 530,
+				"y": 577,
+				"w": 68,
+				"h": 120
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 68,
+				"h": 120
+			},
+			"sourceSize": {
+				"w": 68,
+				"h": 120
+			}
+		},
+		"levelBarCoinsSafe": {
+			"frame": {
+				"x": 639,
+				"y": 665,
+				"w": 118,
+				"h": 127
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 118,
+				"h": 127
+			},
+			"sourceSize": {
+				"w": 118,
+				"h": 127
+			}
+		},
+		"levelBarCoinsShadow": {
+			"frame": {
+				"x": 365,
+				"y": 621,
+				"w": 163,
+				"h": 76
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 163,
+				"h": 76
+			},
+			"sourceSize": {
+				"w": 163,
+				"h": 76
+			}
+		},
+		"levelBarCoinsStar": {
+			"frame": {
+				"x": 832,
+				"y": 823,
+				"w": 40,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 40,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 40,
+				"h": 40
+			}
+		},
+		"levelBarCoinsTint": {
+			"frame": {
+				"x": 448,
+				"y": 171,
+				"w": 178,
+				"h": 155
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 2,
+				"w": 178,
+				"h": 155
+			},
+			"sourceSize": {
+				"w": 188,
+				"h": 157
+			}
+		},
+		"levelBarDayArm": {
+			"frame": {
+				"x": 963,
+				"y": 630,
+				"w": 31,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 31,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 31,
+				"h": 60
+			}
+		},
+		"levelBarDayBox": {
+			"frame": {
+				"x": 759,
+				"y": 695,
+				"w": 97,
+				"h": 126
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 97,
+				"h": 126
+			},
+			"sourceSize": {
+				"w": 97,
+				"h": 126
+			}
+		},
+		"levelBarDayCap": {
+			"frame": {
+				"x": 836,
+				"y": 947,
+				"w": 57,
+				"h": 46
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 46
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 46
+			}
+		},
+		"levelBarDayGift": {
+			"frame": {
+				"x": 636,
+				"y": 879,
+				"w": 82,
+				"h": 87
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 82,
+				"h": 87
+			},
+			"sourceSize": {
+				"w": 82,
+				"h": 87
+			}
+		},
+		"levelBarDayShadow": {
+			"frame": {
+				"x": 738,
+				"y": 823,
+				"w": 92,
+				"h": 44
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 92,
+				"h": 44
+			},
+			"sourceSize": {
+				"w": 92,
+				"h": 44
+			}
+		},
+		"levelBarDayTint": {
+			"frame": {
+				"x": 799,
+				"y": 158,
+				"w": 140,
+				"h": 161
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 140,
+				"h": 161
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 161
+			}
+		},
+		"levelBarDiamondsBarrel": {
+			"frame": {
+				"x": 518,
+				"y": 447,
+				"w": 104,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 104,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 104,
+				"h": 128
+			}
+		},
+		"levelBarDiamondsGems": {
+			"frame": {
+				"x": 1,
+				"y": 951,
+				"w": 135,
+				"h": 48
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 135,
+				"h": 48
+			},
+			"sourceSize": {
+				"w": 135,
+				"h": 48
+			}
+		},
+		"levelBarDiamondsShadow": {
+			"frame": {
+				"x": 193,
+				"y": 689,
+				"w": 142,
+				"h": 88
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 142,
+				"h": 88
+			},
+			"sourceSize": {
+				"w": 142,
+				"h": 88
+			}
+		},
+		"levelBarDiamondsStar": {
+			"frame": {
+				"x": 976,
+				"y": 820,
+				"w": 40,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 40,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 40,
+				"h": 40
+			}
+		},
+		"levelBarDiamondsTint": {
+			"frame": {
+				"x": 780,
+				"y": 321,
+				"w": 145,
+				"h": 157
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 2,
+				"y": 19,
+				"w": 145,
+				"h": 157
+			},
+			"sourceSize": {
+				"w": 149,
+				"h": 176
+			}
+		},
+		"levelBarFarmCat": {
+			"frame": {
+				"x": 913,
+				"y": 820,
+				"w": 61,
+				"h": 79
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 0,
+				"w": 61,
+				"h": 79
+			},
+			"sourceSize": {
+				"w": 66,
+				"h": 83
+			}
+		},
+		"levelBarFarmFork": {
+			"frame": {
+				"x": 936,
+				"y": 1,
+				"w": 56,
+				"h": 145
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 56,
+				"h": 145
+			},
+			"sourceSize": {
+				"w": 56,
+				"h": 145
+			}
+		},
+		"levelBarFarmStack": {
+			"frame": {
+				"x": 639,
+				"y": 794,
+				"w": 97,
+				"h": 83
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 97,
+				"h": 83
+			},
+			"sourceSize": {
+				"w": 97,
+				"h": 83
+			}
+		},
+		"levelBarFarmStacks": {
+			"frame": {
+				"x": 628,
+				"y": 190,
+				"w": 169,
+				"h": 112
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 169,
+				"h": 112
+			},
+			"sourceSize": {
+				"w": 169,
+				"h": 112
+			}
+		},
+		"levelBarKennelCarrots": {
+			"frame": {
+				"x": 197,
+				"y": 611,
+				"w": 166,
+				"h": 76
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 166,
+				"h": 76
+			},
+			"sourceSize": {
+				"w": 166,
+				"h": 76
+			}
+		},
+		"levelBarKennelKennel": {
+			"frame": {
+				"x": 497,
+				"y": 845,
+				"w": 137,
+				"h": 137
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 137,
+				"h": 137
+			},
+			"sourceSize": {
+				"w": 137,
+				"h": 137
+			}
+		},
+		"levelBarKennelShadow": {
+			"frame": {
+				"x": 770,
+				"y": 588,
+				"w": 191,
+				"h": 105
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 191,
+				"h": 105
+			},
+			"sourceSize": {
+				"w": 191,
+				"h": 105
+			}
+		},
+		"levelBarKennelStar": {
+			"frame": {
+				"x": 895,
+				"y": 963,
+				"w": 40,
+				"h": 40
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 40,
+				"h": 40
+			},
+			"sourceSize": {
+				"w": 40,
+				"h": 40
+			}
+		},
+		"levelBarKennelTint": {
+			"frame": {
+				"x": 1,
+				"y": 451,
+				"w": 194,
+				"h": 173
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 3,
+				"w": 194,
+				"h": 173
+			},
+			"sourceSize": {
+				"w": 194,
+				"h": 176
+			}
+		},
+		"levelBarLight": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 445,
+				"h": 448
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 11,
+				"y": 12,
+				"w": 445,
+				"h": 448
+			},
+			"sourceSize": {
+				"w": 471,
+				"h": 469
+			}
+		},
+		"levelBarMarketBoxOne": {
+			"frame": {
+				"x": 720,
+				"y": 879,
+				"w": 74,
+				"h": 84
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 74,
+				"h": 84
+			},
+			"sourceSize": {
+				"w": 74,
+				"h": 84
+			}
+		},
+		"levelBarMarketBoxTwo": {
+			"frame": {
+				"x": 836,
+				"y": 865,
+				"w": 75,
+				"h": 80
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 75,
+				"h": 80
+			},
+			"sourceSize": {
+				"w": 75,
+				"h": 80
+			}
+		},
+		"levelBarMarketCanopy": {
+			"frame": {
+				"x": 774,
+				"y": 1,
+				"w": 160,
+				"h": 155
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 160,
+				"h": 155
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 155
+			}
+		},
+		"levelBarMarketMelon": {
+			"frame": {
+				"x": 913,
+				"y": 901,
+				"w": 72,
+				"h": 60
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 72,
+				"h": 60
+			},
+			"sourceSize": {
+				"w": 72,
+				"h": 60
+			}
+		},
+		"levelBarMarketShadow": {
+			"frame": {
+				"x": 497,
+				"y": 699,
+				"w": 140,
+				"h": 144
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 140,
+				"h": 144
+			},
+			"sourceSize": {
+				"w": 140,
+				"h": 144
+			}
+		},
+		"levelBarMarketTint": {
+			"frame": {
+				"x": 1,
+				"y": 779,
+				"w": 160,
+				"h": 170
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 3,
+				"w": 160,
+				"h": 170
+			},
+			"sourceSize": {
+				"w": 160,
+				"h": 173
+			}
+		},
+		"levelBarPlantGround": {
+			"frame": {
+				"x": 770,
+				"y": 480,
+				"w": 183,
+				"h": 106
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 183,
+				"h": 106
+			},
+			"sourceSize": {
+				"w": 183,
+				"h": 106
+			}
+		},
+		"levelBarPlantLeaf": {
+			"frame": {
+				"x": 418,
+				"y": 940,
+				"w": 75,
+				"h": 66
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 75,
+				"h": 66
+			},
+			"sourceSize": {
+				"w": 75,
+				"h": 66
+			}
+		},
+		"levelBarPlantRocks": {
+			"frame": {
+				"x": 929,
+				"y": 786,
+				"w": 76,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 76,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 76,
+				"h": 32
+			}
+		},
+		"levelBarPlantShovel": {
+			"frame": {
+				"x": 858,
+				"y": 695,
+				"w": 69,
+				"h": 122
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 69,
+				"h": 122
+			},
+			"sourceSize": {
+				"w": 69,
+				"h": 122
+			}
+		},
+		"levelBarPlantTint": {
+			"frame": {
+				"x": 1,
+				"y": 626,
+				"w": 190,
+				"h": 151
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 190,
+				"h": 151
+			},
+			"sourceSize": {
+				"w": 190,
+				"h": 151
+			}
+		},
+		"levelBarRound": {
+			"frame": {
+				"x": 138,
+				"y": 952,
+				"w": 56,
+				"h": 54
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 56,
+				"h": 54
+			},
+			"sourceSize": {
+				"w": 56,
+				"h": 54
+			}
+		},
+		"levelBarSeedsBag": {
+			"frame": {
+				"x": 381,
+				"y": 451,
+				"w": 135,
+				"h": 168
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 135,
+				"h": 168
+			},
+			"sourceSize": {
+				"w": 135,
+				"h": 168
+			}
+		},
+		"levelBarSeedsTint": {
+			"frame": {
+				"x": 163,
+				"y": 779,
+				"w": 135,
+				"h": 171
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1,
+				"w": 135,
+				"h": 171
+			},
+			"sourceSize": {
+				"w": 135,
+				"h": 173
+			}
+		},
+		"levelBarShopShelf": {
+			"frame": {
+				"x": 300,
+				"y": 779,
+				"w": 137,
+				"h": 156
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 137,
+				"h": 156
+			},
+			"sourceSize": {
+				"w": 137,
+				"h": 156
+			}
+		},
+		"levelBarShopTint": {
+			"frame": {
+				"x": 448,
+				"y": 1,
+				"w": 178,
+				"h": 168
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 6,
+				"w": 178,
+				"h": 168
+			},
+			"sourceSize": {
+				"w": 178,
+				"h": 174
+			}
+		},
+		"levelBarShopTruck": {
+			"frame": {
+				"x": 929,
+				"y": 695,
+				"w": 80,
+				"h": 89
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 80,
+				"h": 89
+			},
+			"sourceSize": {
+				"w": 80,
+				"h": 89
+			}
+		},
+		"levelBarTimeBob": {
+			"frame": {
+				"x": 796,
+				"y": 869,
+				"w": 38,
+				"h": 82
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 38,
+				"h": 82
+			},
+			"sourceSize": {
+				"w": 38,
+				"h": 82
+			}
+		},
+		"levelBarTimeCuckoo": {
+			"frame": {
+				"x": 927,
+				"y": 389,
+				"w": 34,
+				"h": 42
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 34,
+				"h": 42
+			},
+			"sourceSize": {
+				"w": 34,
+				"h": 42
+			}
+		},
+		"levelBarTimeHouse": {
+			"frame": {
+				"x": 624,
+				"y": 461,
+				"w": 144,
+				"h": 139
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 144,
+				"h": 139
+			},
+			"sourceSize": {
+				"w": 144,
+				"h": 139
+			}
+		},
+		"levelBarTimeShadow": {
+			"frame": {
+				"x": 196,
+				"y": 952,
+				"w": 96,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 96,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 96,
+				"h": 45
+			}
+		},
+		"levelBarTimeTint": {
+			"frame": {
+				"x": 628,
+				"y": 1,
+				"w": 144,
+				"h": 187
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 3,
+				"w": 144,
+				"h": 187
+			},
+			"sourceSize": {
+				"w": 144,
+				"h": 190
+			}
+		}
+	}
+}

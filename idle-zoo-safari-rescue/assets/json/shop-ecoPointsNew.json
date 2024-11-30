@@ -1,0 +1,770 @@
+[
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 1,
+    "price": 25,
+    "bonus": 25
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 2,
+    "price": 63,
+    "bonus": 25
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 3,
+    "price": 156,
+    "bonus": 25
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 4,
+    "price": 391,
+    "bonus": 25
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 5,
+    "price": 977,
+    "bonus": 25
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 6,
+    "price": 2441,
+    "bonus": 50
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 7,
+    "price": 6104,
+    "bonus": 50
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 8,
+    "price": 15259,
+    "bonus": 50
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 9,
+    "price": 38147,
+    "bonus": 50
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 10,
+    "price": 95367,
+    "bonus": 50
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 11,
+    "price": 238419,
+    "bonus": 75
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 12,
+    "price": 596046,
+    "bonus": 75
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 13,
+    "price": 1490116,
+    "bonus": 75
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 14,
+    "price": 3725290,
+    "bonus": 75
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 15,
+    "price": 9313226,
+    "bonus": 75
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 16,
+    "price": 23283064,
+    "bonus": 100
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 17,
+    "price": 58207661,
+    "bonus": 100
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 18,
+    "price": 145519152,
+    "bonus": 100
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 19,
+    "price": 363797881,
+    "bonus": 100
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 20,
+    "price": 909494702,
+    "bonus": 100
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 21,
+    "price": 2273736754,
+    "bonus": 125
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 22,
+    "price": 5684341886,
+    "bonus": 125
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 23,
+    "price": 14210854715,
+    "bonus": 125
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 24,
+    "price": 35527136788,
+    "bonus": 125
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 25,
+    "price": 88817841970,
+    "bonus": 125
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 26,
+    "price": 222044604925,
+    "bonus": 150
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 27,
+    "price": 555111512313,
+    "bonus": 150
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 28,
+    "price": 1387778780781,
+    "bonus": 150
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 29,
+    "price": 3469446951954,
+    "bonus": 150
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 30,
+    "price": 8673617379884,
+    "bonus": 150
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 31,
+    "price": 21684043449710,
+    "bonus": 175
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 32,
+    "price": 54210108624275,
+    "bonus": 175
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 33,
+    "price": 135525271560689,
+    "bonus": 175
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 34,
+    "price": 338813178901721,
+    "bonus": 175
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 35,
+    "price": 847032947254301,
+    "bonus": 175
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 36,
+    "price": 2117580000000000,
+    "bonus": 200
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 37,
+    "price": 5293960000000000,
+    "bonus": 200
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 38,
+    "price": 13234900000000000,
+    "bonus": 200
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 39,
+    "price": 33087200000000000,
+    "bonus": 200
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 40,
+    "price": 82718100000000000,
+    "bonus": 200
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 41,
+    "price": 206795000000000000,
+    "bonus": 225
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 42,
+    "price": 516988000000000000,
+    "bonus": 225
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 43,
+    "price": 1292470000000000000,
+    "bonus": 225
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 44,
+    "price": 3231170000000000000,
+    "bonus": 225
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 45,
+    "price": 8077940000000000000,
+    "bonus": 225
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 46,
+    "price": 20194800000000000000,
+    "bonus": 250
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 47,
+    "price": 50487100000000000000,
+    "bonus": 250
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 48,
+    "price": 126218000000000000000,
+    "bonus": 250
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 49,
+    "price": 315544000000000000000,
+    "bonus": 250
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 50,
+    "price": 788861000000000000000,
+    "bonus": 250
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 51,
+    "price": 1.97215e+21,
+    "bonus": 275
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 52,
+    "price": 4.93038e+21,
+    "bonus": 275
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 53,
+    "price": 1.2326e+22,
+    "bonus": 275
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 54,
+    "price": 3.08149e+22,
+    "bonus": 275
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 55,
+    "price": 7.70372e+22,
+    "bonus": 275
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 56,
+    "price": 1.92593e+23,
+    "bonus": 300
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 57,
+    "price": 4.81482e+23,
+    "bonus": 300
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 58,
+    "price": 1.20371e+24,
+    "bonus": 300
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 59,
+    "price": 3.00927e+24,
+    "bonus": 300
+  },
+  {
+    "bonusType": "ecoShopCoinBonus",
+    "id": 60,
+    "price": 7.52316e+24,
+    "bonus": 300
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 1,
+    "price": 30,
+    "bonus": 50
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 2,
+    "price": 83,
+    "bonus": 50
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 3,
+    "price": 227,
+    "bonus": 50
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 4,
+    "price": 624,
+    "bonus": 50
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 5,
+    "price": 1716,
+    "bonus": 50
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 6,
+    "price": 4718,
+    "bonus": 50
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 7,
+    "price": 12975,
+    "bonus": 50
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 8,
+    "price": 35682,
+    "bonus": 50
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 9,
+    "price": 98126,
+    "bonus": 50
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 10,
+    "price": 269846,
+    "bonus": 50
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 11,
+    "price": 742076,
+    "bonus": 75
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 12,
+    "price": 2040708,
+    "bonus": 75
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 13,
+    "price": 5611947,
+    "bonus": 75
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 14,
+    "price": 15432855,
+    "bonus": 75
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 15,
+    "price": 42440351,
+    "bonus": 75
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 16,
+    "price": 116710966,
+    "bonus": 75
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 17,
+    "price": 320955155,
+    "bonus": 75
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 18,
+    "price": 882626677,
+    "bonus": 75
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 19,
+    "price": 2427223363,
+    "bonus": 75
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 20,
+    "price": 6674864247,
+    "bonus": 75
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 21,
+    "price": 18355876680,
+    "bonus": 100
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 22,
+    "price": 50478660871,
+    "bonus": 100
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 23,
+    "price": 138816317395,
+    "bonus": 100
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 24,
+    "price": 381744872835,
+    "bonus": 100
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 25,
+    "price": 1049798400296,
+    "bonus": 100
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 26,
+    "price": 2886945600814,
+    "bonus": 100
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 27,
+    "price": 7939100402239,
+    "bonus": 100
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 28,
+    "price": 21832526106158,
+    "bonus": 100
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 29,
+    "price": 60039446791934,
+    "bonus": 100
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 30,
+    "price": 165108478677820,
+    "bonus": 100
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 31,
+    "price": 454048316364004,
+    "bonus": 125
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 32,
+    "price": 1248630000000000,
+    "bonus": 125
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 33,
+    "price": 3433740000000000,
+    "bonus": 125
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 34,
+    "price": 9442790000000000,
+    "bonus": 125
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 35,
+    "price": 25967700000000000,
+    "bonus": 125
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 36,
+    "price": 71411100000000000,
+    "bonus": 125
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 37,
+    "price": 196380000000000000,
+    "bonus": 125
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 38,
+    "price": 540046000000000000,
+    "bonus": 125
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 39,
+    "price": 1485130000000000000,
+    "bonus": 125
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 40,
+    "price": 4084100000000000000,
+    "bonus": 125
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 41,
+    "price": 11231300000000000000,
+    "bonus": 150
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 42,
+    "price": 30886000000000000000,
+    "bonus": 150
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 43,
+    "price": 84936500000000000000,
+    "bonus": 150
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 44,
+    "price": 233575000000000000000,
+    "bonus": 150
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 45,
+    "price": 642332000000000000000,
+    "bonus": 150
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 46,
+    "price": 1.76641e+21,
+    "bonus": 150
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 47,
+    "price": 4.85764e+21,
+    "bonus": 150
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 48,
+    "price": 1.33585e+22,
+    "bonus": 150
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 49,
+    "price": 3.67359e+22,
+    "bonus": 150
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 50,
+    "price": 1.01024e+23,
+    "bonus": 150
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 51,
+    "price": 2.77815e+23,
+    "bonus": 175
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 52,
+    "price": 7.63992e+23,
+    "bonus": 175
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 53,
+    "price": 2.10098e+24,
+    "bonus": 175
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 54,
+    "price": 5.77769e+24,
+    "bonus": 175
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 55,
+    "price": 1.58886e+25,
+    "bonus": 175
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 56,
+    "price": 4.36938e+25,
+    "bonus": 175
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 57,
+    "price": 1.20158e+26,
+    "bonus": 175
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 58,
+    "price": 3.30434e+26,
+    "bonus": 175
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 59,
+    "price": 9.08694e+26,
+    "bonus": 175
+  },
+  {
+    "bonusType": "ecoShopTimeBonus",
+    "id": 60,
+    "price": 2.49891e+27,
+    "bonus": 175
+  },
+  {
+    "bonusType": "ecoShopSafariTimeReduction",
+    "id": 1,
+    "price": 15000,
+    "bonus": 30
+  },
+  {
+    "bonusType": "ecoShopSafariTimeReduction",
+    "id": 2,
+    "price": 750000,
+    "bonus": 30
+  },
+  {
+    "bonusType": "ecoShopSafariTimeReduction",
+    "id": 3,
+    "price": 37500000,
+    "bonus": 30
+  },
+  {
+    "bonusType": "ecoShopSafariTimeReduction",
+    "id": 4,
+    "price": 1875000000,
+    "bonus": 30
+  },
+  {
+    "bonusType": "ecoShopSafariTimeReduction",
+    "id": 5,
+    "price": 93750000000,
+    "bonus": 30
+  },
+  {
+    "bonusType": "ecoShopSafariTimeReduction",
+    "id": 6,
+    "price": 4687500000000,
+    "bonus": 30
+  },
+  {
+    "bonusType": "ecoShopSafariTimeReduction",
+    "id": 7,
+    "price": 234375000000001,
+    "bonus": 30
+  },
+  {
+    "bonusType": "ecoShopSafariTimeReduction",
+    "id": 8,
+    "price": 11718800000000000,
+    "bonus": 30
+  }
+]

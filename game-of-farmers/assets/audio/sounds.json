@@ -1,0 +1,600 @@
+{
+  "resources": [
+    "audio\\sounds.ogg",
+    "audio\\sounds.m4a",
+    "audio\\sounds.mp3",
+    "audio\\sounds.ac3"
+  ],
+  "spritemap": {
+    "buble1": {
+      "start": 0,
+      "end": 0.39183673469387753,
+      "loop": false
+    },
+    "buble2": {
+      "start": 2,
+      "end": 2.156734693877551,
+      "loop": false
+    },
+    "buble3": {
+      "start": 4,
+      "end": 4.3395918367346935,
+      "loop": false
+    },
+    "buyerOpen": {
+      "start": 6,
+      "end": 7.253877551020408,
+      "loop": false
+    },
+    "camel1": {
+      "start": 9,
+      "end": 9.522448979591836,
+      "loop": false
+    },
+    "camel2": {
+      "start": 11,
+      "end": 11.600816326530612,
+      "loop": false
+    },
+    "chestOpen": {
+      "start": 13,
+      "end": 14.98530612244898,
+      "loop": false
+    },
+    "chestOpenElse": {
+      "start": 16,
+      "end": 16.496326530612244,
+      "loop": false
+    },
+    "chestOpenUp": {
+      "start": 18,
+      "end": 20.742857142857144,
+      "loop": false
+    },
+    "cloudHide": {
+      "start": 22,
+      "end": 22.28734693877551,
+      "loop": false
+    },
+    "cloudRain1": {
+      "start": 24,
+      "end": 26.246530612244896,
+      "loop": false
+    },
+    "cloudRain2": {
+      "start": 28,
+      "end": 30.246530612244896,
+      "loop": false
+    },
+    "cloudShow": {
+      "start": 32,
+      "end": 32.287346938775514,
+      "loop": false
+    },
+    "coins1": {
+      "start": 34,
+      "end": 34.33959183673469,
+      "loop": false
+    },
+    "coins2": {
+      "start": 36,
+      "end": 36.26122448979592,
+      "loop": false
+    },
+    "coins3": {
+      "start": 38,
+      "end": 38.20897959183674,
+      "loop": false
+    },
+    "coins4": {
+      "start": 40,
+      "end": 40.10448979591837,
+      "loop": false
+    },
+    "coins5": {
+      "start": 42,
+      "end": 42.10448979591837,
+      "loop": false
+    },
+    "coins6": {
+      "start": 44,
+      "end": 44.13061224489796,
+      "loop": false
+    },
+    "collectSeedCollect": {
+      "start": 46,
+      "end": 46.10448979591837,
+      "loop": false
+    },
+    "cow1": {
+      "start": 48,
+      "end": 48.496326530612244,
+      "loop": false
+    },
+    "cow2": {
+      "start": 50,
+      "end": 50.47020408163265,
+      "loop": false
+    },
+    "cow3": {
+      "start": 52,
+      "end": 52.55201814058957,
+      "loop": false
+    },
+    "crocodile1": {
+      "start": 54,
+      "end": 54.41795918367347,
+      "loop": false
+    },
+    "crocodile2": {
+      "start": 56,
+      "end": 56.44408163265306,
+      "loop": false
+    },
+    "dayRewardApply": {
+      "start": 58,
+      "end": 59.22775510204082,
+      "loop": false
+    },
+    "decorPetCat": {
+      "start": 61,
+      "end": 62.80244897959184,
+      "loop": false
+    },
+    "decorPetDog": {
+      "start": 64,
+      "end": 64.67918367346938,
+      "loop": false
+    },
+    "donkey1": {
+      "start": 66,
+      "end": 66.41795918367347,
+      "loop": false
+    },
+    "donkey2": {
+      "start": 68,
+      "end": 68.36571428571429,
+      "loop": false
+    },
+    "donkey3": {
+      "start": 70,
+      "end": 70.6,
+      "loop": false
+    },
+    "duck1": {
+      "start": 72,
+      "end": 72.47020408163266,
+      "loop": false
+    },
+    "duck2": {
+      "start": 74,
+      "end": 74.36571428571429,
+      "loop": false
+    },
+    "elk1": {
+      "start": 76,
+      "end": 76.75755102040816,
+      "loop": false
+    },
+    "elk2": {
+      "start": 78,
+      "end": 78.65306122448979,
+      "loop": false
+    },
+    "envBird": {
+      "start": 80,
+      "end": 90.08326530612246,
+      "loop": false
+    },
+    "envChicken": {
+      "start": 92,
+      "end": 102.05714285714285,
+      "loop": false
+    },
+    "envCow": {
+      "start": 104,
+      "end": 114.03102040816327,
+      "loop": false
+    },
+    "envGametheme1": {
+      "start": 116,
+      "end": 118.42938775510204,
+      "loop": false
+    },
+    "envGametheme2": {
+      "start": 120,
+      "end": 122.42938775510204,
+      "loop": false
+    },
+    "envGoose": {
+      "start": 124,
+      "end": 134.08326530612246,
+      "loop": false
+    },
+    "envHorse": {
+      "start": 136,
+      "end": 145.14285714285714,
+      "loop": false
+    },
+    "flamingo1": {
+      "start": 147,
+      "end": 147.49632653061224,
+      "loop": false
+    },
+    "flamingo2": {
+      "start": 149,
+      "end": 149.54857142857142,
+      "loop": false
+    },
+    "gameStart": {
+      "start": 151,
+      "end": 170.89598639455784,
+      "loop": false
+    },
+    "giraffe1": {
+      "start": 172,
+      "end": 172.39183673469387,
+      "loop": false
+    },
+    "giraffe2": {
+      "start": 174,
+      "end": 174.3657142857143,
+      "loop": false
+    },
+    "hare1": {
+      "start": 176,
+      "end": 176.54857142857142,
+      "loop": false
+    },
+    "hare2": {
+      "start": 178,
+      "end": 178.39183673469387,
+      "loop": false
+    },
+    "harvesterRideIn": {
+      "start": 180,
+      "end": 181.67183673469387,
+      "loop": false
+    },
+    "harvesterRideOut": {
+      "start": 183,
+      "end": 184.67183673469387,
+      "loop": false
+    },
+    "hen1": {
+      "start": 186,
+      "end": 186.88816326530613,
+      "loop": false
+    },
+    "hen2": {
+      "start": 188,
+      "end": 188.26122448979592,
+      "loop": false
+    },
+    "horse1": {
+      "start": 190,
+      "end": 190.9665306122449,
+      "loop": false
+    },
+    "horse2": {
+      "start": 192,
+      "end": 192.6269387755102,
+      "loop": false
+    },
+    "kennelUpUpgrade": {
+      "start": 194,
+      "end": 195.46285714285713,
+      "loop": false
+    },
+    "levelNewOpen": {
+      "start": 197,
+      "end": 200.4742857142857,
+      "loop": false
+    },
+    "levelOpen": {
+      "start": 202,
+      "end": 202.88816326530613,
+      "loop": false
+    },
+    "levelRewardDiamonds": {
+      "start": 204,
+      "end": 206.64,
+      "loop": false
+    },
+    "levelRewardSeeds": {
+      "start": 208,
+      "end": 208.10448979591837,
+      "loop": false
+    },
+    "octopus1": {
+      "start": 210,
+      "end": 210.49632653061224,
+      "loop": false
+    },
+    "octopus2": {
+      "start": 212,
+      "end": 212.49632653061224,
+      "loop": false
+    },
+    "offlineContinue": {
+      "start": 214,
+      "end": 214.52244897959184,
+      "loop": false
+    },
+    "openWorld": {
+      "start": 216,
+      "end": 219.72,
+      "loop": false
+    },
+    "panda1": {
+      "start": 221,
+      "end": 221.44408163265305,
+      "loop": false
+    },
+    "panda2": {
+      "start": 223,
+      "end": 223.54857142857142,
+      "loop": false
+    },
+    "pickersDiamondArrive": {
+      "start": 225,
+      "end": 225.2873469387755,
+      "loop": false
+    },
+    "pickersLevelArrive": {
+      "start": 227,
+      "end": 227.2873469387755,
+      "loop": false
+    },
+    "pickersLevelArrive2": {
+      "start": 229,
+      "end": 229.2873469387755,
+      "loop": false
+    },
+    "pickersLevelArrive3": {
+      "start": 231,
+      "end": 231.2873469387755,
+      "loop": false
+    },
+    "pig1": {
+      "start": 233,
+      "end": 233.54857142857142,
+      "loop": false
+    },
+    "pig2": {
+      "start": 235,
+      "end": 235.26122448979592,
+      "loop": false
+    },
+    "pig3": {
+      "start": 237,
+      "end": 237.55201814058958,
+      "loop": false
+    },
+    "plantingUnit": {
+      "start": 239,
+      "end": 240.75201814058957,
+      "loop": false
+    },
+    "seal1": {
+      "start": 242,
+      "end": 242.49632653061224,
+      "loop": false
+    },
+    "seal2": {
+      "start": 244,
+      "end": 244.49632653061224,
+      "loop": false
+    },
+    "seedOpen": {
+      "start": 246,
+      "end": 246.44408163265305,
+      "loop": false
+    },
+    "sheep1": {
+      "start": 248,
+      "end": 248.44408163265305,
+      "loop": false
+    },
+    "sheep2": {
+      "start": 250,
+      "end": 250.3657142857143,
+      "loop": false
+    },
+    "sheep3": {
+      "start": 252,
+      "end": 252.41795918367347,
+      "loop": false
+    },
+    "shopBuyCoinOffer": {
+      "start": 254,
+      "end": 254.52244897959184,
+      "loop": false
+    },
+    "shopBuySeedOffer": {
+      "start": 256,
+      "end": 256.67918367346937,
+      "loop": false
+    },
+    "shopSelectTab": {
+      "start": 258,
+      "end": 258.2873469387755,
+      "loop": false
+    },
+    "ballBurst": {
+      "start": 260,
+      "end": 260.705306122449,
+      "loop": false
+    },
+    "slotBag": {
+      "start": 262,
+      "end": 263.5934693877551,
+      "loop": false
+    },
+    "slotButton": {
+      "start": 265,
+      "end": 265.18285714285713,
+      "loop": false
+    },
+    "slotChest": {
+      "start": 267,
+      "end": 268.69795918367345,
+      "loop": false
+    },
+    "slotCoin1": {
+      "start": 270,
+      "end": 273.10857142857145,
+      "loop": false
+    },
+    "slotCoin2": {
+      "start": 275,
+      "end": 278.99673469387756,
+      "loop": false
+    },
+    "slotCoin3": {
+      "start": 280,
+      "end": 282.5077551020408,
+      "loop": false
+    },
+    "slotDiamond": {
+      "start": 284,
+      "end": 286.79510204081635,
+      "loop": false
+    },
+    "slotEnergy": {
+      "start": 288,
+      "end": 290.76897959183674,
+      "loop": false
+    },
+    "slotSeed": {
+      "start": 292,
+      "end": 294.79510204081635,
+      "loop": false
+    },
+    "slotShake": {
+      "start": 296,
+      "end": 296.9142857142857,
+      "loop": false
+    },
+    "slotSpin": {
+      "start": 298,
+      "end": 300.06367346938777,
+      "loop": false
+    },
+    "slotStopSpin1": {
+      "start": 302,
+      "end": 302.2873469387755,
+      "loop": false
+    },
+    "slotStopSpin2": {
+      "start": 304,
+      "end": 304.3395918367347,
+      "loop": false
+    },
+    "snowman1": {
+      "start": 306,
+      "end": 306.4179591836735,
+      "loop": false
+    },
+    "snowman2": {
+      "start": 308,
+      "end": 308.4179591836735,
+      "loop": false
+    },
+    "taskClaimReward": {
+      "start": 310,
+      "end": 313.36979591836734,
+      "loop": false
+    },
+    "taskCompleteAim": {
+      "start": 315,
+      "end": 315.7575510204082,
+      "loop": false
+    },
+    "taskLandsClose": {
+      "start": 317,
+      "end": 319.1159183673469,
+      "loop": false
+    },
+    "test": {
+      "start": 321,
+      "end": 321.24,
+      "loop": false
+    },
+    "turtle1": {
+      "start": 323,
+      "end": 323.36571428571426,
+      "loop": false
+    },
+    "turtle2": {
+      "start": 325,
+      "end": 325.3134693877551,
+      "loop": false
+    },
+    "unicorn1": {
+      "start": 327,
+      "end": 327.6008163265306,
+      "loop": false
+    },
+    "unicorn2": {
+      "start": 329,
+      "end": 329.6008163265306,
+      "loop": false
+    },
+    "unitsHarvestUnitLast": {
+      "start": 331,
+      "end": 331.23510204081634,
+      "loop": false
+    },
+    "upgradesBuy": {
+      "start": 333,
+      "end": 333.130612244898,
+      "loop": false
+    },
+    "upgradesBuy1": {
+      "start": 335,
+      "end": 335.130612244898,
+      "loop": false
+    },
+    "upgradesBuy2": {
+      "start": 337,
+      "end": 337.130612244898,
+      "loop": false
+    },
+    "upgradesBuyMulti": {
+      "start": 339,
+      "end": 339.10448979591837,
+      "loop": false
+    },
+    "upgradesBuyRange": {
+      "start": 341,
+      "end": 344.39591836734695,
+      "loop": false
+    },
+    "whoosh": {
+      "start": 346,
+      "end": 346.4440816326531,
+      "loop": false
+    },
+    "whooshCloudOpen2": {
+      "start": 348,
+      "end": 349.43673469387755,
+      "loop": false
+    },
+    "whooshre": {
+      "start": 351,
+      "end": 351.3134693877551,
+      "loop": false
+    },
+    "zebra1": {
+      "start": 353,
+      "end": 353.2873469387755,
+      "loop": false
+    },
+    "zebra2": {
+      "start": 355,
+      "end": 355.3395918367347,
+      "loop": false
+    }
+  }
+}

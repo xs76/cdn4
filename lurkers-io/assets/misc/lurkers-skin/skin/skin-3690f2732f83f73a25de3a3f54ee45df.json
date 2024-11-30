@@ -1,0 +1,291 @@
+{
+  com.badlogic.gdx.graphics.g2d.BitmapFont: {
+    default: { file: fntsml.fnt, markupEnabled: true }
+    //    04b25-16: { file: 04b25-16.fnt, markupEnabled: true }
+    Born2bSportyFS-16: { file: Born2bSportyFS-16.fnt, markupEnabled: true }
+//    DigitalDisco-16: { file: DigitalDisco-16.fnt, markupEnabled: true }
+//    EditUndoBRK-16: { file: EditUndoBRK-16.fnt, markupEnabled: true }
+//    FandaBlack-12: { file: Fanda-Black-12.fnt, markupEnabled: true }
+//    Superstar-16: { file: Superstar-16.fnt, markupEnabled: true }
+//    UpheavalPro-Regular-16: { file: UpheavalPro-Regular-16.fnt, markupEnabled: true }
+    big: Born2bSportyFS-16
+  },
+
+  com.badlogic.gdx.graphics.Color: {
+    white: { r: 1, g: 1, b: 1, a: 1 },
+    gray: { r: 0.5, g: 0.5, b: 0.5, a: 1 },
+    black: { r: 0, g: 0, b: 0, a: 1 },
+    green: { r: 0.6, g: 0.7, b: 0.3, a: 1 },
+    yellow: { r: 0.9, g: 0.8, b: 0, a: 1 },
+    red: { r: 0.9, g: 0.3, b: 0.3, a: 1 },
+
+    up: { r: 0.8, g: 0.8, b: 0.8, a: 1 },
+    over: { r: 1, g: 1, b: 1, a: 1 },
+    down: { r: 0.7, g: 0.7, b: 0.7, a: 1 },
+    checked: { r: 1, g: 1, b: 1, a: 1 },
+    checkedOver: { r: 0.7, g: 0.7, b: 0.7, a: 1 },
+    disabled: { r: 0.5, g: 0.5, b: 0.5, a: 1 },
+    background: { r: 0.8, g: 0.8, b: 0.8, a: 1 },
+    glass: { r: 1, g: 1, b: 1, a: 0.7 },
+    selection: { r: 0, g: 0.3, b: 0.5, a: 1 },
+    semiTransparent: { r: 0, g: 0, b: 0, a: 0.6 },
+    darkBgColor: { hex: 11131dff },
+    barelyVisibleBlack: { r: 0, g: 0, b: 0, a: 0.3 },
+    barelyVisibleGray: { r: 0.3, g: 0.3, b: 0.3, a: 0.3 },
+    mainMenuBackground: { hex: 121212e0 },
+    sidebar: { hex: 121212e0 },
+    brighter: { r: 1, g: 1, b: 1, a: 0.05 },
+    brighter05: { r: 1, g: 1, b: 1, a: 0.5 },
+    brighter01: { r: 1, g: 1, b: 1, a: 0.1 },
+    dark: { r: 0.05, g: 0.05, b: 0.055, a: 0.93 },
+    invisible: { r: 0, g: 0, b: 0, a: 0 },
+    debug: { r: 1, g: 0, b: 1, a: 1 },
+
+    font: white
+    fontOver: white
+    fontDown: gray
+    fontChecked: checkedOver
+    fontCheckedOver: checked
+    fontDisabled: gray
+
+    selected: white
+    unselected: gray
+  },
+
+  com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+    base: { name: skins/lurkers-skin/raw/base, color: white },
+    well: { name: skins/lurkers-skin/raw/well, color: white },
+    outline: { name: skins/lurkers-skin/raw/outline, color: white },
+    outlineDark: { name: skins/lurkers-skin/raw/outlineDark, color: white },
+
+    buttonUpWhite: { name: skins/lurkers-skin/raw/base-white, color: up },
+    buttonOverWhite: { name: skins/lurkers-skin/raw/base-white, color: over },
+    buttonDownWhite: { name: skins/lurkers-skin/raw/base-press-white, color: down },
+    buttonUp: { name: skins/lurkers-skin/raw/base, color: up },
+    buttonOver: { name: skins/lurkers-skin/raw/base, color: over },
+    buttonDown: { name: skins/lurkers-skin/raw/base-press, color: down },
+    buttonDisabled: { name: skins/lurkers-skin/raw/base, color: disabled },
+    buttonChecked: { name: skins/lurkers-skin/raw/base, color: checked },
+    buttonCheckedOver: { name: skins/lurkers-skin/raw/base, color: checkedOver },
+    checkBoxOn: { name: skins/lurkers-skin/raw/check-on, color: up },
+    checkBoxOff: { name: skins/lurkers-skin/raw/check-off, color: up },
+    checkBoxOver: { name: skins/lurkers-skin/raw/check-off, color: over },
+    checkBoxOnDisabled: { name: skins/lurkers-skin/raw/check-on, color: disabled },
+    checkBoxOffDisabled: { name: skins/lurkers-skin/raw/check-off, color: disabled },
+    checkBoxGreenOnDisabled: { name: skins/lurkers-skin/raw/check-on-green, color: disabled },
+    checkBoxGreenOffDisabled: { name: skins/lurkers-skin/raw/check-off, color: white },
+//    checkBoxSquare: { name: check-square, color: up },
+//    checkBoxSquareDisabled: { name: check-square, color: disabled },
+//    radioOn: { name: radio-on, color: up },
+//    radioOff: { name: radio-off, color: up },
+//    radioOver: { name: radio-off, color: over },
+//    radioOnDisabled: { name: radio-on, color: disabled },
+//    radioOffDisabled: { name: radio-off, color: disabled },
+    cross: { name: skins/lurkers-skin/raw/icons/x, color: font },
+    muted: { name: skins/lurkers-skin/raw/icons/muted, color: font },
+    selection: { name: skins/lurkers-skin/raw/dot, color: selection },
+//    underlineSelection: { name: underline, color: selection },
+//    list: { name: outline-press, color: background },
+//    progressHorizontal: { name: progress, color: up },
+    progressHorizontalKnobBefore: { name: skins/lurkers-skin/raw/progress-horizontal, color: yellow },
+    progressHorizontalKnobAfter: { name: skins/lurkers-skin/raw/progress-horizontal, color: black },
+    progressHorizontalKnobBeforeHealthbar: { name: skins/lurkers-skin/raw/progress-horizontal, color: green },
+    progressHorizontalKnobAfterHealthbar: { name: skins/lurkers-skin/raw/progress-horizontal, color: darkBgColor },
+  //    progressHorizontalKnob: { name: progress-on, color: down },
+//    progressHorizontalDisabled: { name: progress, color: disabled },
+//    progressHorizontalKnobDisabled: { name: progress-on, color: disabled },
+//    progressVertical: { name: progress-v, color: up },
+//    progressVerticalKnob: { name: progress-v-on, color: down },
+//    progressVerticalDisabled: { name: progress-v, color: disabled },
+//    progressVerticalKnobDisabled: { name: progress-v-on, color: disabled },
+    scrollHorizontal: { name: skins/lurkers-skin/raw/rounded-small, color: brighter01 },
+    scrollVertical: { name: skins/lurkers-skin/raw/rounded-small, color: brighter01 },
+    scrollPane: { name: skins/lurkers-skin/raw/dot, color: semiTransparent },
+//    scrollHorizontal: { name: scroll, color: up },
+//    scrollVertical: { name: scroll-v, color: up },
+//    scrollPane: { name: outline-press, color: background },
+//    selectBox: { name: select, color: up },
+//    selectOver: { name: select, color: over },
+//    selectDown: { name: select-press, color: up },
+//    selectDisabled: { name: select, color: disabled },
+//    selectList: { name: select-list, color: up },
+//    splitPane: { name: square, color: down },
+    sliderHorizontal: { name: outline, color: up },
+    sliderKnob: { name: base, color: up },
+    sliderKnobOver: { name: base, color: over },
+    sliderKnobDown: { name: base, color: down },
+    sliderKnobDisabled: { name: base, color: disabled },
+    sliderBefore: { name: base, color: white },
+    sliderAfter: { name: base, color: gray },
+//    sliderVertical: { name: slider-v, color: up },
+//    sliderVerticalKnob: { name: check-square, color: up },
+//    sliderVerticalKnobOver: { name: check-square, color: over },
+//    sliderVerticalKnobDown: { name: check-square, color: down },
+//    sliderVerticalKnobDisabled: { name: check-square, color: disabled },
+    textField: { name: skins/lurkers-skin/raw/field, color: up },
+    textFieldDown: { name: skins/lurkers-skin/raw/field, color: background },
+    textFieldDisabled: { name: skins/lurkers-skin/raw/field, color: disabled },
+    textFieldCursor: { name: skins/lurkers-skin/raw/cursor, color: font },
+    tooltip: { name: skins/lurkers-skin/raw/rounded, color: dark },
+    roundedSmall: { name: skins/lurkers-skin/raw/rounded-small, color: white },
+    touchpad: { name: skins/lurkers-skin/raw/circle-hollow-64x64, color: brighter05 },
+    touchpadKnob: { name: skins/lurkers-skin/raw/circle_48x48, color: brighter05 },
+    mobileCircle: { name: skins/lurkers-skin/raw/circle_48x48, color: brighter05 },
+    tree: { name: skins/lurkers-skin/raw/base, color: background },
+    treeOver: { name: skins/lurkers-skin/raw/dot, color: over },
+    treeMinus: { name: skins/lurkers-skin/raw/base, color: red },
+    treePlus: { name: skins/lurkers-skin/raw/base, color: green },
+    window: { name: skins/lurkers-skin/raw/window, color: background },
+    window-glass: { name: skins/lurkers-skin/raw/window, color: glass },
+    window-no-title: { name: skins/lurkers-skin/raw/window-no-title, color: background },
+    window-no-title-glass: { name: skins/lurkers-skin/raw/window-no-title, color: glass },
+    alpha: { name: skins/lurkers-skin/raw/dot, color: semiTransparent },
+    alphaRounded: { name: skins/lurkers-skin/raw/rounded, color: semiTransparent },
+    testDarkBg: { name: skins/lurkers-skin/raw/rounded-small, color: darkBgColor },
+    alphaRoundedSmall: { name: skins/lurkers-skin/raw/rounded-small, color: semiTransparent },
+    alphaRoundedSmallWhite: { name: skins/lurkers-skin/raw/rounded-small, color: brighter01 },
+    alphaRoundedSmallBarelyVisible: { name: skins/lurkers-skin/raw/rounded-small, color: barelyVisibleBlack },
+    alphaRoundedSmallGray: { name: skins/lurkers-skin/raw/rounded-small, color: barelyVisibleGray },
+    alphaRoundedInverted: { name: skins/lurkers-skin/raw/rounded-small, color: brighter05 },
+    mainMenuBackground: { name: skins/lurkers-skin/raw/dot, color: mainMenuBackground },
+    sidebar: { name: skins/lurkers-skin/raw/dot, color: sidebar },
+    brighter: { name: skins/lurkers-skin/raw/dot, color: brighter },
+    debug: { name: skins/lurkers-skin/raw/dot, color: debug },
+    invisible: { name: skins/lurkers-skin/raw/dot, color: invisible },
+    key: { name: skins/lurkers-skin/raw/key, color: white },
+    keyDark: { name: skins/lurkers-skin/raw/key_dark, color: white },
+    square-box: { name: skins/lurkers-skin/raw/square-box, color: white },
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+    default: { up: buttonUp, over: buttonOver, down: buttonDown, disabled: buttonDisabled },
+    toggle: { up: buttonUp, over: buttonOver, down: buttonDown, checked: buttonChecked, checkedOver: buttonCheckedOver, disabled: buttonDisabled },
+    well: { up: well, over: well, down: well, disabled: well, checked: well }
+    alpha: { up: alpha, over: alpha, down: alpha, disabled: alpha, checked: alpha }
+    tooltip: { up: tooltip, over: tooltip, down: tooltip, disabled: tooltip, checked: tooltip }
+    outline: { up: outline, over: outline, down: outline, disabled: outline }
+    invisible: { up: invisible, over: invisible, down: invisible, disabled: invisible }
+    hoverOnly: { up: invisible, over: buttonOver, down: buttonDown, disabled: buttonDisabled },
+    mobileCirce: { up: mobileCircle, over: mobileCircle, down: mobileCircle, disabled: mobileCircle },
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle: {
+    default: { checkboxOn: checkBoxOn, checkboxOff: checkBoxOff, checkboxOver: checkBoxOver, checkboxOnDisabled: checkBoxOnDisabled,
+      checkboxOffDisabled: checkBoxOffDisabled, font: default, fontColor: up, overFontColor: fontOver, downFontColor: fontDown,
+      checkedFontColor: fontChecked, checkedOverFontColor: fontCheckedOver, disabledFontColor: fontDisabled, pressedOffsetY: -1, pressedOffsetX: 1 },
+    green: { checkboxOn: checkBoxOn, checkboxOff: checkBoxOff, checkboxOver: checkBoxOver, checkboxOnDisabled: checkBoxGreenOnDisabled,
+      checkboxOffDisabled: checkBoxGreenOffDisabled, font: default, fontColor: white,
+      checkedFontColor: gray, pressedOffsetY: -1, pressedOffsetX: 1 }/*,
+    square: { checkboxOn: checkBoxSquare, checkboxOff: checkBoxOff, checkboxOver: checkBoxOver, checkboxOnDisabled: checkBoxSquareDisabled,
+      checkboxOffDisabled: checkBoxOffDisabled, font: default, fontColor: font, overFontColor: fontOver, downFontColor: fontDown,
+      checkedFontColor: fontChecked, checkedOverFontColor: fontCheckedOver, disabledFontColor: fontDisabled, pressedOffsetY: -1, pressedOffsetX: 1 },
+    radio: { checkboxOn: radioOn, checkboxOff: radioOff, checkboxOver: radioOver, checkboxOnDisabled: radioOnDisabled,
+      checkboxOffDisabled: radioOffDisabled, font: default, fontColor: font, overFontColor: fontOver, downFontColor: fontDown,
+      checkedFontColor: fontChecked, checkedOverFontColor: fontCheckedOver, disabledFontColor: fontDisabled, pressedOffsetY: -1, pressedOffsetX: 1 }*/
+  },
+//  com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+//    default: { up: buttonUp, over: buttonOver, down: buttonDown, disabled: buttonDisabled, imageUp: cross }
+//  },
+  com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton$ImageTextButtonStyle: {
+    default: { up: buttonUp, over: buttonOver, down: buttonDown, disabled: buttonDisabled, font: default, fontColor: font,
+      overFontColor: fontOver, downFontColor: fontDown, disabledFontColor: fontDisabled, imageUp: cross },
+    big: { up: buttonUp, over: buttonOver, down: buttonDown, disabled: buttonDisabled, font: big, fontColor: font,
+      overFontColor: fontOver, downFontColor: fontDown, disabledFontColor: fontDisabled, imageUp: cross },
+    well: { up: well, over: well, down: well, disabled: well, font: default, fontColor: font,
+      overFontColor: fontOver, downFontColor: fontDown, disabledFontColor: fontDisabled}
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+    default: { font: default, fontColor: font },
+    white: { font: default, fontColor: white },
+    black-background: { font: default, fontColor: white, background: alpha },
+    black-background-rounded: { font: default, fontColor: white, background: alphaRounded },
+    black-background-rounded-small: { font: default, fontColor: white, background: alphaRoundedSmall },
+    big: { font: big, fontColor: white },
+    outline: { font: default, fontColor: white, background: outline },
+    key-style: { font: default, fontColor: white, background: key },
+  },
+//  com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle: {
+//    default: { fontColorUnselected: font, selection: selection, fontColorSelected: fontDown, font: default },
+//    underline: { fontColorUnselected: font, selection: underlineSelection, fontColorSelected: fontDown, font: default },
+//    background: { background: list, fontColorUnselected: font, selection: selection, fontColorSelected: fontDown, font: default }
+//  },
+  com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle: {
+    default-horizontal: { knobBefore: progressHorizontalKnobBefore, knobAfter: progressHorizontalKnobAfter },
+    healthbar-horizontal: { background: square-box, knobBefore: progressHorizontalKnobBeforeHealthbar, knobAfter: progressHorizontalKnobAfterHealthbar }
+//      disabledBackground: progressHorizontalDisabled, disabledKnobBefore: progressHorizontalKnobDisabled },
+//    default-vertical: { background: progressVertical, knobBefore: progressVerticalKnob,
+//      disabledBackground: progressVerticalDisabled, disabledKnobBefore: progressVerticalKnobDisabled }
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
+    default: { hScrollKnob: scrollHorizontal, vScrollKnob: scrollVertical },
+    background: { background: scrollPane, hScrollKnob: scrollHorizontal, vScrollKnob: scrollVertical }
+  },
+//  com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle: {
+//    default: { font: default, fontColor: font, disabledFontColor: fontDisabled, background: selectBox, backgroundOver: selectOver,
+//      backgroundOpen: selectDown, backgroundDisabled: selectDisabled, scrollStyle: default, listStyle:
+//      	{ background: selectList, fontColorUnselected: font, selection: selection, fontColorSelected: fontDown, font: default }
+//      }
+//  },
+  com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+    default-horizontal: {
+      background: sliderHorizontal,
+      knob: sliderKnob,
+      knobOver: sliderKnobOver,
+      knobDown: sliderKnobDown,
+      disabledKnob: sliderKnobDisabled,
+      knobBefore: sliderBefore,
+      knobBeforeDown: sliderBefore,
+      knobBeforeOver: sliderBefore,
+      knobAfterDown: sliderAfter,
+      knobAfterOver: sliderAfter,
+      knobAfter: sliderAfter,
+      disabledKnobAfter: sliderAfter
+    },
+//    default-vertical: { background: sliderVertical, knob: sliderVerticalKnob, knobOver: sliderVerticalKnobOver,
+//      knobDown: sliderVerticalKnobDown,	disabledKnob: sliderVerticalKnobDisabled }
+  },
+//  com.badlogic.gdx.scenes.scene2d.ui.SplitPane$SplitPaneStyle: {
+//    default-vertical: { handle: splitPane },
+//    default-horizontal: { handle: splitPane }
+//  },
+  com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+    default: { up: buttonUp, over: buttonOver, down: buttonDown, disabled: buttonDisabled, font: default, fontColor: font
+      overFontColor: fontOver, downFontColor: fontDown, disabledFontColor: fontDisabled },
+    big: { up: buttonUp, over: buttonOver, down: buttonDown, disabled: buttonDisabled, font: big, fontColor: font
+      overFontColor: fontOver, downFontColor: fontDown, disabledFontColor: fontDisabled },
+    defaultWhite: { up: buttonUpWhite, over: buttonOverWhite, down: buttonDownWhite, disabled: buttonDisabled, font: default, fontColor: font
+      overFontColor: fontOver, downFontColor: fontDown, disabledFontColor: fontDisabled },
+    toggle: { up: buttonUp, over: buttonOver, down: buttonDown, checked: buttonChecked, checkedOver: buttonCheckedOver,
+      disabled: buttonDisabled, font: default, fontColor: font, overFontColor: fontOver, downFontColor: fontDown, disabledFontColor:
+      fontDisabled, checkedFontColor: fontChecked, checkedOverFontColor: fontCheckedOver },
+    text: { font: default, fontColor: up, overFontColor: over, downFontColor: down, disabledFontColor: disabled },
+    textToggle: { font: default, fontColor: up, overFontColor: over, downFontColor: down, disabledFontColor:
+      disabled, checkedFontColor: font, checkedOverFontColor: fontOver
+    }
+    unselected: { up: buttonDown, over: buttonOver, down: buttonOver, disabled: buttonDisabled, font: default, fontColor: fontDown
+      overFontColor: fontOver, downFontColor: fontDown, disabledFontColor: fontDisabled },
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
+    default: { font: default, messageFont: default, fontColor: font, focusedFontColor: fontOver, disabledFontColor: fontDisabled
+      messageFontColor: fontDown, background: base, focusedBackground: outline, disabledBackground: textFieldDisabled,
+      cursor: textFieldCursor, selection: selection
+    }
+    invisible: { font: default, messageFont: default, fontColor: font, focusedFontColor: fontOver, disabledFontColor: fontDisabled
+      messageFontColor: fontDown, background: invisible, focusedBackground: alpha, disabledBackground: invisible,
+      cursor: textFieldCursor, selection: selection
+    }
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+    default: { label: default, background: tooltip }
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.Touchpad$TouchpadStyle: {
+    default: { background: touchpad, knob: touchpadKnob }
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.Tree$TreeStyle: {
+    default: { minus: treeMinus, plus: treePlus, selection: selection, over: treeOver },
+//    background: { background: tree, minus: treeMinus, plus: treePlus, selection: selection, over: treeOver }
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+    default: { titleFont: default, background: window, titleFontColor: font },
+    glass: { titleFont: default, background: window-glass, titleFontColor: font },
+//    dialog: { titleFont: default, background: window, titleFontColor: fontDisabled, stageBackground: alpha }
+  }
+}

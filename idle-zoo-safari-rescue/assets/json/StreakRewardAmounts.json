@@ -1,0 +1,17 @@
+{
+  "TimeSkip": {
+    "Small": 2,
+    "Medium": 6,
+    "Big": 16
+  },
+  "Gem": {
+    "Small": 4,
+    "Medium": 10,
+    "Big": 20
+  },
+  "SafariBall": {
+    "Small": 1,
+    "Medium": 2,
+    "Big": 3
+  }
+}

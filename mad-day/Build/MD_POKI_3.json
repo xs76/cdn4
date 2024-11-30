@@ -1,0 +1,12 @@
+{
+"companyName": "Smokoko",
+"productName": "Mad Day",
+"dataUrl": "MD_POKI_3.data.unityweb",
+"wasmCodeUrl": "MD_POKI_3.wasm.code.unityweb",
+"wasmFrameworkUrl": "MD_POKI_3.wasm.framework.unityweb",
+"TOTAL_MEMORY": 335544320,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

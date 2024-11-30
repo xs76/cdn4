@@ -1,0 +1,1424 @@
+{
+	"frames": {
+		"plotCarrotCarrot": {
+			"frame": {
+				"x": 211,
+				"y": 134,
+				"w": 27,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 27,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 27,
+				"h": 57
+			}
+		},
+		"plotCarrotEmitter": {
+			"frame": {
+				"x": 202,
+				"y": 491,
+				"w": 27,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 27,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 27,
+				"h": 57
+			}
+		},
+		"plotCarrotGround": {
+			"frame": {
+				"x": 1,
+				"y": 774,
+				"w": 168,
+				"h": 96
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 168,
+				"h": 96
+			},
+			"sourceSize": {
+				"w": 168,
+				"h": 96
+			}
+		},
+		"plotCarrotGroundB": {
+			"frame": {
+				"x": 1,
+				"y": 538,
+				"w": 188,
+				"h": 116
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 188,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 188,
+				"h": 116
+			}
+		},
+		"plotCowCow": {
+			"frame": {
+				"x": 140,
+				"y": 1336,
+				"w": 103,
+				"h": 84
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 103,
+				"h": 84
+			},
+			"sourceSize": {
+				"w": 103,
+				"h": 84
+			}
+		},
+		"plotCowEmitter": {
+			"frame": {
+				"x": 140,
+				"y": 1422,
+				"w": 103,
+				"h": 76
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 103,
+				"h": 76
+			},
+			"sourceSize": {
+				"w": 103,
+				"h": 76
+			}
+		},
+		"plotCowFence": {
+			"frame": {
+				"x": 1,
+				"y": 404,
+				"w": 199,
+				"h": 132
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 199,
+				"h": 132
+			},
+			"sourceSize": {
+				"w": 199,
+				"h": 132
+			}
+		},
+		"plotCowGround": {
+			"frame": {
+				"x": 1,
+				"y": 1166,
+				"w": 137,
+				"h": 80
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 137,
+				"h": 80
+			},
+			"sourceSize": {
+				"w": 137,
+				"h": 80
+			}
+		},
+		"plotCowGroundB": {
+			"frame": {
+				"x": 1,
+				"y": 538,
+				"w": 188,
+				"h": 116
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 188,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 188,
+				"h": 116
+			}
+		},
+		"plotDonkeyDonkey": {
+			"frame": {
+				"x": 99,
+				"y": 1500,
+				"w": 94,
+				"h": 105
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 94,
+				"h": 105
+			},
+			"sourceSize": {
+				"w": 94,
+				"h": 105
+			}
+		},
+		"plotDonkeyEmitter": {
+			"frame": {
+				"x": 1,
+				"y": 1602,
+				"w": 92,
+				"h": 96
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 92,
+				"h": 96
+			},
+			"sourceSize": {
+				"w": 92,
+				"h": 96
+			}
+		},
+		"plotDonkeyFence": {
+			"frame": {
+				"x": 1,
+				"y": 135,
+				"w": 205,
+				"h": 133
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 205,
+				"h": 133
+			},
+			"sourceSize": {
+				"w": 205,
+				"h": 133
+			}
+		},
+		"plotDonkeyGround": {
+			"frame": {
+				"x": 1,
+				"y": 1248,
+				"w": 137,
+				"h": 80
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 137,
+				"h": 80
+			},
+			"sourceSize": {
+				"w": 137,
+				"h": 80
+			}
+		},
+		"plotDonkeyGroundB": {
+			"frame": {
+				"x": 1,
+				"y": 538,
+				"w": 188,
+				"h": 116
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 188,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 188,
+				"h": 116
+			}
+		},
+		"plotEggplantEggplant": {
+			"frame": {
+				"x": 191,
+				"y": 568,
+				"w": 58,
+				"h": 72
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 58,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 58,
+				"h": 72
+			}
+		},
+		"plotEggplantEmitter": {
+			"frame": {
+				"x": 191,
+				"y": 646,
+				"w": 57,
+				"h": 72
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 72
+			}
+		},
+		"plotEggplantGround": {
+			"frame": {
+				"x": 1,
+				"y": 872,
+				"w": 168,
+				"h": 96
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 168,
+				"h": 96
+			},
+			"sourceSize": {
+				"w": 168,
+				"h": 96
+			}
+		},
+		"plotEggplantGroundB": {
+			"frame": {
+				"x": 1,
+				"y": 538,
+				"w": 188,
+				"h": 116
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 188,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 188,
+				"h": 116
+			}
+		},
+		"plotPigEmitter": {
+			"frame": {
+				"x": 171,
+				"y": 925,
+				"w": 70,
+				"h": 66
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 70,
+				"h": 66
+			},
+			"sourceSize": {
+				"w": 70,
+				"h": 66
+			}
+		},
+		"plotPigFence": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 208,
+				"h": 132
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 208,
+				"h": 132
+			},
+			"sourceSize": {
+				"w": 208,
+				"h": 132
+			}
+		},
+		"plotPigGround": {
+			"frame": {
+				"x": 1,
+				"y": 1330,
+				"w": 137,
+				"h": 80
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 137,
+				"h": 80
+			},
+			"sourceSize": {
+				"w": 137,
+				"h": 80
+			}
+		},
+		"plotPigGroundB": {
+			"frame": {
+				"x": 1,
+				"y": 538,
+				"w": 188,
+				"h": 116
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 188,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 188,
+				"h": 116
+			}
+		},
+		"plotPigPig": {
+			"frame": {
+				"x": 171,
+				"y": 781,
+				"w": 79,
+				"h": 76
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 79,
+				"h": 76
+			},
+			"sourceSize": {
+				"w": 79,
+				"h": 76
+			}
+		},
+		"plotPumpkinEmitter": {
+			"frame": {
+				"x": 204,
+				"y": 298,
+				"w": 51,
+				"h": 48
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 51,
+				"h": 48
+			},
+			"sourceSize": {
+				"w": 51,
+				"h": 48
+			}
+		},
+		"plotPumpkinGround": {
+			"frame": {
+				"x": 1,
+				"y": 774,
+				"w": 168,
+				"h": 96
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 168,
+				"h": 96
+			},
+			"sourceSize": {
+				"w": 168,
+				"h": 96
+			}
+		},
+		"plotPumpkinGroundB": {
+			"frame": {
+				"x": 1,
+				"y": 538,
+				"w": 188,
+				"h": 116
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 188,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 188,
+				"h": 116
+			}
+		},
+		"plotPumpkinPumpkin": {
+			"frame": {
+				"x": 204,
+				"y": 348,
+				"w": 51,
+				"h": 48
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 51,
+				"h": 48
+			},
+			"sourceSize": {
+				"w": 51,
+				"h": 48
+			}
+		},
+		"plotSheepEmitter": {
+			"frame": {
+				"x": 171,
+				"y": 859,
+				"w": 78,
+				"h": 64
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 78,
+				"h": 64
+			},
+			"sourceSize": {
+				"w": 78,
+				"h": 64
+			}
+		},
+		"plotSheepFence": {
+			"frame": {
+				"x": 1,
+				"y": 270,
+				"w": 201,
+				"h": 132
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 201,
+				"h": 132
+			},
+			"sourceSize": {
+				"w": 201,
+				"h": 132
+			}
+		},
+		"plotSheepGround": {
+			"frame": {
+				"x": 1,
+				"y": 1412,
+				"w": 137,
+				"h": 80
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 137,
+				"h": 80
+			},
+			"sourceSize": {
+				"w": 137,
+				"h": 80
+			}
+		},
+		"plotSheepGroundB": {
+			"frame": {
+				"x": 1,
+				"y": 656,
+				"w": 188,
+				"h": 116
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 188,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 188,
+				"h": 116
+			}
+		},
+		"plotSheepSheep": {
+			"frame": {
+				"x": 95,
+				"y": 1607,
+				"w": 87,
+				"h": 72
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 87,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 87,
+				"h": 72
+			}
+		},
+		"plotStarStar": {
+			"frame": {
+				"x": 243,
+				"y": 48,
+				"w": 12,
+				"h": 12
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 12,
+				"h": 12
+			},
+			"sourceSize": {
+				"w": 12,
+				"h": 12
+			}
+		},
+		"plotStrawberryEmitter": {
+			"frame": {
+				"x": 171,
+				"y": 1019,
+				"w": 69,
+				"h": 59
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 69,
+				"h": 59
+			},
+			"sourceSize": {
+				"w": 69,
+				"h": 59
+			}
+		},
+		"plotStrawberryGround": {
+			"frame": {
+				"x": 1,
+				"y": 970,
+				"w": 168,
+				"h": 96
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 168,
+				"h": 96
+			},
+			"sourceSize": {
+				"w": 168,
+				"h": 96
+			}
+		},
+		"plotStrawberryGroundB": {
+			"frame": {
+				"x": 1,
+				"y": 538,
+				"w": 188,
+				"h": 116
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 188,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 188,
+				"h": 116
+			}
+		},
+		"plotStrawberryStrawberry": {
+			"frame": {
+				"x": 171,
+				"y": 1080,
+				"w": 69,
+				"h": 59
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 69,
+				"h": 59
+			},
+			"sourceSize": {
+				"w": 69,
+				"h": 59
+			}
+		},
+		"plotSunflowerEmitter": {
+			"frame": {
+				"x": 195,
+				"y": 1573,
+				"w": 54,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 54,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 54,
+				"h": 67
+			}
+		},
+		"plotSunflowerGround": {
+			"frame": {
+				"x": 1,
+				"y": 1068,
+				"w": 168,
+				"h": 96
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 168,
+				"h": 96
+			},
+			"sourceSize": {
+				"w": 168,
+				"h": 96
+			}
+		},
+		"plotSunflowerGroundB": {
+			"frame": {
+				"x": 1,
+				"y": 538,
+				"w": 188,
+				"h": 116
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 188,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 188,
+				"h": 116
+			}
+		},
+		"plotSunflowerSunflower": {
+			"frame": {
+				"x": 195,
+				"y": 1500,
+				"w": 54,
+				"h": 71
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 54,
+				"h": 71
+			},
+			"sourceSize": {
+				"w": 54,
+				"h": 71
+			}
+		},
+		"plotUpgradeBar": {
+			"frame": {
+				"x": 169,
+				"y": 1170,
+				"w": 68,
+				"h": 22
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 68,
+				"h": 22
+			},
+			"sourceSize": {
+				"w": 68,
+				"h": 22
+			}
+		},
+		"plotUpgradeBarBg": {
+			"frame": {
+				"x": 169,
+				"y": 1194,
+				"w": 68,
+				"h": 22
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 68,
+				"h": 22
+			},
+			"sourceSize": {
+				"w": 68,
+				"h": 22
+			}
+		},
+		"plotUpgradeBoard": {
+			"frame": {
+				"x": 1,
+				"y": 1494,
+				"w": 96,
+				"h": 106
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 96,
+				"h": 106
+			},
+			"sourceSize": {
+				"w": 96,
+				"h": 106
+			}
+		},
+		"plotUpgradeBoardB": {
+			"frame": {
+				"x": 140,
+				"y": 1218,
+				"w": 106,
+				"h": 116
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 106,
+				"h": 116
+			},
+			"sourceSize": {
+				"w": 106,
+				"h": 116
+			}
+		},
+		"plotUpgradeBorder": {
+			"frame": {
+				"x": 171,
+				"y": 993,
+				"w": 70,
+				"h": 24
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 70,
+				"h": 24
+			},
+			"sourceSize": {
+				"w": 70,
+				"h": 24
+			}
+		},
+		"plotUpgradeButton": {
+			"frame": {
+				"x": 171,
+				"y": 1141,
+				"w": 68,
+				"h": 27
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 68,
+				"h": 27
+			},
+			"sourceSize": {
+				"w": 68,
+				"h": 27
+			}
+		},
+		"plotUpgradeCarrot": {
+			"frame": {
+				"x": 211,
+				"y": 48,
+				"w": 30,
+				"h": 54
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 30,
+				"h": 54
+			},
+			"sourceSize": {
+				"w": 30,
+				"h": 54
+			}
+		},
+		"plotUpgradeCarrotEmitter": {
+			"frame": {
+				"x": 202,
+				"y": 491,
+				"w": 27,
+				"h": 57
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 27,
+				"h": 57
+			},
+			"sourceSize": {
+				"w": 27,
+				"h": 57
+			}
+		},
+		"plotUpgradeCoin": {
+			"frame": {
+				"x": 241,
+				"y": 104,
+				"w": 14,
+				"h": 15
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 14,
+				"h": 15
+			},
+			"sourceSize": {
+				"w": 14,
+				"h": 15
+			}
+		},
+		"plotUpgradeCow": {
+			"frame": {
+				"x": 184,
+				"y": 1642,
+				"w": 65,
+				"h": 49
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 65,
+				"h": 49
+			},
+			"sourceSize": {
+				"w": 65,
+				"h": 49
+			}
+		},
+		"plotUpgradeCowEmitter": {
+			"frame": {
+				"x": 140,
+				"y": 1422,
+				"w": 103,
+				"h": 76
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 103,
+				"h": 76
+			},
+			"sourceSize": {
+				"w": 103,
+				"h": 76
+			}
+		},
+		"plotUpgradeDonkey": {
+			"frame": {
+				"x": 191,
+				"y": 720,
+				"w": 57,
+				"h": 59
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 59
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 59
+			}
+		},
+		"plotUpgradeDonkeyEmitter": {
+			"frame": {
+				"x": 1,
+				"y": 1602,
+				"w": 92,
+				"h": 96
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 92,
+				"h": 96
+			},
+			"sourceSize": {
+				"w": 92,
+				"h": 96
+			}
+		},
+		"plotUpgradeEggplant": {
+			"frame": {
+				"x": 140,
+				"y": 1166,
+				"w": 27,
+				"h": 50
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 27,
+				"h": 50
+			},
+			"sourceSize": {
+				"w": 27,
+				"h": 50
+			}
+		},
+		"plotUpgradeEggplantEmitter": {
+			"frame": {
+				"x": 191,
+				"y": 646,
+				"w": 57,
+				"h": 72
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 57,
+				"h": 72
+			},
+			"sourceSize": {
+				"w": 57,
+				"h": 72
+			}
+		},
+		"plotUpgradePig": {
+			"frame": {
+				"x": 208,
+				"y": 193,
+				"w": 47,
+				"h": 46
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 47,
+				"h": 46
+			},
+			"sourceSize": {
+				"w": 47,
+				"h": 46
+			}
+		},
+		"plotUpgradePigEmitter": {
+			"frame": {
+				"x": 171,
+				"y": 925,
+				"w": 70,
+				"h": 66
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 70,
+				"h": 66
+			},
+			"sourceSize": {
+				"w": 70,
+				"h": 66
+			}
+		},
+		"plotUpgradePumpkin": {
+			"frame": {
+				"x": 204,
+				"y": 398,
+				"w": 50,
+				"h": 46
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 50,
+				"h": 46
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 46
+			}
+		},
+		"plotUpgradePumpkinEmitter": {
+			"frame": {
+				"x": 204,
+				"y": 298,
+				"w": 51,
+				"h": 48
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 51,
+				"h": 48
+			},
+			"sourceSize": {
+				"w": 51,
+				"h": 48
+			}
+		},
+		"plotUpgradeSheep": {
+			"frame": {
+				"x": 202,
+				"y": 446,
+				"w": 52,
+				"h": 43
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 52,
+				"h": 43
+			},
+			"sourceSize": {
+				"w": 52,
+				"h": 43
+			}
+		},
+		"plotUpgradeSheepEmitter": {
+			"frame": {
+				"x": 171,
+				"y": 859,
+				"w": 78,
+				"h": 64
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 78,
+				"h": 64
+			},
+			"sourceSize": {
+				"w": 78,
+				"h": 64
+			}
+		},
+		"plotUpgradeStrawberry": {
+			"frame": {
+				"x": 211,
+				"y": 1,
+				"w": 33,
+				"h": 45
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 33,
+				"h": 45
+			},
+			"sourceSize": {
+				"w": 33,
+				"h": 45
+			}
+		},
+		"plotUpgradeStrawberryEmitter": {
+			"frame": {
+				"x": 171,
+				"y": 1019,
+				"w": 69,
+				"h": 59
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 69,
+				"h": 59
+			},
+			"sourceSize": {
+				"w": 69,
+				"h": 59
+			}
+		},
+		"plotUpgradeSunflower": {
+			"frame": {
+				"x": 208,
+				"y": 241,
+				"w": 46,
+				"h": 55
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 46,
+				"h": 55
+			},
+			"sourceSize": {
+				"w": 46,
+				"h": 55
+			}
+		},
+		"plotUpgradeSunflowerEmitter": {
+			"frame": {
+				"x": 195,
+				"y": 1573,
+				"w": 54,
+				"h": 67
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 54,
+				"h": 67
+			},
+			"sourceSize": {
+				"w": 54,
+				"h": 67
+			}
+		},
+		"plotWidgetBar": {
+			"frame": {
+				"x": 191,
+				"y": 550,
+				"w": 63,
+				"h": 7
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 63,
+				"h": 7
+			},
+			"sourceSize": {
+				"w": 63,
+				"h": 7
+			}
+		},
+		"plotWidgetBg": {
+			"frame": {
+				"x": 191,
+				"y": 559,
+				"w": 63,
+				"h": 7
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 63,
+				"h": 7
+			},
+			"sourceSize": {
+				"w": 63,
+				"h": 7
+			}
+		},
+		"plotWidgetBlink": {
+			"frame": {
+				"x": 191,
+				"y": 642,
+				"w": 58,
+				"h": 2
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 58,
+				"h": 2
+			},
+			"sourceSize": {
+				"w": 58,
+				"h": 2
+			}
+		},
+		"plotWidgetBorder": {
+			"frame": {
+				"x": 95,
+				"y": 1681,
+				"w": 65,
+				"h": 9
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 65,
+				"h": 9
+			},
+			"sourceSize": {
+				"w": 65,
+				"h": 9
+			}
+		},
+		"plotWidgetCoin": {
+			"frame": {
+				"x": 211,
+				"y": 104,
+				"w": 28,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 28,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 28,
+				"h": 28
+			}
+		}
+	}
+}

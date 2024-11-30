@@ -1,0 +1,39 @@
+{
+  "imagesToBlocks": {
+    "map_structures/bunker.png": {
+      "image": "map_structures/bunker.png",
+      "overground": false,
+      "underground": true
+    },
+    "map_structures/bunker_2.png": {
+      "image": "map_structures/bunker_2.png",
+      "overground": false,
+      "underground": true
+    },
+    "map_structures/house.png": {
+      "image": "map_structures/house.png",
+      "overground": true,
+      "underground": false
+    },
+    "map_structures/house_2.png": {
+      "image": "map_structures/house_2.png",
+      "overground": true,
+      "underground": false
+    },
+    "map_structures/house_with_cellar.png": {
+      "image": "map_structures/house_with_cellar.png",
+      "overground": true,
+      "underground": true
+    },
+    "map_structures/lighthouse.png": {
+      "image": "map_structures/lighthouse.png",
+      "overground": true,
+      "underground": false
+    },
+    "map_structures/deep_tunnel.png": {
+      "image": "map_structures/deep_tunnel.png",
+      "overground": false,
+      "underground": true
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+"companyName": "XformGames",
+"productName": "GoKartGoUltra",
+"dataUrl": "GoKartGoUltra.data.unityweb?v=1",
+"wasmCodeUrl": "GoKartGoUltra.wasm.code.unityweb?v=1",
+"wasmFrameworkUrl": "GoKartGoUltra.wasm.framework.unityweb?v=1",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

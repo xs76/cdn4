@@ -1,0 +1,44 @@
+﻿{
+	"frames": {
+		"decorHandcartHandcart0000": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 92,
+				"h": 90
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 92,
+				"h": 90
+			},
+			"sourceSize": {
+				"w": 92,
+				"h": 90
+			}
+		},
+		"decorHandcartHandcart0001": {
+			"frame": {
+				"x": 0,
+				"y": 90,
+				"w": 92,
+				"h": 90
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 92,
+				"h": 90
+			},
+			"sourceSize": {
+				"w": 92,
+				"h": 90
+			}
+		}
+	}
+}

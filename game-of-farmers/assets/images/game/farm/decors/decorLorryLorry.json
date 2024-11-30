@@ -1,0 +1,44 @@
+﻿{
+	"frames": {
+		"decorLorryLorry0000": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 136,
+				"h": 99
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 136,
+				"h": 99
+			},
+			"sourceSize": {
+				"w": 136,
+				"h": 99
+			}
+		},
+		"decorLorryLorry0001": {
+			"frame": {
+				"x": 0,
+				"y": 99,
+				"w": 136,
+				"h": 99
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 136,
+				"h": 99
+			},
+			"sourceSize": {
+				"w": 136,
+				"h": 99
+			}
+		}
+	}
+}
